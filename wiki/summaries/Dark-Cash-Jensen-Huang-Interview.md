@@ -2,7 +2,7 @@
 type: summary
 title: "华尔街砸5万亿押注的'AI革命'，被黄仁勋亲口降级成'高级Excel'？"
 source_files:
-  - raw/psdcasts/华尔街砸5万亿押注的"AI革命"，被黄仁勋亲口降级成"高级Excel"？.md
+  - raw/podcasts/华尔街砸5万亿押注的"AI革命"，被黄仁勋亲口降级成"高级Excel"？.md
 source_type: podcast
 date: 2026-04-20
 tags: [ai, nvidia, jensen-huang, podcast, dark-cash, geopolitics, chips]
