@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776696067892-2tewnaxrh",
+  "providerId": "claude",
+  "title": "你是什么模型",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776696067896,
+  "updatedAt": 1776698063541,
+  "lastResponseAt": 1776698063541,
+  "sessionId": "cbce0a27-fc6e-418e-9ec0-424bc520c48d",
+  "providerState": {
+    "providerSessionId": "cbce0a27-fc6e-418e-9ec0-424bc520c48d"
+  },
+  "usage": {
+    "model": "kimi-k2.5",
+    "inputTokens": 119467,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 119467,
+    "percentage": 60,
+    "contextWindowIsAuthoritative": true
+  }
+}
