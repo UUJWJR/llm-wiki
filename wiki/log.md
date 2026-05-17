@@ -64,3 +64,10 @@
 - Created summaries (reviews): [[summaries/Stranger-Book-Review]], [[summaries/Myth-of-Sisyphus-Book-Review]]
 - Created concepts: [[concepts/Emotional-Labor]], [[concepts/Social-Performance]], [[concepts/Revolt]], [[concepts/Solidarity]]
 - Updated: [[INDEX.md]]
+
+## [2026-05-17] ingest | 茨威格《人类群星闪耀时》+《昨日的世界》拆书指南 + 2篇书评 | 14 pages affected
+- Created summaries (guides): [[summaries/Decisive-Moments-Book-Guide]], [[summaries/World-of-Yesterday-Book-Guide]]
+- Created summaries (reviews): [[summaries/Decisive-Moments-Book-Review]], [[summaries/Plague-Book-Review]]
+- Created concepts: [[concepts/Decisive-Moment]], [[concepts/Single-Point-of-Failure]], [[concepts/Dignity-of-Failure]], [[concepts/Golden-Age-Illusion]], [[concepts/Betrayal-of-Reason]], [[concepts/World-Citizen]], [[concepts/Forgetting-as-Complicity]], [[concepts/Failure-of-Language]]
+- Created entity: [[entities/Stefan-Zweig]]
+- Updated: [[INDEX.md]]

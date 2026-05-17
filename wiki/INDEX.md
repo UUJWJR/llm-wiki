@@ -46,6 +46,10 @@ last_updated: 2026-05-17
 | [[summaries/Plague-Book-Guide\|《鼠疫》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《鼠疫》衍生性拆书指南.md` | 2026-05-17 | book-guide, camus, absurdism, existentialism, disaster, ethics, solidarity |
 | [[summaries/Stranger-Book-Review\|《局外人》：那个在葬礼上没有哭的人]] | `raw/my-notes/book-review/20260517-《局外人》：那个在葬礼上没有哭的人.md` | 2026-05-17 | book-review, camus, absurdism, existentialism, alienation, social-performance, essay |
 | [[summaries/Myth-of-Sisyphus-Book-Review\|《西西弗神话》：当石头滚落之后]] | `raw/my-notes/book-review/20260517-《西西弗神话》：当石头滚落之后.md` | 2026-05-17 | book-review, camus, absurdism, existentialism, philosophy, meaning, essay |
+| [[summaries/Decisive-Moments-Book-Guide\|《人类群星闪耀时》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《人类群星闪耀时》衍生性拆书指南.md` | 2026-05-17 | book-guide, zweig, decisive-moments, history, biography, fate, european-literature |
+| [[summaries/World-of-Yesterday-Book-Guide\|《昨日的世界》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《昨日的世界》衍生性拆书指南.md` | 2026-05-17 | book-guide, zweig, memoir, european-history, world-war, exile, jewish-literature |
+| [[summaries/Decisive-Moments-Book-Review\|那扇被遗忘的门——《人类群星闪耀时》书评]] | `raw/my-notes/book-review/20260517-《人类群星闪耀时》：那扇被遗忘的门.md` | 2026-05-17 | book-review, zweig, decisive-moments, history, fate, essay |
+| [[summaries/Plague-Book-Review\|《鼠疫》：鼠疫从未离开，它只是睡着了]] | `raw/my-notes/book-review/20260517-《鼠疫》：鼠疫从未离开，它只是睡着了.md` | 2026-05-17 | book-review, camus, absurdism, existentialism, plague, disaster, essay |
 
 ---
 
@@ -85,6 +89,14 @@ last_updated: 2026-05-17
 | [[concepts/Social-Performance]] | 社会表演：按照社会剧本生活，还是诚实面对自己？ | high |
 | [[concepts/Revolt]] | 反抗：在明知徒劳的情况下依然行动 | high |
 | [[concepts/Solidarity]] | 团结：在灾难中与他者建立连接 | high |
+| [[concepts/Decisive-Moment]] | 决定性瞬间：历史不是渐进的过程，而是由偶然和意外构成的 | high |
+| [[concepts/Single-Point-of-Failure]] | 单点故障：最微小的疏忽可以导致最巨大的灾难 | high |
+| [[concepts/Dignity-of-Failure]] | 失败的尊严：真正的伟大不在于结果，而在于面对命运时的姿态 | high |
+| [[concepts/Golden-Age-Illusion]] | 黄金年代的幻觉：确信进步、理性、和平、文明的集体幻觉 | high |
+| [[concepts/Betrayal-of-Reason]] | 理性的背叛：当知识分子为狂热服务，文明从内部腐烂 | high |
+| [[concepts/World-Citizen]] | 世界公民：没有祖国、只有欧洲——全球化退潮中的身份困境 | high |
+| [[concepts/Forgetting-as-Complicity]] | 遗忘的共谋：急于忘记战争，为下一次战争铺路 | high |
+| [[concepts/Failure-of-Language]] | 语言的失效：当词语被扭曲，语言成为欺骗的武器 | high |
 
 ---
 
@@ -109,6 +121,7 @@ last_updated: 2026-05-17
 | [[entities/Han-Kang\|Han Kang]] | 韩国作家，2024年诺贝尔文学奖得主，《素食者》作者 |
 | [[entities/Ernest-Hemingway\|Ernest Hemingway]] | 美国作家，1954年诺贝尔文学奖得主，《老人与海》作者 |
 | [[entities/Albert-Camus\|Albert Camus]] | 法国作家、哲学家，1957年诺贝尔文学奖得主，《西西弗神话》作者 |
+| [[entities/Stefan-Zweig\|Stefan Zweig]] | 奥地利作家，欧洲人文主义的最后信徒，《人类群星闪耀时》《昨日的世界》作者 |
 
 ### Companies
 
