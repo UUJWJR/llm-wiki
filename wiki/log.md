@@ -71,3 +71,10 @@
 - Created concepts: [[concepts/Decisive-Moment]], [[concepts/Single-Point-of-Failure]], [[concepts/Dignity-of-Failure]], [[concepts/Golden-Age-Illusion]], [[concepts/Betrayal-of-Reason]], [[concepts/World-Citizen]], [[concepts/Forgetting-as-Complicity]], [[concepts/Failure-of-Language]]
 - Created entity: [[entities/Stefan-Zweig]]
 - Updated: [[INDEX.md]]
+
+## [2026-05-17] ingest | 5本文学拆书指南 + 6篇融合风格书评 | 38 pages affected
+- Created summaries (guides): [[summaries/Brothers-Book-Guide]], [[summaries/Life-of-Pi-Book-Guide]], [[summaries/Birth-of-Tragedy-Book-Guide]], [[summaries/Narrow-Gate-Book-Guide]], [[summaries/Snow-Country-Book-Guide]]
+- Created summaries (reviews): [[summaries/Brothers-Book-Review]], [[summaries/Life-of-Pi-Book-Review]], [[summaries/Birth-of-Tragedy-Book-Review]], [[summaries/One-Hundred-Years-of-Solitude-Book-Review-2]], [[summaries/Narrow-Gate-Book-Review]], [[summaries/Snow-Country-Book-Review]]
+- Created concepts: [[concepts/Violence-as-Justice]], [[concepts/Money-as-Justice]], [[concepts/Body-Commodification]], [[concepts/Story-as-Survival]], [[concepts/Faith-as-Choice]], [[concepts/Comfort-Zone-as-Trap]], [[concepts/Apollonian-Dionysian]], [[concepts/Socratism]], [[concepts/Tragic-Pleasure]], [[concepts/Myth-as-Necessity]], [[concepts/Narrow-Gate]], [[concepts/Sanctity-as-Prison]], [[concepts/Faith-as-Escape]], [[concepts/Mono-no-Aware]], [[concepts/Yugen]], [[concepts/Wabi-Sabi]], [[concepts/Futility-as-Dignity]]
+- Created entities: [[entities/Yann-Martel]], [[entities/Friedrich-Nietzsche]], [[entities/Andre-Gide]], [[entities/Kawabata-Yasunari]]
+- Updated: [[INDEX.md]]

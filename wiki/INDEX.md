@@ -50,6 +50,17 @@ last_updated: 2026-05-17
 | [[summaries/World-of-Yesterday-Book-Guide\|《昨日的世界》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《昨日的世界》衍生性拆书指南.md` | 2026-05-17 | book-guide, zweig, memoir, european-history, world-war, exile, jewish-literature |
 | [[summaries/Decisive-Moments-Book-Review\|那扇被遗忘的门——《人类群星闪耀时》书评]] | `raw/my-notes/book-review/20260517-《人类群星闪耀时》：那扇被遗忘的门.md` | 2026-05-17 | book-review, zweig, decisive-moments, history, fate, essay |
 | [[summaries/Plague-Book-Review\|《鼠疫》：鼠疫从未离开，它只是睡着了]] | `raw/my-notes/book-review/20260517-《鼠疫》：鼠疫从未离开，它只是睡着了.md` | 2026-05-17 | book-review, camus, absurdism, existentialism, plague, disaster, essay |
+| [[summaries/Brothers-Book-Guide\|《兄弟》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《兄弟》衍生性拆书指南.md` | 2026-05-17 | book-guide, yu-hua, brothers, absurdism, violence, body-commodification, chinese-literature |
+| [[summaries/Life-of-Pi-Book-Guide\|《少年派的奇幻漂流》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《少年派的奇幻漂流》衍生性拆书指南.md` | 2026-05-17 | book-guide, martel, life-of-pi, survival, faith, storytelling, magical-realism |
+| [[summaries/Birth-of-Tragedy-Book-Guide\|《悲剧的诞生》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《悲剧的诞生》衍生性拆书指南.md` | 2026-05-17 | book-guide, nietzsche, birth-of-tragedy, apollo-dionysus, music, german-philosophy |
+| [[summaries/Narrow-Gate-Book-Guide\|《窄门》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《窄门》衍生性拆书指南.md` | 2026-05-17 | book-guide, gide, narrow-gate, faith, love, asceticism, french-literature |
+| [[summaries/Snow-Country-Book-Guide\|《雪国》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《雪国》衍生性拆书指南.md` | 2026-05-17 | book-guide, kawabata, snow-country, japanese-aesthetics, mono-no-aware, wabi-sabi |
+| [[summaries/Brothers-Book-Review\|那把钝刀——《兄弟》书评]] | `raw/my-notes/book-review/20260517-《兄弟》：那把钝刀.md` | 2026-05-17 | book-review, yu-hua, brothers, absurdism, violence, essay |
+| [[summaries/Life-of-Pi-Book-Review\|那只我从未驯服的老虎——《少年派的奇幻漂流》书评]] | `raw/my-notes/book-review/20260517-《少年派的奇幻漂流》：那只我从未驯服的老虎.md` | 2026-05-17 | book-review, martel, life-of-pi, survival, faith, essay |
+| [[summaries/Birth-of-Tragedy-Book-Review\|《悲剧的诞生》：在幻象与毁灭之间跳舞]] | `raw/my-notes/book-review/20260517-《悲剧的诞生》：在幻象与毁灭之间跳舞.md` | 2026-05-17 | book-review, nietzsche, birth-of-tragedy, apollo-dionysus, philosophy, essay |
+| [[summaries/One-Hundred-Years-of-Solitude-Book-Review-2\|《百年孤独》：马孔多不是地图上的一个点]] | `raw/my-notes/book-review/20260517-《百年孤独》：马孔多不是地图上的一个点.md` | 2026-05-17 | book-review, garcia-marquez, magical-realism, solitude, cyclical-time, essay |
+| [[summaries/Narrow-Gate-Book-Review\|那扇我推不开的门——《窄门》书评]] | `raw/my-notes/book-review/20260517-《窄门》：那扇我推不开的门.md` | 2026-05-17 | book-review, gide, narrow-gate, faith, love, essay |
+| [[summaries/Snow-Country-Book-Review\|《雪国》：在徒劳中燃烧]] | `raw/my-notes/book-review/20260517-《雪国》：在徒劳中燃烧.md` | 2026-05-17 | book-review, kawabata, snow-country, japanese-aesthetics, mono-no-aware, essay |
 
 ---
 
@@ -97,6 +108,23 @@ last_updated: 2026-05-17
 | [[concepts/World-Citizen]] | 世界公民：没有祖国、只有欧洲——全球化退潮中的身份困境 | high |
 | [[concepts/Forgetting-as-Complicity]] | 遗忘的共谋：急于忘记战争，为下一次战争铺路 | high |
 | [[concepts/Failure-of-Language]] | 语言的失效：当词语被扭曲，语言成为欺骗的武器 | high |
+| [[concepts/Violence-as-Justice]] | 暴力即正义：文革时代的核心逻辑——暴力不是非法的，是合法的 | high |
+| [[concepts/Money-as-Justice]] | 金钱即正义：改革开放时代的核心逻辑——无耻比善良更有价值 | high |
+| [[concepts/Body-Commodification]] | 身体的商品化：身体在市场经济中被异化的终极象征 | high |
+| [[concepts/Story-as-Survival]] | 故事作为生存工具：我们选择相信什么，不是因为它是真的，而是因为需要 | high |
+| [[concepts/Faith-as-Choice]] | 信仰作为选择：相信的能力是生存的关键 | high |
+| [[concepts/Comfort-Zone-as-Trap]] | 舒适区陷阱：那些让我们舒适但正在吞噬我们的东西 | high |
+| [[concepts/Apollonian-Dionysian]] | 日神与酒神：生命的两种姿态——幻象与毁灭 | high |
+| [[concepts/Socratism]] | 苏格拉底主义：理性的暴政——用理解替代感受 | high |
+| [[concepts/Tragic-Pleasure]] | 悲剧快感：在毁灭中体验形而上的狂喜 | high |
+| [[concepts/Myth-as-Necessity]] | 神话作为必要幻象：科学摧毁了神话，但没有提供替代物 | high |
+| [[concepts/Narrow-Gate]] | 窄门：通往上帝的门，还是通往虚无的陷阱？ | high |
+| [[concepts/Sanctity-as-Prison]] | 圣洁作为枷锁：用"高级"来包装逃避，用"独立"来掩饰恐惧 | high |
+| [[concepts/Faith-as-Escape]] | 信仰作为逃避：当信仰保护你的同时，也在隔绝你 | high |
+| [[concepts/Mono-no-Aware]] | 物哀：对事物短暂性的敏感和哀悼 | high |
+| [[concepts/Yugen]] | 幽玄：美在不可理解中显现 | high |
+| [[concepts/Wabi-Sabi]] | 侘寂：在不完美中发现美 | high |
+| [[concepts/Futility-as-Dignity]] | 徒劳作为尊严：燃烧不是为了照亮别人，是为了让自己看见火焰 | high |
 
 ---
 
@@ -122,6 +150,10 @@ last_updated: 2026-05-17
 | [[entities/Ernest-Hemingway\|Ernest Hemingway]] | 美国作家，1954年诺贝尔文学奖得主，《老人与海》作者 |
 | [[entities/Albert-Camus\|Albert Camus]] | 法国作家、哲学家，1957年诺贝尔文学奖得主，《西西弗神话》作者 |
 | [[entities/Stefan-Zweig\|Stefan Zweig]] | 奥地利作家，欧洲人文主义的最后信徒，《人类群星闪耀时》《昨日的世界》作者 |
+| [[entities/Yann-Martel\|Yann Martel]] | 加拿大作家，《少年派的奇幻漂流》作者，2002年布克奖得主 |
+| [[entities/Friedrich-Nietzsche\|Friedrich Nietzsche]] | 德国哲学家，《悲剧的诞生》作者，日神与酒神理论的提出者 |
+| [[entities/Andre-Gide\|André Gide]] | 法国作家，1947年诺贝尔文学奖得主，《窄门》作者 |
+| [[entities/Kawabata-Yasunari\|Kawabata Yasunari]] | 日本作家，1968年诺贝尔文学奖得主，《雪国》作者 |
 
 ### Companies
 
