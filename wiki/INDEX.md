@@ -42,6 +42,10 @@ last_updated: 2026-05-17
 | [[summaries/Seventh-Day-Book-Review\|《第七天》：活着的世界容不下尊严，死去的世界给了最后一处平等]] | `raw/my-notes/book-review/20260517-《第七天》：活着的世界容不下尊严，死去的世界给了最后一处平等.md` | 2026-05-17 | book-review, yu-hua, afterlife, social-critique, inequality, essay |
 | [[summaries/Vegetarian-Book-Review\|《素食者》：她不想做人了，这到底是谁的悲剧]] | `raw/my-notes/book-review/20260517-《素食者》：她不想做人了，这到底是谁的悲剧.md` | 2026-05-17 | book-review, han-kang, feminism, body, violence, madness, essay |
 | [[summaries/Old-Man-and-the-Sea-Book-Review\|《老人与海》：你可以被打败，但不能不被看见]] | `raw/my-notes/book-review/20260517-《老人与海》：你可以被打败，但不能不被看见.md` | 2026-05-17 | book-review, hemingway, solitude, dignity, absurdity, essay |
+| [[summaries/Stranger-Book-Guide\|《局外人》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《局外人》衍生性拆书指南.md` | 2026-05-17 | book-guide, camus, absurdism, existentialism, alienation, social-performance |
+| [[summaries/Plague-Book-Guide\|《鼠疫》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《鼠疫》衍生性拆书指南.md` | 2026-05-17 | book-guide, camus, absurdism, existentialism, disaster, ethics, solidarity |
+| [[summaries/Stranger-Book-Review\|《局外人》：那个在葬礼上没有哭的人]] | `raw/my-notes/book-review/20260517-《局外人》：那个在葬礼上没有哭的人.md` | 2026-05-17 | book-review, camus, absurdism, existentialism, alienation, social-performance, essay |
+| [[summaries/Myth-of-Sisyphus-Book-Review\|《西西弗神话》：当石头滚落之后]] | `raw/my-notes/book-review/20260517-《西西弗神话》：当石头滚落之后.md` | 2026-05-17 | book-review, camus, absurdism, existentialism, philosophy, meaning, essay |
 
 ---
 
@@ -77,6 +81,10 @@ last_updated: 2026-05-17
 | [[concepts/Crowd-Psychology\|Crowd Psychology]] | 群体心理学：群体不是个体的简单相加，而是拥有全新心理特征的有机体 | high |
 | [[concepts/Absurdism\|Absurdism]] | 荒诞主义：荒诞诞生于人与世界的对峙，不是绝望，是清醒 | high |
 | [[concepts/Existentialism\|Existentialism]] | 存在主义：存在先于本质，人通过选择定义自己 | high |
+| [[concepts/Emotional-Labor]] | 情感劳动：社会要求人们在特定场合表演"应有的"情感 | high |
+| [[concepts/Social-Performance]] | 社会表演：按照社会剧本生活，还是诚实面对自己？ | high |
+| [[concepts/Revolt]] | 反抗：在明知徒劳的情况下依然行动 | high |
+| [[concepts/Solidarity]] | 团结：在灾难中与他者建立连接 | high |
 
 ---
 

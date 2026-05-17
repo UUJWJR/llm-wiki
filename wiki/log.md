@@ -58,3 +58,9 @@
 - Created concepts: [[concepts/Crowd-Psychology]], [[concepts/Absurdism]], [[concepts/Existentialism]]
 - Created entities: [[entities/Gustave-Le-Bon]], [[entities/Han-Kang]], [[entities/Ernest-Hemingway]], [[entities/Albert-Camus]]
 - Updated: [[INDEX.md]]
+
+## [2026-05-17] ingest | 《局外人》+《鼠疫》拆书指南 + 2篇书评 | 10 pages affected
+- Created summaries (guides): [[summaries/Stranger-Book-Guide]], [[summaries/Plague-Book-Guide]]
+- Created summaries (reviews): [[summaries/Stranger-Book-Review]], [[summaries/Myth-of-Sisyphus-Book-Review]]
+- Created concepts: [[concepts/Emotional-Labor]], [[concepts/Social-Performance]], [[concepts/Revolt]], [[concepts/Solidarity]]
+- Updated: [[INDEX.md]]
