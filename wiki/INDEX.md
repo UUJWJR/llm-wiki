@@ -28,6 +28,20 @@ last_updated: 2026-05-17
 | [[summaries/Xu-Sanguan-Book-Review\|你的"血"，还能卖几次？——《许三观卖血记》书评]] | `raw/my-notes/book-review/20260516-《许三观卖血记》：你的血还能卖几次.md` | 2026-05-16 | book-review, yu-hua, xu-sanguan, body-capital, essay |
 | [[summaries/Cries-in-the-Drizzle-Book-Review\|不被看见的人——《在细雨中呼喊》书评]] | `raw/my-notes/book-review/20260517-《在细雨中呼喊》：不被看见的人.md` | 2026-05-17 | book-review, yu-hua, cries-in-the-drizzle, loneliness, essay |
 | [[summaries/One-Hundred-Years-of-Solitude-Book-Guide\|《百年孤独》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《百年孤独》衍生性拆书指南.md` | 2026-05-17 | book-guide, garcia-marquez, magical-realism, solitude, cyclical-time, latin-american-literature |
+| [[summaries/Educated-Book-Guide\|《你当像鸟飞向你的山》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《你当像鸟飞向你的山》衍生性拆书指南.md` | 2026-05-17 | book-guide, memoir, education, trauma, gaslighting, family-systems |
+| [[summaries/Educated-Book-Review\|《你当像鸟飞向你的山》：你不必原谅，但必须定义自己]] | `raw/my-notes/book-review/20260517-《你当像鸟飞向你的山》：你不必原谅，但必须定义自己.md` | 2026-05-17 | book-review, memoir, education, trauma, gaslighting, essay |
+| [[summaries/One-Hundred-Years-of-Solitude-Book-Review\|《百年孤独》：我们从未真正看见过彼此]] | `raw/my-notes/book-review/20260517-《百年孤独》：我们从未真正看见过彼此.md` | 2026-05-17 | book-review, magical-realism, solitude, cyclical-time, memory, essay |
+| [[summaries/Crowd-Psychology-Book-Guide\|《乌合之众》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《乌合之众》衍生性拆书指南.md` | 2026-05-17 | book-guide, psychology, crowd-psychology, sociology, propaganda |
+| [[summaries/River-Error-Book-Guide\|《河边的错误》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《河边的错误》衍生性拆书指南.md` | 2026-05-17 | book-guide, yu-hua, absurdism, madness, rationality, justice |
+| [[summaries/Seventh-Day-Book-Guide\|《第七天》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《第七天》衍生性拆书指南.md` | 2026-05-17 | book-guide, yu-hua, afterlife, social-critique, magical-realism, inequality |
+| [[summaries/Vegetarian-Book-Guide\|《素食者》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《素食者》衍生性拆书指南.md` | 2026-05-17 | book-guide, han-kang, feminism, body, violence, madness, awakening |
+| [[summaries/Old-Man-and-the-Sea-Book-Guide\|《老人与海》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《老人与海》衍生性拆书指南.md` | 2026-05-17 | book-guide, hemingway, solitude, dignity, absurdity, existentialism |
+| [[summaries/Myth-of-Sisyphus-Book-Guide\|《西西弗神话》衍生性拆书指南]] | `raw/my-notes/book-guide/20260517-《西西弗神话》衍生性拆书指南.md` | 2026-05-17 | book-guide, camus, absurdism, existentialism, philosophy, meaning |
+| [[summaries/Crowd-Psychology-Book-Review\|《乌合之众》：我们如何在人群中失去自己]] | `raw/my-notes/book-review/20260517-《乌合之众》：我们如何在人群中失去自己.md` | 2026-05-17 | book-review, psychology, crowd-psychology, sociology, propaganda, essay |
+| [[summaries/River-Error-Book-Review\|《河边的错误》：当理性撞上荒诞，谁才是疯子]] | `raw/my-notes/book-review/20260517-《河边的错误》：当理性撞上荒诞，谁才是疯子.md` | 2026-05-17 | book-review, yu-hua, absurdism, madness, rationality, justice, essay |
+| [[summaries/Seventh-Day-Book-Review\|《第七天》：活着的世界容不下尊严，死去的世界给了最后一处平等]] | `raw/my-notes/book-review/20260517-《第七天》：活着的世界容不下尊严，死去的世界给了最后一处平等.md` | 2026-05-17 | book-review, yu-hua, afterlife, social-critique, inequality, essay |
+| [[summaries/Vegetarian-Book-Review\|《素食者》：她不想做人了，这到底是谁的悲剧]] | `raw/my-notes/book-review/20260517-《素食者》：她不想做人了，这到底是谁的悲剧.md` | 2026-05-17 | book-review, han-kang, feminism, body, violence, madness, essay |
+| [[summaries/Old-Man-and-the-Sea-Book-Review\|《老人与海》：你可以被打败，但不能不被看见]] | `raw/my-notes/book-review/20260517-《老人与海》：你可以被打败，但不能不被看见.md` | 2026-05-17 | book-review, hemingway, solitude, dignity, absurdity, essay |
 
 ---
 
@@ -56,6 +70,13 @@ last_updated: 2026-05-17
 | [[concepts/Cyclical-Time\|Cyclical Time]] | 循环时间：不是简单的重复，而是螺旋下降 | high |
 | [[concepts/Solitude\|Solitude]] | 孤独：不是「独自一人」，而是「即使在一起，也无法真正连接」 | high |
 | [[concepts/Collective-Memory\|Collective Memory]] | 集体记忆与遗忘：制度性的记忆抹除与自我保护性的遗忘 | high |
+| [[concepts/Education-as-Perspective\|Education as Perspective]] | 教育作为视角：不是知识的积累，是认知框架的重构 | high |
+| [[concepts/Gaslighting\|Gaslighting]] | 煤气灯操纵：系统性地否认对方的现实感 | high |
+| [[concepts/Trauma-and-Body\|Trauma and Body]] | 创伤与身体：C-PTSD 与躯体化症状 | high |
+| [[concepts/Narrative-Healing\|Narrative Healing]] | 叙事疗愈：通过重新叙事获得对现实的掌控感 | high |
+| [[concepts/Crowd-Psychology\|Crowd Psychology]] | 群体心理学：群体不是个体的简单相加，而是拥有全新心理特征的有机体 | high |
+| [[concepts/Absurdism\|Absurdism]] | 荒诞主义：荒诞诞生于人与世界的对峙，不是绝望，是清醒 | high |
+| [[concepts/Existentialism\|Existentialism]] | 存在主义：存在先于本质，人通过选择定义自己 | high |
 
 ---
 
@@ -75,6 +96,11 @@ last_updated: 2026-05-17
 | [[entities/Yu-Hua\|Yu Hua (余华)]] | 中国当代作家，《活着》《文城》作者 |
 | [[entities/Hermann-Hesse\|Hermann Hesse]] | 德国作家，1946年诺贝尔文学奖，《悉达多》作者 |
 | [[entities/Gabriel-Garcia-Marquez\|Gabriel García Márquez]] | 哥伦比亚作家，1982年诺贝尔文学奖，《百年孤独》作者 |
+| [[entities/Tara-Westover\|Tara Westover]] | 美国作家，《你当像鸟飞向你的山》作者，剑桥历史学博士 |
+| [[entities/Gustave-Le-Bon\|Gustave Le Bon]] | 法国社会心理学家，《乌合之众》作者，群体心理学创始人 |
+| [[entities/Han-Kang\|Han Kang]] | 韩国作家，2024年诺贝尔文学奖得主，《素食者》作者 |
+| [[entities/Ernest-Hemingway\|Ernest Hemingway]] | 美国作家，1954年诺贝尔文学奖得主，《老人与海》作者 |
+| [[entities/Albert-Camus\|Albert Camus]] | 法国作家、哲学家，1957年诺贝尔文学奖得主，《西西弗神话》作者 |
 
 ### Companies
 

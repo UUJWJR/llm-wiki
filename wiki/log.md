@@ -45,3 +45,16 @@
 - Created concepts: [[concepts/Magical-Realism]], [[concepts/Cyclical-Time]], [[concepts/Solitude]], [[concepts/Collective-Memory]]
 - Created entity: [[entities/Gabriel-Garcia-Marquez]]
 - Updated: [[INDEX.md]]
+
+## [2026-05-17] ingest | 《你当像鸟飞向你的山》拆书指南 + 书评 + 《百年孤独》书评 | 11 pages affected
+- Created summaries: [[summaries/Educated-Book-Guide]], [[summaries/Educated-Book-Review]], [[summaries/One-Hundred-Years-of-Solitude-Book-Review]]
+- Created concepts: [[concepts/Education-as-Perspective]], [[concepts/Gaslighting]], [[concepts/Trauma-and-Body]], [[concepts/Narrative-Healing]]
+- Created entity: [[entities/Tara-Westover]]
+- Updated: [[INDEX.md]]
+
+## [2026-05-17] ingest | 6本文学拆书指南 + 5篇融合风格书评 | 28 pages affected
+- Created summaries (guides): [[summaries/Crowd-Psychology-Book-Guide]], [[summaries/River-Error-Book-Guide]], [[summaries/Seventh-Day-Book-Guide]], [[summaries/Vegetarian-Book-Guide]], [[summaries/Old-Man-and-the-Sea-Book-Guide]], [[summaries/Myth-of-Sisyphus-Book-Guide]]
+- Created summaries (reviews): [[summaries/Crowd-Psychology-Book-Review]], [[summaries/River-Error-Book-Review]], [[summaries/Seventh-Day-Book-Review]], [[summaries/Vegetarian-Book-Review]], [[summaries/Old-Man-and-the-Sea-Book-Review]]
+- Created concepts: [[concepts/Crowd-Psychology]], [[concepts/Absurdism]], [[concepts/Existentialism]]
+- Created entities: [[entities/Gustave-Le-Bon]], [[entities/Han-Kang]], [[entities/Ernest-Hemingway]], [[entities/Albert-Camus]]
+- Updated: [[INDEX.md]]
