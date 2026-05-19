@@ -87,6 +87,8 @@ last_updated: 2026-05-17
 | [[summaries/Parents-Anxiety-Article\|爸妈不求吃不求喝，就求你痛苦而焦虑地活着]] | `raw/articles/爸妈不求吃不求喝，就求你痛苦而焦虑地活着.md` | 2026-04-21 | article, parenting, psychology, self-efficacy |
 | [[summaries/Hardest-Job-Article\|见识了"最苦工作"，我确实被干沉默了]] | `raw/articles/见识了"最苦工作"，我确实被干沉默了.md` | 2026-03-17 | article, labor, gig-economy, social-observation |
 | [[summaries/World-of-Yesterday-Book-Review\|那个叫「确信」的时代，已经死了——《昨日的世界》书评]] | `raw/my-notes/book-review/20260517-《昨日的世界》：那个叫「确信」的时代，已经死了.md` | 2026-05-17 | book-review, zweig, history, memory, certainty |
+| [[summaries/Rich-Second-Generation-Failure-Article\|富二代把自己弄死了]] | `raw/articles/富二代把自己弄死了.md` | 2026-03-24 | article, wealth, second-generation, mean-reversion |
+| [[summaries/Value-Investing-Agent-Cluster-Handbook\|价值投资Agent集群实操学习手册]] | `raw/papers/价值投资Agent集群实操学习手册.md` | 2026-05-19 | paper, value-investing, ai-agent, education, buffett |
 
 ---
 
@@ -170,6 +172,12 @@ last_updated: 2026-05-17
 | [[concepts/Psychological-Account]] | 心理账户：支撑复杂事务的内在情绪资源 | high |
 | [[concepts/Gig-Economy-Filter]] | 零工经济的筛选机制：不是培养，是筛选 | high |
 | [[concepts/Invisible-Labor]] | 隐形劳动：效率与低价背后的代价 | high |
+| [[concepts/Mean-Reversion]] | 均值回归：财富的重力，把时间拉长极其可怕 | high |
+| [[concepts/Productive-Assets-Illusion]] | 生产资料幻觉：没有永久躺赢的资产 | high |
+| [[concepts/Second-Generation-Trap]] | 二代陷阱：接手的是帝国还是延迟爆炸的负债 | high |
+| [[concepts/Agent-Cluster-Learning]] | Agent集群学习法：多Agent协作的复杂技能学习 | high |
+| [[concepts/Value-Investing-Framework]] | 价值投资四原则框架：不懂不投/安全边际/长期主义/第一性原理 | high |
+| [[concepts/Investment-Discipline-Handbook]] | 个人投资纪律手册：价值投资者的"宪法" | high |
 
 ---
 

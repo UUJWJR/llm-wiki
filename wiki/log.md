@@ -22,6 +22,11 @@
 - Skipped (compilation duplicates): raw/my-notes/Publish/读书笔记.md, raw/my-notes/Publish/20260517-47-我的读书笔记.md, raw/my-notes/Publish/HongKe/我的读书笔记/我的读书笔记 - HongKe.md
 - Updated: [[INDEX.md]], [[log.md]]
 
+## [2026-05-19] ingest | 1 article + 1 paper | 9 pages affected
+- Created summaries: [[summaries/Rich-Second-Generation-Failure-Article]], [[summaries/Value-Investing-Agent-Cluster-Handbook]]
+- Created concepts: [[concepts/Mean-Reversion]], [[concepts/Productive-Assets-Illusion]], [[concepts/Second-Generation-Trap]], [[concepts/Agent-Cluster-Learning]], [[concepts/Value-Investing-Framework]], [[concepts/Investment-Discipline-Handbook]]
+- Updated: [[INDEX.md]], [[log.md]]
+
 ## [2026-04-20] ingest | 华尔街砸5万亿押注的"AI革命"，被黄仁勋亲口降级成"高级Excel"？ | 8 pages affected
 - Created summary: [[summaries/Dark-Cash-Jensen-Huang-Interview]]
 - Created concepts: [[concepts/AI-as-Tool-vs-Revolution]]
