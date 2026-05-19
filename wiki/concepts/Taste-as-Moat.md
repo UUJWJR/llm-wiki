@@ -1,0 +1,51 @@
+---
+type: concept
+title: 品味作为护城河
+tags:
+  - AI
+  - 竞争力
+  - 品味
+related: []
+source_files:
+  - raw/articles/AI正在屠杀中间层.md
+source_count: 1
+last_updated: 2026-05-19
+confidence: high
+---
+
+## Definition
+
+品味作为护城河是指在 AI 能够大规模生成内容的时代，从浩瀚信息中筛选出"有品位"的内容、并赋予其独特价值的能力，成为不可替代的核心竞争力。
+
+## Core Mechanism
+
+### 瓷器店类比
+
+| 类型 | 价格 | 生存状态 |
+|------|------|----------|
+| 超市瓷器 | 80 元 | 工业化量产 |
+| 英国老牌瓷器 | 3000 元 | 活得很好 |
+
+差价来自：品味、故事、信任。
+
+### 核心逻辑
+
+1. AI 提供过剩信息
+2. 99% 的东西太普通太平庸
+3. 需要有人挑出那 1%
+4. 加上独特思考，形成产品
+
+## Key Quote
+
+> "爱好，阅历，品味会变成未来最核心的竞争力。"
+
+> "AI 可以一秒钟生成几万张图，接下来的竞赛就是大家各自选一张，谁选出来的东西得到了广泛的喜欢，谁胜出。"
+
+## Relationships
+
+- [[concepts/AI-Middle-Layer-Massacre]] — AI 对中间层的替代
+- [[concepts/Human-Flavor]] — 活人味
+
+## Source
+
+- (source: raw/articles/AI正在屠杀中间层.md)

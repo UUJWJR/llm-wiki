@@ -27,6 +27,11 @@
 - Created concepts: [[concepts/Mean-Reversion]], [[concepts/Productive-Assets-Illusion]], [[concepts/Second-Generation-Trap]], [[concepts/Agent-Cluster-Learning]], [[concepts/Value-Investing-Framework]], [[concepts/Investment-Discipline-Handbook]]
 - Updated: [[INDEX.md]], [[log.md]]
 
+## [2026-05-19] ingest | 1 article | 6 pages affected
+- Created summary: [[summaries/AI-Massacring-Middle-Layer-Article]]
+- Created concepts: [[concepts/AI-Middle-Layer-Massacre]], [[concepts/Taste-as-Moat]], [[concepts/Human-Flavor]], [[concepts/Non-Standardization-Survival]]
+- Updated: [[INDEX.md]], [[log.md]]
+
 ## [2026-04-20] ingest | 华尔街砸5万亿押注的"AI革命"，被黄仁勋亲口降级成"高级Excel"？ | 8 pages affected
 - Created summary: [[summaries/Dark-Cash-Jensen-Huang-Interview]]
 - Created concepts: [[concepts/AI-as-Tool-vs-Revolution]]

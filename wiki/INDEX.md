@@ -89,6 +89,7 @@ last_updated: 2026-05-17
 | [[summaries/World-of-Yesterday-Book-Review\|那个叫「确信」的时代，已经死了——《昨日的世界》书评]] | `raw/my-notes/book-review/20260517-《昨日的世界》：那个叫「确信」的时代，已经死了.md` | 2026-05-17 | book-review, zweig, history, memory, certainty |
 | [[summaries/Rich-Second-Generation-Failure-Article\|富二代把自己弄死了]] | `raw/articles/富二代把自己弄死了.md` | 2026-03-24 | article, wealth, second-generation, mean-reversion |
 | [[summaries/Value-Investing-Agent-Cluster-Handbook\|价值投资Agent集群实操学习手册]] | `raw/papers/价值投资Agent集群实操学习手册.md` | 2026-05-19 | paper, value-investing, ai-agent, education, buffett |
+| [[summaries/AI-Massacring-Middle-Layer-Article\|AI正在屠杀中间层]] | `raw/articles/AI正在屠杀中间层.md` | 2026-03-20 | article, ai, employment, middle-class, taste |
 
 ---
 
@@ -178,6 +179,10 @@ last_updated: 2026-05-17
 | [[concepts/Agent-Cluster-Learning]] | Agent集群学习法：多Agent协作的复杂技能学习 | high |
 | [[concepts/Value-Investing-Framework]] | 价值投资四原则框架：不懂不投/安全边际/长期主义/第一性原理 | high |
 | [[concepts/Investment-Discipline-Handbook]] | 个人投资纪律手册：价值投资者的"宪法" | high |
+| [[concepts/AI-Middle-Layer-Massacre]] | AI对标准化中间层的大规模替代 | high |
+| [[concepts/Taste-as-Moat]] | 品味作为护城河：从信息海洋中筛选精品的能力 | high |
+| [[concepts/Human-Flavor]] | 活人味：算法时代最稀缺的特质 | high |
+| [[concepts/Non-Standardization-Survival]] | 非标化生存：AI无法替代的领域 | high |
 
 ---
 
