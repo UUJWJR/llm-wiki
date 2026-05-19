@@ -61,6 +61,27 @@ last_updated: 2026-05-17
 | [[summaries/One-Hundred-Years-of-Solitude-Book-Review-2\|《百年孤独》：马孔多不是地图上的一个点]] | `raw/my-notes/book-review/20260517-《百年孤独》：马孔多不是地图上的一个点.md` | 2026-05-17 | book-review, garcia-marquez, magical-realism, solitude, cyclical-time, essay |
 | [[summaries/Narrow-Gate-Book-Review\|那扇我推不开的门——《窄门》书评]] | `raw/my-notes/book-review/20260517-《窄门》：那扇我推不开的门.md` | 2026-05-17 | book-review, gide, narrow-gate, faith, love, essay |
 | [[summaries/Snow-Country-Book-Review\|《雪国》：在徒劳中燃烧]] | `raw/my-notes/book-review/20260517-《雪国》：在徒劳中燃烧.md` | 2026-05-17 | book-review, kawabata, snow-country, japanese-aesthetics, mono-no-aware, essay |
+| [[summaries/Singularity-Is-Nearer-Book-Guide\|《奇点更近》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《奇点更近》衍生性拆书指南.md` | 2026-05-18 | book-guide, kurzweil, singularity, ai, futurism, exponential-growth, longevity |
+| [[summaries/Flow-Book-Guide\|《心流》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《心流》衍生性拆书指南.md` | 2026-05-18 | book-guide, csikszentmihalyi, flow, psychology, happiness, optimal-experience, attention |
+| [[summaries/Thinking-Fast-and-Slow-Book-Guide\|《思考，快与慢》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《思考，快与慢》衍生性拆书指南.md` | 2026-05-18 | book-guide, kahneman, behavioral-economics, cognitive-bias, system1-system2, decision-making |
+| [[summaries/Poor-Charlies-Almanack-Book-Guide\|《穷查理宝典》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《穷查理宝典》衍生性拆书指南.md` | 2026-05-18 | book-guide, munger, mental-models, inversion, psychology, value-investing, multidisciplinary |
+| [[summaries/Fifth-Consumption-Era-Book-Guide\|《第五消费时代》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《第五消费时代》衍生性拆书指南.md` | 2026-05-18 | book-guide, miura, consumption, japan, sociology, loneliness, local-community |
+| [[summaries/Intelligent-Investor-Book-Guide\|《聪明的投资者》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《聪明的投资者》衍生性拆书指南.md` | 2026-05-18 | book-guide, graham, value-investing, margin-of-safety, mr-market, index-funds, emotional-control |
+| [[summaries/What-Life-Could-Mean-to-You-Book-Guide\|《自卑与超越》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《自卑与超越》衍生性拆书指南.md` | 2026-05-18 | book-guide, adler, individual-psychology, inferiority-complex, social-interest, lifestyle, creativity |
+| [[summaries/Selfish-Gene-Book-Guide\|《自私的基因》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《自私的基因》衍生性拆书指南.md` | 2026-05-18 | book-guide, dawkins, evolutionary-biology, gene-centrism, meme, kin-selection, ess |
+| [[summaries/Security-Analysis-Book-Guide\|《证券分析》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《证券分析》衍生性拆书指南.md` | 2026-05-18 | book-guide, graham, dodd, value-investing, security-analysis, intrinsic-value, financial-ratios |
+| [[summaries/Kite-Runner-Book-Guide\|《追风筝的人》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《追风筝的人》衍生性拆书指南.md` | 2026-05-18 | book-guide, hosseini, betrayal, redemption, guilt, identity, afghanistan, class |
+| [[summaries/Painted-Veil-Book-Guide\|《面纱》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《面纱》衍生性拆书指南.md` | 2026-05-18 | book-guide, maugham, betrayal, awakening, colonialism, love-illusion, death |
+| [[summaries/Fifth-Consumption-Era-Book-Review\|当购物车不再能定义你是谁——《第五消费时代》书评]] | `raw/my-notes/book-review/20260518-《第五消费时代》：当购物车不再能定义你是谁.md` | 2026-05-18 | book-review, miura, consumption, essay |
+| [[summaries/What-Life-Could-Mean-to-You-Book-Review\|自卑不是缺陷，是你还没找到发动机——《自卑与超越》书评]] | `raw/my-notes/book-review/20260518-《自卑与超越》：自卑不是缺陷，是你还没找到发动机.md` | 2026-05-18 | book-review, adler, individual-psychology, essay |
+| [[summaries/Singularity-Is-Nearer-Book-Review\|当技术开始指数级思考，人类还在线性规划——《奇点更近》书评]] | `raw/my-notes/book-review/20260518-《奇点更近》：当技术开始指数级思考，人类还在线性规划.md` | 2026-05-18 | book-review, kurzweil, singularity, ai, essay |
+| [[summaries/Flow-Book-Review\|幸福不是追来的，是你忘我的那一刻——《心流》书评]] | `raw/my-notes/book-review/20260518-《心流》：幸福不是追来的，是你忘我的那一刻.md` | 2026-05-18 | book-review, csikszentmihalyi, flow, essay |
+| [[summaries/Kite-Runner-Book-Review\|为你，千千万万遍——《追风筝的人》书评]] | `raw/my-notes/book-review/20260518-《追风筝的人》：为你，千千万万遍.md` | 2026-05-18 | book-review, hosseini, betrayal, redemption, essay |
+| [[summaries/Painted-Veil-Book-Review\|死的却是狗——《面纱》书评]] | `raw/my-notes/book-review/20260518-《面纱》：死的却是狗——当爱情幻觉遇上死亡镜子.md` | 2026-05-18 | book-review, maugham, love-illusion, awakening, death, essay |
+| [[summaries/Poor-Charlies-Almanack-Book-Review\|当你只有一把锤子，看什么都像钉子——《穷查理宝典》书评]] | `raw/my-notes/book-review/20260518-《穷查理宝典》：当你只有一把锤子，看什么都像钉子.md` | 2026-05-18 | book-review, munger, mental-models, essay |
+| [[summaries/Thinking-Fast-and-Slow-Book-Review\|你不是在思考，你是在被推着跑——《思考，快与慢》书评]] | `raw/my-notes/book-review/20260518-《思考，快与慢》：你不是在思考，你是在被推着跑.md` | 2026-05-18 | book-review, kahneman, behavioral-economics, cognitive-bias, essay |
+| [[summaries/Security-Analysis-Book-Review\|当市场 panic 时，你在做什么——《证券分析》书评]] | `raw/my-notes/book-review/20260518-《证券分析》：当市场 panic 时，你在做什么.md` | 2026-05-18 | book-review, graham, dodd, value-investing, essay |
+| [[summaries/Intelligent-Investor-Book-Review\|承认自己普通，是投资中最不普通的智慧——《聪明的投资者》书评]] | `raw/my-notes/book-review/20260518-《聪明的投资者》：承认自己普通，是投资中最不普通的智慧.md` | 2026-05-18 | book-review, graham, value-investing, essay |
 
 ---
 
@@ -125,6 +146,16 @@ last_updated: 2026-05-17
 | [[concepts/Yugen]] | 幽玄：美在不可理解中显现 | high |
 | [[concepts/Wabi-Sabi]] | 侘寂：在不完美中发现美 | high |
 | [[concepts/Futility-as-Dignity]] | 徒劳作为尊严：燃烧不是为了照亮别人，是为了让自己看见火焰 | high |
+| [[concepts/Flow]] | 心流：最优心理状态 | high |
+| [[concepts/Margin-of-Safety]] | 安全边际：投资与投机的分界线 | high |
+| [[concepts/Mr-Market]] | 市场先生：利用市场非理性 | high |
+| [[concepts/Loss-Aversion]] | 损失厌恶：损失痛苦大于收益快乐 | high |
+| [[concepts/Singularity]] | 技术奇点 | high |
+| [[concepts/Inferiority-Complex]] | 自卑情结 | high |
+| [[concepts/Gene-Centrism]] | 基因中心主义 | high |
+| [[concepts/Latticework-of-Mental-Models]] | 多元思维模型 | high |
+| [[concepts/Betrayal]] | 背叛 | high |
+| [[concepts/Painted-Veil]] | 面纱 | high |
 
 ---
 
@@ -154,6 +185,17 @@ last_updated: 2026-05-17
 | [[entities/Friedrich-Nietzsche\|Friedrich Nietzsche]] | 德国哲学家，《悲剧的诞生》作者，日神与酒神理论的提出者 |
 | [[entities/Andre-Gide\|André Gide]] | 法国作家，1947年诺贝尔文学奖得主，《窄门》作者 |
 | [[entities/Kawabata-Yasunari\|Kawabata Yasunari]] | 日本作家，1968年诺贝尔文学奖得主，《雪国》作者 |
+| [[entities/Benjamin-Graham\|Benjamin Graham]] | 价值投资之父，《聪明的投资者》《证券分析》作者 |
+| [[entities/David-Dodd\|David Dodd]] | 哥伦比亚大学教授，《证券分析》合著者 |
+| [[entities/Alfred-Adler\|Alfred Adler]] | 个体心理学创始人，《自卑与超越》作者 |
+| [[entities/Richard-Dawkins\|Richard Dawkins]] | 演化生物学家，《自私的基因》作者 |
+| [[entities/Daniel-Kahneman\|Daniel Kahneman]] | 诺贝尔经济学奖得主，《思考，快与慢》作者 |
+| [[entities/Charlie-Munger\|Charlie Munger]] | 伯克希尔副董事长，芒格格栅理论提出者 |
+| [[entities/Khaled-Hosseini\|Khaled Hosseini]] | 阿富汗裔美国作家，《追风筝的人》作者 |
+| [[entities/W-Somerset-Maugham\|W. Somerset Maugham]] | 英国作家，《面纱》作者 |
+| [[entities/Mihaly-Csikszentmihalyi\|Mihaly Csikszentmihalyi]] | 心理学家，心流理论创始人 |
+| [[entities/Ray-Kurzweil\|Ray Kurzweil]] | 未来学家，《奇点临近》作者 |
+| [[entities/Masahiro-Miura\|Masahiro Miura]] | 日本社会观察家，"第四/五消费时代"提出者 |
 
 ### Companies
 

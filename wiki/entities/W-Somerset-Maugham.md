@@ -1,0 +1,32 @@
+---
+type: entity
+entity_type: person
+title: W. Somerset Maugham (威廉·萨默塞特·毛姆)
+aliases:
+  - 毛姆
+related: []
+source_files:
+  - raw/my-notes/book-guide/20260518-《面纱》衍生性拆书指南.md
+  - raw/my-notes/book-review/20260518-《面纱》：死的却是狗——当爱情幻觉遇上死亡镜子.md
+last_updated: 2026-05-18
+---
+
+## Brief Introduction
+
+威廉·萨默塞特·毛姆（1874-1965）是英国作家，被誉为"最会讲故事的作家"。他的作品以冷酷的人性解剖、精湛的叙事技巧和存在主义关怀著称。《面纱》（1925）以霍乱肆虐的中国内地为背景，探讨婚姻、背叛、自我觉醒与死亡净化。
+
+## Core Function / Role
+
+- **作家**：《面纱》《人性的枷锁》《月亮与六便士》《刀锋》等
+- **剧作家**：20世纪初伦敦最成功的剧作家之一
+- **间谍**：一战期间曾为英国情报部门工作
+
+## Positioning
+
+毛姆的冷酷在于他拒绝给出廉价的道德答案。凯蒂的觉醒不是"因为"死亡，而是因为在死亡面前再也无法维持自我欺骗。他展示选择及其代价，但不提供"正确"的答案。
+
+## Links to Concepts
+
+- [[concepts/Painted-Veil]] — 毛姆最核心的隐喻
+- [[concepts/Illusion-of-Love]] — 对爱情幻觉的冷酷解剖
+- [[concepts/Death-as-Mirror]] — 死亡不是净化器，是噪音的移除

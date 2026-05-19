@@ -1,0 +1,31 @@
+---
+type: entity
+entity_type: person
+title: Mihaly Csikszentmihalyi (米哈里·契克森米哈赖)
+aliases:
+  - 契克森米哈赖
+related: []
+source_files:
+  - raw/my-notes/book-guide/20260518-《心流》衍生性拆书指南.md
+  - raw/my-notes/book-review/20260518-《心流》：幸福不是追来的，是你忘我的那一刻.md
+last_updated: 2026-05-18
+---
+
+## Brief Introduction
+
+米哈里·契克森米哈赖（1934-2021）是匈牙利裔美国心理学家，"心流"理论的创始人。他的开创性研究填补了心理学中"人什么时候最幸福"的空白，影响了教育、工作设计、运动心理学等多个领域。
+
+## Core Function / Role
+
+- **心理学家**：芝加哥大学心理学教授
+- **心流研究先驱**：用"经验取样法"（传呼机随机抽样）研究日常幸福体验
+- **作家**：《心流》《创造力》《发现心流》等
+
+## Positioning
+
+契克森米哈赖的童年被二战撕裂——家庭流离失所，不知道明天会发生什么。这段经历让他思考：为什么有些人在困境中依然能找到意义，而大多数人却活得空虚无聊？
+
+## Links to Concepts
+
+- [[concepts/Flow]] — 契克森米哈赖最著名的贡献
+- [[concepts/Psychic-Entropy]] — 精神熵：心理系统的混乱度

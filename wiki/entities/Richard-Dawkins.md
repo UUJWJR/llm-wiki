@@ -1,0 +1,38 @@
+---
+type: entity
+entity_type: person
+title: Richard Dawkins (理查德·道金斯)
+aliases:
+  - 道金斯
+related:
+  - entities/Charles-Darwin
+source_files:
+  - raw/my-notes/book-guide/20260518-《自私的基因》衍生性拆书指南.md
+last_updated: 2026-05-18
+---
+
+## Brief Introduction
+
+理查德·道金斯（1941- ）是英国演化生物学家、科学作家，牛津大学公众理解科学教授。他1976年出版的《自私的基因》成为科学史上最具影响力的著作之一，开创了基因中心主义的全新视角。
+
+## Core Function / Role
+
+- **科学家**：演化生物学家，动物行为学专家
+- **科学传播者**：牛津大学公众理解科学教授
+- **作家**：《自私的基因》《延伸的表型》《盲眼钟表匠》等
+- **"无神论四骑士"之一**：与丹尼尔·丹尼特、山姆·哈里斯、克里斯托弗·希钦斯并称
+
+## Positioning
+
+道金斯的核心驱动力是"一个非洲草原上的孩子，对'为什么'的终生执着"。他渴望让科学成为公众对话的核心，而非边缘。他的争议性、直言不讳，甚至"挑衅"，都服务于这一目标。
+
+## Relationships
+
+- **导师**：尼科·廷伯根（Niko Tinbergen，1973年诺贝尔奖得主）
+- **思想传承**：迷因理论开创了文化演化的全新研究领域
+
+## Links to Concepts
+
+- [[concepts/Gene-Centrism]] — 道金斯的核心贡献
+- [[concepts/Meme]] — 文化信息的基本单位
+- [[concepts/Extended-Phenotype]] — 基因影响超越个体边界

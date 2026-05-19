@@ -8,6 +8,11 @@
 - Created summary: [[summaries/LLM-Wiki-Guide]]
 - Created concepts: [[concepts/LLM-Wiki]], [[concepts/RAG]], [[concepts/Zettelkasten]], [[concepts/Hormesis]], [[concepts/Memex]], [[concepts/Idea-File]]
 - Created entities: [[entities/Andrej-Karpathy]], [[entities/Obsidian]], [[entities/NotebookLM]]
+
+## [2026-05-18] ingest | 11 book guides + 10 book reviews | 42 pages affected
+- Created summaries: [[summaries/Singularity-Is-Nearer-Book-Guide]], [[summaries/Flow-Book-Guide]], [[summaries/Thinking-Fast-and-Slow-Book-Guide]], [[summaries/Poor-Charlies-Almanack-Book-Guide]], [[summaries/Fifth-Consumption-Era-Book-Guide]], [[summaries/Intelligent-Investor-Book-Guide]], [[summaries/What-Life-Could-Mean-to-You-Book-Guide]], [[summaries/Selfish-Gene-Book-Guide]], [[summaries/Security-Analysis-Book-Guide]], [[summaries/Kite-Runner-Book-Guide]], [[summaries/Painted-Veil-Book-Guide]], [[summaries/Fifth-Consumption-Era-Book-Review]], [[summaries/What-Life-Could-Mean-to-You-Book-Review]], [[summaries/Singularity-Is-Nearer-Book-Review]], [[summaries/Flow-Book-Review]], [[summaries/Kite-Runner-Book-Review]], [[summaries/Painted-Veil-Book-Review]], [[summaries/Poor-Charlies-Almanack-Book-Review]], [[summaries/Thinking-Fast-and-Slow-Book-Review]], [[summaries/Security-Analysis-Book-Review]], [[summaries/Intelligent-Investor-Book-Review]]
+- Created concepts: [[concepts/Flow]], [[concepts/Margin-of-Safety]], [[concepts/Mr-Market]], [[concepts/Loss-Aversion]], [[concepts/Singularity]], [[concepts/Inferiority-Complex]], [[concepts/Gene-Centrism]], [[concepts/Latticework-of-Mental-Models]], [[concepts/Betrayal]], [[concepts/Painted-Veil]]
+- Created entities: [[entities/Benjamin-Graham]], [[entities/David-Dodd]], [[entities/Alfred-Adler]], [[entities/Richard-Dawkins]], [[entities/Daniel-Kahneman]], [[entities/Charlie-Munger]], [[entities/Khaled-Hosseini]], [[entities/W-Somerset-Maugham]], [[entities/Mihaly-Csikszentmihalyi]], [[entities/Ray-Kurzweil]], [[entities/Masahiro-Miura]]
 - Updated: [[INDEX.md]]
 
 ## [2026-04-20] ingest | 华尔街砸5万亿押注的"AI革命"，被黄仁勋亲口降级成"高级Excel"？ | 8 pages affected
