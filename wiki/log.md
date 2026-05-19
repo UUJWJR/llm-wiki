@@ -15,6 +15,13 @@
 - Created entities: [[entities/Benjamin-Graham]], [[entities/David-Dodd]], [[entities/Alfred-Adler]], [[entities/Richard-Dawkins]], [[entities/Daniel-Kahneman]], [[entities/Charlie-Munger]], [[entities/Khaled-Hosseini]], [[entities/W-Somerset-Maugham]], [[entities/Mihaly-Csikszentmihalyi]], [[entities/Ray-Kurzweil]], [[entities/Masahiro-Miura]]
 - Updated: [[INDEX.md]]
 
+## [2026-05-19] ingest | 4 articles + 1 book review | 15 pages affected
+- Created summaries: [[summaries/AI-Inequality-Article]], [[summaries/Death-Zone-Article]], [[summaries/Parents-Anxiety-Article]], [[summaries/Hardest-Job-Article]], [[summaries/World-of-Yesterday-Book-Review]]
+- Created concepts: [[concepts/AI-Leverage-Inequality]], [[concepts/Cognitive-Compound-Interest]], [[concepts/AI-Empathy-Mode]], [[concepts/Death-Zone]], [[concepts/Sleep-Debt]], [[concepts/Self-Efficacy]], [[concepts/Psychological-Account]], [[concepts/Gig-Economy-Filter]], [[concepts/Invisible-Labor]]
+- Created entity: [[entities/Jiubian-Pro]]
+- Skipped (compilation duplicates): raw/my-notes/Publish/读书笔记.md, raw/my-notes/Publish/20260517-47-我的读书笔记.md, raw/my-notes/Publish/HongKe/我的读书笔记/我的读书笔记 - HongKe.md
+- Updated: [[INDEX.md]], [[log.md]]
+
 ## [2026-04-20] ingest | 华尔街砸5万亿押注的"AI革命"，被黄仁勋亲口降级成"高级Excel"？ | 8 pages affected
 - Created summary: [[summaries/Dark-Cash-Jensen-Huang-Interview]]
 - Created concepts: [[concepts/AI-as-Tool-vs-Revolution]]

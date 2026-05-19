@@ -82,6 +82,11 @@ last_updated: 2026-05-17
 | [[summaries/Thinking-Fast-and-Slow-Book-Review\|你不是在思考，你是在被推着跑——《思考，快与慢》书评]] | `raw/my-notes/book-review/20260518-《思考，快与慢》：你不是在思考，你是在被推着跑.md` | 2026-05-18 | book-review, kahneman, behavioral-economics, cognitive-bias, essay |
 | [[summaries/Security-Analysis-Book-Review\|当市场 panic 时，你在做什么——《证券分析》书评]] | `raw/my-notes/book-review/20260518-《证券分析》：当市场 panic 时，你在做什么.md` | 2026-05-18 | book-review, graham, dodd, value-investing, essay |
 | [[summaries/Intelligent-Investor-Book-Review\|承认自己普通，是投资中最不普通的智慧——《聪明的投资者》书评]] | `raw/my-notes/book-review/20260518-《聪明的投资者》：承认自己普通，是投资中最不普通的智慧.md` | 2026-05-18 | book-review, graham, value-investing, essay |
+| [[summaries/AI-Inequality-Article\|AI时代真正难以弥合的不平等]] | `raw/articles/AI时代真正难以弥合的不平等.md` | 2026-04-24 | article, ai, inequality, cognition |
+| [[summaries/Death-Zone-Article\|一个很多人没注意到的"死亡地带"]] | `raw/articles/一个很多人没注意到的"死亡地带".md` | 2026-03-31 | article, health, lifespan, midlife-crisis |
+| [[summaries/Parents-Anxiety-Article\|爸妈不求吃不求喝，就求你痛苦而焦虑地活着]] | `raw/articles/爸妈不求吃不求喝，就求你痛苦而焦虑地活着.md` | 2026-04-21 | article, parenting, psychology, self-efficacy |
+| [[summaries/Hardest-Job-Article\|见识了"最苦工作"，我确实被干沉默了]] | `raw/articles/见识了"最苦工作"，我确实被干沉默了.md` | 2026-03-17 | article, labor, gig-economy, social-observation |
+| [[summaries/World-of-Yesterday-Book-Review\|那个叫「确信」的时代，已经死了——《昨日的世界》书评]] | `raw/my-notes/book-review/20260517-《昨日的世界》：那个叫「确信」的时代，已经死了.md` | 2026-05-17 | book-review, zweig, history, memory, certainty |
 
 ---
 
@@ -156,6 +161,15 @@ last_updated: 2026-05-17
 | [[concepts/Latticework-of-Mental-Models]] | 多元思维模型 | high |
 | [[concepts/Betrayal]] | 背叛 | high |
 | [[concepts/Painted-Veil]] | 面纱 | high |
+| [[concepts/AI-Leverage-Inequality]] | AI杠杆的不平等：你水平高，AI给你更多资源 | high |
+| [[concepts/Cognitive-Compound-Interest]] | 认知复利：深度思考的指数级回报 | high |
+| [[concepts/AI-Empathy-Mode]] | AI共情附和模式：为了留住用户的动态匹配 | high |
+| [[concepts/Death-Zone]] | 男性45-60岁死亡地带：身体开始集中"要账" | high |
+| [[concepts/Sleep-Debt]] | 睡眠债：健康最大的隐形杀手 | high |
+| [[concepts/Self-Efficacy]] | 自我效能：相信自己能完成任务的信念 | high |
+| [[concepts/Psychological-Account]] | 心理账户：支撑复杂事务的内在情绪资源 | high |
+| [[concepts/Gig-Economy-Filter]] | 零工经济的筛选机制：不是培养，是筛选 | high |
+| [[concepts/Invisible-Labor]] | 隐形劳动：效率与低价背后的代价 | high |
 
 ---
 
@@ -196,6 +210,7 @@ last_updated: 2026-05-17
 | [[entities/Mihaly-Csikszentmihalyi\|Mihaly Csikszentmihalyi]] | 心理学家，心流理论创始人 |
 | [[entities/Ray-Kurzweil\|Ray Kurzweil]] | 未来学家，《奇点临近》作者 |
 | [[entities/Masahiro-Miura\|Masahiro Miura]] | 日本社会观察家，"第四/五消费时代"提出者 |
+| [[entities/Jiubian-Pro\|九边Pro]] | 中文互联网知名自媒体作者，社会观察与认知升级 |
 
 ### Companies
 
