@@ -8,10 +8,17 @@ related:
   - concepts/Cyclical-Time
   - concepts/Solitude
   - concepts/Collective-Memory
+  - concepts/Love-vs-Time
+  - concepts/Obsession-vs-Love
+  - concepts/Love-as-Anti-Nihilism
   - summaries/One-Hundred-Years-of-Solitude-Book-Guide
+  - summaries/Love-in-the-Time-of-Cholera-Book-Guide
 source_files:
   - raw/my-notes/book-guide/20260517-《百年孤独》衍生性拆书指南.md
-last_updated: 2026-05-17
+  - raw/my-notes/book-review/20260517-《百年孤独》：我们从未真正看见过彼此.md
+  - raw/my-notes/book-guide/20260520-《霍乱时期的爱情》衍生性拆书指南.md
+  - raw/my-notes/book-review/20260520-《霍乱时期的爱情》：他等了五十一年但等的不是她.md
+last_updated: 2026-05-21
 ---
 
 ## 简介

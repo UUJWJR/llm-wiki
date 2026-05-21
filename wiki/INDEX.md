@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-last_updated: 2026-05-17
+last_updated: 2026-05-21
 ---
 
 > This index is auto-generated. Run `/index` to refresh.
@@ -90,6 +90,32 @@ last_updated: 2026-05-17
 | [[summaries/Rich-Second-Generation-Failure-Article\|富二代把自己弄死了]] | `raw/articles/富二代把自己弄死了.md` | 2026-03-24 | article, wealth, second-generation, mean-reversion |
 | [[summaries/Value-Investing-Agent-Cluster-Handbook\|价值投资Agent集群实操学习手册]] | `raw/papers/价值投资Agent集群实操学习手册.md` | 2026-05-19 | paper, value-investing, ai-agent, education, buffett |
 | [[summaries/AI-Massacring-Middle-Layer-Article\|AI正在屠杀中间层]] | `raw/articles/AI正在屠杀中间层.md` | 2026-03-20 | article, ai, employment, middle-class, taste |
+| [[summaries/On-the-Heights-of-Despair-Book-Guide\|《在绝望之巅》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《在绝望之巅》衍生性拆书指南.md` | 2026-05-18 | book-guide, cioran, philosophy, nihilism, despair |
+| [[summaries/Notes-from-Underground-Book-Guide\|《地下室手记》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《地下室手记》衍生性拆书指南.md` | 2026-05-18 | book-guide, dostoevsky, existentialism, free-will, rationalism |
+| [[summaries/To-Kill-a-Mockingbird-Book-Guide\|《杀死一只知更鸟》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《杀死一只知更鸟》衍生性拆书指南.md` | 2026-05-18 | book-guide, harper-lee, racial-justice, moral-courage, coming-of-age |
+| [[summaries/Catcher-in-the-Rye-Book-Guide\|《麦田里的守望者》衍生性拆书指南]] | `raw/my-notes/book-guide/20260518-《麦田里的守望者》衍生性拆书指南.md` | 2026-05-18 | book-guide, salinger, coming-of-age, alienation, authenticity |
+| [[summaries/On-the-Heights-of-Despair-Book-Review\|在绝望之巅，你看到的不是深渊——读齐奥朗《在绝望之巅》]] | `raw/my-notes/book-review/20260518-《在绝望之巅》：在绝望之巅，你看到的不是深渊.md` | 2026-05-18 | book-review, cioran, philosophy, despair, essay |
+| [[summaries/Notes-from-Underground-Book-Review\|我宁愿痛苦，也不要被幸福驯服——读陀思妥耶夫斯基《地下室手记》]] | `raw/my-notes/book-review/20260518-《地下室手记》：我宁愿痛苦，也不要被幸福驯服.md` | 2026-05-18 | book-review, dostoevsky, existentialism, free-will, essay |
+| [[summaries/To-Kill-a-Mockingbird-Book-Review\|站在门廊上——读哈珀·李《杀死一只知更鸟》：明知会输，仍然去做]] | `raw/my-notes/book-review/20260518-《杀死一只知更鸟》：站在门廊上——明知会输，仍然去做.md` | 2026-05-18 | book-review, harper-lee, racial-justice, moral-courage, essay |
+| [[summaries/Catcher-in-the-Rye-Book-Review\|那个看什么都像假模假式的人，后来怎么样了——读塞林格《麦田里的守望者》]] | `raw/my-notes/book-review/20260518-《麦田里的守望者》：那个看什么都像假模假式的人，后来怎么样了.md` | 2026-05-18 | book-review, salinger, coming-of-age, alienation, essay |
+| [[summaries/The-Why-Cafe-Book-Guide\|《世界尽头的咖啡馆》衍生性拆书指南]] | `raw/my-notes/book-guide/20260520-《世界尽头的咖啡馆》衍生性拆书指南.md` | 2026-05-20 | book-guide, strelecky, purpose, self-discovery, fable |
+| [[summaries/Being-Mortal-Book-Guide\|《最好的告别》衍生性拆书指南]] | `raw/my-notes/book-guide/20260520-《最好的告别》衍生性拆书指南.md` | 2026-05-20 | book-guide, gawande, medicine, aging, death, palliative-care |
+| [[summaries/Britt-Marie-Was-Here-Book-Guide\|《清单人生》衍生性拆书指南]] | `raw/my-notes/book-guide/20260520-《清单人生》衍生性拆书指南.md` | 2026-05-20 | book-guide, backman, self-discovery, female-awakening, healing |
+| [[summaries/The-Idiot-Book-Guide\|《白痴》衍生性拆书指南]] | `raw/my-notes/book-guide/20260520-《白痴》衍生性拆书指南.md` | 2026-05-20 | book-guide, dostoevsky, innocence, morality, russian-literature |
+| [[summaries/Crime-and-Punishment-Book-Guide\|《罪与罚》衍生性拆书指南]] | `raw/my-notes/book-guide/20260520-《罪与罚》衍生性拆书指南.md` | 2026-05-20 | book-guide, dostoevsky, morality, psychology, rationalism |
+| [[summaries/The-Insulted-and-Humiliated-Book-Guide\|《被侮辱与被损害的人》衍生性拆书指南]] | `raw/my-notes/book-guide/20260520-《被侮辱与被损害的人》衍生性拆书指南.md` | 2026-05-20 | book-guide, dostoevsky, social-injustice, class, morality |
+| [[summaries/The-Miracles-of-the-Namiya-General-Store-Book-Guide\|《解忧杂货店》衍生性拆书指南]] | `raw/my-notes/book-guide/20260520-《解忧杂货店》衍生性拆书指南.md` | 2026-05-20 | book-guide, higashino-keigo, time-travel, destiny, healing |
+| [[summaries/The-Summing-Up-Book-Guide\|《阅读是一座随身携带的避难所》衍生性拆书指南]] | `raw/my-notes/book-guide/20260520-《阅读是一座随身携带的避难所》衍生性拆书指南.md` | 2026-05-20 | book-guide, maugham, reading, literary-criticism, classics |
+| [[summaries/Love-in-the-Time-of-Cholera-Book-Guide\|《霍乱时期的爱情》衍生性拆书指南]] | `raw/my-notes/book-guide/20260520-《霍乱时期的爱情》衍生性拆书指南.md` | 2026-05-20 | book-guide, marquez, love, time, magical-realism |
+| [[summaries/The-Why-Cafe-Book-Review\|我在凌晨三点，遇见了那只绿海龟——读约翰·史崔勒基《世界尽头的咖啡馆》]] | `raw/my-notes/book-review/20260520-《世界尽头的咖啡馆》：我在凌晨三点遇见了那只绿海龟.md` | 2026-05-20 | book-review, strelecky, purpose, self-discovery, essay |
+| [[summaries/Being-Mortal-Book-Review\|当医学成为暴君，我们如何好好说再见——读阿图·葛文德《最好的告别》]] | `raw/my-notes/book-review/20260520-《最好的告别》：当医学成为暴君，我们如何好好说再见.md` | 2026-05-20 | book-review, gawande, medicine, aging, death, essay |
+| [[summaries/Britt-Marie-Was-Here-Book-Review\|当我放下清单，人生才真正开始——读巴克曼《清单人生》]] | `raw/my-notes/book-review/20260520-《清单人生》：当我放下清单，人生才真正开始.md` | 2026-05-20 | book-review, backman, self-discovery, female-awakening, essay |
+| [[summaries/The-Idiot-Book-Review\|当善良成为一种毁灭性的力量——重读陀思妥耶夫斯基《白痴》]] | `raw/my-notes/book-review/20260520-《白痴》：当善良成为一种毁灭性的力量.md` | 2026-05-20 | book-review, dostoevsky, innocence, morality, essay |
+| [[summaries/Crime-and-Punishment-Book-Review\|他用一道数学题，算出了自己必须杀人——读陀思妥耶夫斯基《罪与罚》]] | `raw/my-notes/book-review/20260520-《罪与罚》：他用一道数学题算出了自己必须杀人.md` | 2026-05-20 | book-review, dostoevsky, morality, psychology, essay |
+| [[summaries/The-Insulted-and-Humiliated-Book-Review\|当理性成为最精致的恶——重读陀思妥耶夫斯基《被侮辱与被损害的人》]] | `raw/my-notes/book-review/20260520-《被侮辱与被损害的人》：当理性成为最精致的恶.md` | 2026-05-20 | book-review, dostoevsky, social-injustice, class, essay |
+| [[summaries/The-Miracles-of-the-Namiya-General-Store-Book-Review\|我向一个不存在的人，问了一个不敢问自己的问题——读东野圭吾《解忧杂货店》]] | `raw/my-notes/book-review/20260520-《解忧杂货店》：我向一个不存在的人问了一个不敢问自己的问题.md` | 2026-05-20 | book-review, higashino-keigo, time-travel, destiny, essay |
+| [[summaries/The-Summing-Up-Book-Review\|在经典小说的八卦里，我找到了阅读的尊严——重读毛姆《阅读是一座随身携带的避难所》]] | `raw/my-notes/book-review/20260520-《阅读是一座随身携带的避难所》：在经典小说的八卦里，我找到了阅读的尊严.md` | 2026-05-20 | book-review, maugham, reading, literary-criticism, essay |
+| [[summaries/Love-in-the-Time-of-Cholera-Book-Review\|他等了五十一年，但等的不是她——读马尔克斯《霍乱时期的爱情》]] | `raw/my-notes/book-review/20260520-《霍乱时期的爱情》：他等了五十一年但等的不是她.md` | 2026-05-20 | book-review, marquez, love, time, essay |
 
 ---
 
@@ -183,6 +209,45 @@ last_updated: 2026-05-17
 | [[concepts/Taste-as-Moat]] | 品味作为护城河：从信息海洋中筛选精品的能力 | high |
 | [[concepts/Human-Flavor]] | 活人味：算法时代最稀缺的特质 | high |
 | [[concepts/Non-Standardization-Survival]] | 非标化生存：AI无法替代的领域 | high |
+| [[concepts/Despair-as-Starting-Point]] | 绝望作为起点而非终点 | high |
+| [[concepts/Absurdity-of-Existence]] | 存在的荒谬性 | high |
+| [[concepts/Nihilism-as-Freedom]] | 虚无主义作为自由的起点 | high |
+| [[concepts/Free-Will-vs-Interest]] | 自由意志高于利益 | high |
+| [[concepts/Anti-Rationalism]] | 反理性主义：人不是钢琴键 | high |
+| [[concepts/Self-Destruction-as-Dignity]] | 自毁作为尊严 | high |
+| [[concepts/Empathy-as-Moral-Foundation]] | 共情作为道德基础 | high |
+| [[concepts/Moral-Courage]] | 道德勇气：明知会输，仍然去做 | high |
+| [[concepts/Racial-Injustice]] | 种族不公正 | high |
+| [[concepts/Phoniness]] | 假模假式：对成人世界虚伪的批判 | high |
+| [[concepts/Authenticity-vs-Maturity]] | 真诚与成熟的矛盾 | high |
+| [[concepts/Alienation-of-Youth]] | 青年的疏离感 | high |
+| [[concepts/Purpose-For-Existing]] | 存在的意义（PFE） | high |
+| [[concepts/Green-Sea-Turtle]] | 绿海龟：不与海浪抗争，而是利用它 | high |
+| [[concepts/Fear-of-Death-as-Mirror]] | 对死亡的恐惧作为人生镜子 | high |
+| [[concepts/Medicalization-of-Death]] | 死亡的医疗化 | high |
+| [[concepts/Palliative-Care]] | 姑息治疗/善终服务 | high |
+| [[concepts/Quality-of-Life-vs-Quantity]] | 生命质量 vs 生命长度 | high |
+| [[concepts/List-Life]] | 清单人生：用秩序掩盖混乱 | high |
+| [[concepts/Rebuilding-Self]] | 在废墟上重建自我 | high |
+| [[concepts/Being-Needed]] | 被需要的感觉 | high |
+| [[concepts/Holy-Fool]] | 圣愚：天真作为力量 | high |
+| [[concepts/Innocence-vs-Corruption]] | 纯真与腐化的对抗 | high |
+| [[concepts/Self-Destructive-Love]] | 自毁式爱情 | high |
+| [[concepts/Extraordinary-Man-Theory]] | 非凡人理论 | high |
+| [[concepts/Moral-Transgression]] | 道德越界 | high |
+| [[concepts/Redemption-Through-Suffering]] | 通过苦难救赎 | high |
+| [[concepts/Legal-Violence]] | 法律暴力：用制度杀人 | high |
+| [[concepts/Class-Warfare]] | 阶级战争 | high |
+| [[concepts/Forgiveness-vs-Pride]] | 原谅与骄傲的冲突 | high |
+| [[concepts/Time-Travel-Narrative]] | 时间旅行叙事 | high |
+| [[concepts/Destiny-vs-Choice]] | 命运与选择 | high |
+| [[concepts/Answer-Within]] | 答案在心里 | high |
+| [[concepts/Reading-as-Shelter]] | 阅读作为避难所 | high |
+| [[concepts/Literary-Gossip]] | 文学八卦：作家的血肉 | high |
+| [[concepts/Writer-as-Human]] | 作家作为人：拒绝被"伟大"蒙蔽 | high |
+| [[concepts/Love-vs-Time]] | 爱情对抗时间 | high |
+| [[concepts/Obsession-vs-Love]] | 执念与爱情的边界 | high |
+| [[concepts/Love-as-Anti-Nihilism]] | 爱情作为对抗虚无的武器 | high |
 
 ---
 
@@ -224,6 +289,14 @@ last_updated: 2026-05-17
 | [[entities/Ray-Kurzweil\|Ray Kurzweil]] | 未来学家，《奇点临近》作者 |
 | [[entities/Masahiro-Miura\|Masahiro Miura]] | 日本社会观察家，"第四/五消费时代"提出者 |
 | [[entities/Jiubian-Pro\|九边Pro]] | 中文互联网知名自媒体作者，社会观察与认知升级 |
+| [[entities/Emil-Cioran\|Emil Cioran (齐奥朗)]] | 罗马尼亚裔法国哲学家，《在绝望之巅》作者 |
+| [[entities/Fyodor-Dostoevsky\|Fyodor Dostoevsky (陀思妥耶夫斯基)]] | 俄国作家，存在主义文学先驱 |
+| [[entities/Harper-Lee\|Harper Lee (哈珀·李)]] | 美国作家，《杀死一只知更鸟》作者 |
+| [[entities/JD-Salinger\|J.D. Salinger (塞林格)]] | 美国作家，《麦田里的守望者》作者 |
+| [[entities/John-Strelecky\|John Strelecky (约翰·史崔勒基)]] | 美国作家，《世界尽头的咖啡馆》作者 |
+| [[entities/Atul-Gawande\|Atul Gawande (阿图·葛文德)]] | 美国外科医生、作家，《最好的告别》作者 |
+| [[entities/Fredrik-Backman\|Fredrik Backman (巴克曼)]] | 瑞典作家，《清单人生》作者 |
+| [[entities/Keigo-Higashino\|Keigo Higashino (东野圭吾)]] | 日本推理小说家，《解忧杂货店》作者 |
 
 ### Companies
 
