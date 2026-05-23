@@ -1,8 +1,8 @@
 ---
 type: summary
-title: 当市场 panic 时，你在做什么——《证券分析》书评
+title: 当市场 恐慌 时，你在做什么——《证券分析》书评
 source_files:
-  - raw/my-notes/book-review/20260518-《证券分析》：当市场 panic 时，你在做什么.md
+  - raw/my-notes/book-review/20260518-《证券分析》：当市场 恐慌 时，你在做什么.md
 source_type: note
 date: 2026-05-18
 tags:
@@ -34,4 +34,4 @@ tags:
 
 ## Source
 
-- `raw/my-notes/book-review/20260518-《证券分析》：当市场 panic 时，你在做什么.md`
+- `raw/my-notes/book-review/20260518-《证券分析》：当市场 恐慌 时，你在做什么.md`

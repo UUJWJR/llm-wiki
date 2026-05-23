@@ -80,7 +80,7 @@ last_updated: 2026-05-21
 | [[summaries/Painted-Veil-Book-Review\|死的却是狗——《面纱》书评]] | `raw/my-notes/book-review/20260518-《面纱》：死的却是狗——当爱情幻觉遇上死亡镜子.md` | 2026-05-18 | book-review, maugham, love-illusion, awakening, death, essay |
 | [[summaries/Poor-Charlies-Almanack-Book-Review\|当你只有一把锤子，看什么都像钉子——《穷查理宝典》书评]] | `raw/my-notes/book-review/20260518-《穷查理宝典》：当你只有一把锤子，看什么都像钉子.md` | 2026-05-18 | book-review, munger, mental-models, essay |
 | [[summaries/Thinking-Fast-and-Slow-Book-Review\|你不是在思考，你是在被推着跑——《思考，快与慢》书评]] | `raw/my-notes/book-review/20260518-《思考，快与慢》：你不是在思考，你是在被推着跑.md` | 2026-05-18 | book-review, kahneman, behavioral-economics, cognitive-bias, essay |
-| [[summaries/Security-Analysis-Book-Review\|当市场 panic 时，你在做什么——《证券分析》书评]] | `raw/my-notes/book-review/20260518-《证券分析》：当市场 panic 时，你在做什么.md` | 2026-05-18 | book-review, graham, dodd, value-investing, essay |
+| [[summaries/Security-Analysis-Book-Review\|当市场 恐慌 时，你在做什么——《证券分析》书评]] | `raw/my-notes/book-review/20260518-《证券分析》：当市场 恐慌 时，你在做什么.md` | 2026-05-18 | book-review, graham, dodd, value-investing, essay |
 | [[summaries/Intelligent-Investor-Book-Review\|承认自己普通，是投资中最不普通的智慧——《聪明的投资者》书评]] | `raw/my-notes/book-review/20260518-《聪明的投资者》：承认自己普通，是投资中最不普通的智慧.md` | 2026-05-18 | book-review, graham, value-investing, essay |
 | [[summaries/AI-Inequality-Article\|AI时代真正难以弥合的不平等]] | `raw/articles/AI时代真正难以弥合的不平等.md` | 2026-04-24 | article, ai, inequality, cognition |
 | [[summaries/Death-Zone-Article\|一个很多人没注意到的"死亡地带"]] | `raw/articles/一个很多人没注意到的"死亡地带".md` | 2026-03-31 | article, health, lifespan, midlife-crisis |

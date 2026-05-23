@@ -14,7 +14,7 @@ source_files:
   - raw/my-notes/book-guide/20260518-《聪明的投资者》衍生性拆书指南.md
   - raw/my-notes/book-guide/20260518-《证券分析》衍生性拆书指南.md
   - raw/my-notes/book-review/20260518-《聪明的投资者》：承认自己普通，是投资中最不普通的智慧.md
-  - raw/my-notes/book-review/20260518-《证券分析》：当市场 panic 时，你在做什么.md
+  - raw/my-notes/book-review/20260518-《证券分析》：当市场 恐慌 时，你在做什么.md
 source_count: 4
 last_updated: 2026-05-18
 confidence: high
