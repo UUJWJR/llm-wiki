@@ -123,9 +123,9 @@ last_updated: 2026-05-23
 
 ---
 
-## Concepts
+## 概念
 
-| Page | Description | Confidence |
+| 页面 | 描述 | 置信度 |
 |------|-------------|------------|
 | [[concepts/LLM-Wiki\|LLM Wiki (大模型知识库)]] | 让大模型持续构建、维护结构化 Markdown 知识库的模式 | high |
 | [[concepts/RAG\|RAG (检索增强生成)]] | 检索增强生成——查询时处理的临时检索架构 | high |
@@ -251,56 +251,56 @@ last_updated: 2026-05-23
 | [[concepts/Writer-as-Human\|作家作为人 (Writer as Human)]] | 作家作为人：拒绝被"伟大"蒙蔽 | high |
 | [[concepts/Love-vs-Time\|爱情对抗时间 (Love vs Time)]] | 爱情对抗时间 | high |
 | [[concepts/Obsession-vs-Love\|执念与爱情 (Obsession vs Love)]] | 执念与爱情的边界 | high |
-| [[concepts/Love-as-Anti-Nihilism]] | 爱情作为对抗虚无的武器 | high |
-| [[concepts/Benfen]] | 本分：不是道德高地，是能力边界 | high |
-| [[concepts/Ordinary-Mind]] | 平常心：回到事物本源的心态 | high |
-| [[concepts/Do-Right-Thing]] | 做对的事情，把事情做对——顺序不可颠倒 | high |
-| [[concepts/Dont-Invest-What-You-Dont-Understand]] | 不懂不做：投资的第一纪律 | high |
-| [[concepts/Stop-Doing-List]] | 不为清单：主动划定边界 | high |
-| [[concepts/AI-Money-Effect]] | AI吸金效应：资金极端分化的结构性现象 | high |
-| [[concepts/Barbell-Strategy]] | 杠铃策略：两头下注，不选边站 | high |
-| [[concepts/Value-Trap]] | 价值陷阱：下跌≠机会，基本面恶化是最大风险 | high |
-| [[concepts/Contrarian-Investing]] | 逆向投资：在恐慌中买入，但需精选标的 | high |
+| [[concepts/Love-as-Anti-Nihilism\|爱情作为反虚无 (Love as Anti-Nihilism)]] | 爱情作为对抗虚无的武器 | high |
+| [[concepts/Benfen\|本分 (Benfen)]] | 本分：不是道德高地，是能力边界 | high |
+| [[concepts/Ordinary-Mind\|平常心 (Ordinary Mind)]] | 平常心：回到事物本源的心态 | high |
+| [[concepts/Do-Right-Thing\|做对的事情 (Do Right Thing)]] | 做对的事情，把事情做对——顺序不可颠倒 | high |
+| [[concepts/Dont-Invest-What-You-Dont-Understand\|不懂不做 (Dont Invest What You Dont Understand)]] | 不懂不做：投资的第一纪律 | high |
+| [[concepts/Stop-Doing-List\|不为清单 (Stop Doing List)]] | 不为清单：主动划定边界 | high |
+| [[concepts/AI-Money-Effect\|AI吸金效应 (AI Money Effect)]] | AI吸金效应：资金极端分化的结构性现象 | high |
+| [[concepts/Barbell-Strategy\|杠铃策略 (Barbell Strategy)]] | 杠铃策略：两头下注，不选边站 | high |
+| [[concepts/Value-Trap\|价值陷阱 (Value Trap)]] | 价值陷阱：下跌≠机会，基本面恶化是最大风险 | high |
+| [[concepts/Contrarian-Investing\|逆向投资 (Contrarian Investing)]] | 逆向投资：在恐慌中买入，但需精选标的 | high |
 
 ---
 
-## Entities
+## 实体
 
-### People
+### 人物
 
-| Page | Role |
+| 页面 | 角色 |
 |------|------|
-| [[entities/Andrej-Karpathy\|Andrej Karpathy]] | OpenAI 创始成员，LLM Wiki 提出者 |
+| [[entities/Andrej-Karpathy\|安德烈·卡帕蒂 (Andrej Karpathy)]] | OpenAI 创始成员，LLM Wiki 提出者 |
 | [[entities/Jensen-Huang\|Jensen Huang (黄仁勋)]] | 英伟达联合创始人兼 CEO |
-| [[entities/Dark-Cash\|Dark Cash]] | 播客主持人，以追问硅谷 CEO 著称 |
-| [[entities/Elon-Musk\|Elon Musk]] | 特斯拉/SpaceX/xAI CEO，英伟达大客户 |
-| [[entities/Dario-Amodei\|Dario Amodei]] | Anthropic 联合创始人兼 CEO |
-| [[entities/Huyun\|Huyun]] | PPT 设计规范 v2.0 作者 |
-| [[entities/Franz-Kafka\|Franz Kafka]] | 奥地利小说家，《变形记》作者 |
+| [[entities/Dark-Cash\|Dark Cash (暗现金)]] | 播客主持人，以追问硅谷 CEO 著称 |
+| [[entities/Elon-Musk\|Elon Musk (埃隆·马斯克)]] | 特斯拉/SpaceX/xAI CEO，英伟达大客户 |
+| [[entities/Dario-Amodei\|Dario Amodei (达里奥·阿莫代伊)]] | Anthropic 联合创始人兼 CEO |
+| [[entities/Huyun\|Huyun (虎云)]] | PPT 设计规范 v2.0 作者 |
+| [[entities/Franz-Kafka\|Franz Kafka (弗兰茨·卡夫卡)]] | 奥地利小说家，《变形记》作者 |
 | [[entities/Yu-Hua\|Yu Hua (余华)]] | 中国当代作家，《活着》《文城》作者 |
-| [[entities/Hermann-Hesse\|Hermann Hesse]] | 德国作家，1946年诺贝尔文学奖，《悉达多》作者 |
-| [[entities/Gabriel-Garcia-Marquez\|Gabriel García Márquez]] | 哥伦比亚作家，1982年诺贝尔文学奖，《百年孤独》作者 |
-| [[entities/Tara-Westover\|Tara Westover]] | 美国作家，《你当像鸟飞向你的山》作者，剑桥历史学博士 |
-| [[entities/Gustave-Le-Bon\|Gustave Le Bon]] | 法国社会心理学家，《乌合之众》作者，群体心理学创始人 |
-| [[entities/Han-Kang\|Han Kang]] | 韩国作家，2024年诺贝尔文学奖得主，《素食者》作者 |
-| [[entities/Ernest-Hemingway\|Ernest Hemingway]] | 美国作家，1954年诺贝尔文学奖得主，《老人与海》作者 |
-| [[entities/Albert-Camus\|Albert Camus]] | 法国作家、哲学家，1957年诺贝尔文学奖得主，《西西弗神话》作者 |
-| [[entities/Stefan-Zweig\|Stefan Zweig]] | 奥地利作家，欧洲人文主义的最后信徒，《人类群星闪耀时》《昨日的世界》作者 |
-| [[entities/Yann-Martel\|Yann Martel]] | 加拿大作家，《少年派的奇幻漂流》作者，2002年布克奖得主 |
-| [[entities/Friedrich-Nietzsche\|Friedrich Nietzsche]] | 德国哲学家，《悲剧的诞生》作者，日神与酒神理论的提出者 |
-| [[entities/Andre-Gide\|André Gide]] | 法国作家，1947年诺贝尔文学奖得主，《窄门》作者 |
-| [[entities/Kawabata-Yasunari\|Kawabata Yasunari]] | 日本作家，1968年诺贝尔文学奖得主，《雪国》作者 |
-| [[entities/Benjamin-Graham\|Benjamin Graham]] | 价值投资之父，《聪明的投资者》《证券分析》作者 |
-| [[entities/David-Dodd\|David Dodd]] | 哥伦比亚大学教授，《证券分析》合著者 |
-| [[entities/Alfred-Adler\|Alfred Adler]] | 个体心理学创始人，《自卑与超越》作者 |
-| [[entities/Richard-Dawkins\|Richard Dawkins]] | 演化生物学家，《自私的基因》作者 |
-| [[entities/Daniel-Kahneman\|Daniel Kahneman]] | 诺贝尔经济学奖得主，《思考，快与慢》作者 |
-| [[entities/Charlie-Munger\|Charlie Munger]] | 伯克希尔副董事长，芒格格栅理论提出者 |
-| [[entities/Khaled-Hosseini\|Khaled Hosseini]] | 阿富汗裔美国作家，《追风筝的人》作者 |
-| [[entities/W-Somerset-Maugham\|W. Somerset Maugham]] | 英国作家，《面纱》作者 |
-| [[entities/Mihaly-Csikszentmihalyi\|Mihaly Csikszentmihalyi]] | 心理学家，心流理论创始人 |
-| [[entities/Ray-Kurzweil\|Ray Kurzweil]] | 未来学家，《奇点临近》作者 |
-| [[entities/Masahiro-Miura\|Masahiro Miura]] | 日本社会观察家，"第四/五消费时代"提出者 |
+| [[entities/Hermann-Hesse\|Hermann Hesse (赫尔曼·黑塞)]] | 德国作家，1946年诺贝尔文学奖，《悉达多》作者 |
+| [[entities/Gabriel-Garcia-Marquez\|Gabriel García Márquez (加西亚·马尔克斯)]] | 哥伦比亚作家，1982年诺贝尔文学奖，《百年孤独》作者 |
+| [[entities/Tara-Westover\|Tara Westover (塔拉·韦斯特弗)]] | 美国作家，《你当像鸟飞向你的山》作者，剑桥历史学博士 |
+| [[entities/Gustave-Le-Bon\|Gustave Le Bon (古斯塔夫·勒庞)]] | 法国社会心理学家，《乌合之众》作者，群体心理学创始人 |
+| [[entities/Han-Kang\|Han Kang (韩江)]] | 韩国作家，2024年诺贝尔文学奖得主，《素食者》作者 |
+| [[entities/Ernest-Hemingway\|Ernest Hemingway (欧内斯特·海明威)]] | 美国作家，1954年诺贝尔文学奖得主，《老人与海》作者 |
+| [[entities/Albert-Camus\|Albert Camus (阿尔贝·加缪)]] | 法国作家、哲学家，1957年诺贝尔文学奖得主，《西西弗神话》作者 |
+| [[entities/Stefan-Zweig\|Stefan Zweig (斯蒂芬·茨威格)]] | 奥地利作家，欧洲人文主义的最后信徒，《人类群星闪耀时》《昨日的世界》作者 |
+| [[entities/Yann-Martel\|Yann Martel (扬·马特尔)]] | 加拿大作家，《少年派的奇幻漂流》作者，2002年布克奖得主 |
+| [[entities/Friedrich-Nietzsche\|Friedrich Nietzsche (弗里德里希·尼采)]] | 德国哲学家，《悲剧的诞生》作者，日神与酒神理论的提出者 |
+| [[entities/Andre-Gide\|André Gide (安德烈·纪德)]] | 法国作家，1947年诺贝尔文学奖得主，《窄门》作者 |
+| [[entities/Kawabata-Yasunari\|Kawabata Yasunari (川端康成)]] | 日本作家，1968年诺贝尔文学奖得主，《雪国》作者 |
+| [[entities/Benjamin-Graham\|Benjamin Graham (本杰明·格雷厄姆)]] | 价值投资之父，《聪明的投资者》《证券分析》作者 |
+| [[entities/David-Dodd\|David Dodd (大卫·多德)]] | 哥伦比亚大学教授，《证券分析》合著者 |
+| [[entities/Alfred-Adler\|Alfred Adler (阿尔弗雷德·阿德勒)]] | 个体心理学创始人，《自卑与超越》作者 |
+| [[entities/Richard-Dawkins\|Richard Dawkins (理查德·道金斯)]] | 演化生物学家，《自私的基因》作者 |
+| [[entities/Daniel-Kahneman\|Daniel Kahneman (丹尼尔·卡尼曼)]] | 诺贝尔经济学奖得主，《思考，快与慢》作者 |
+| [[entities/Charlie-Munger\|Charlie Munger (查理·芒格)]] | 伯克希尔副董事长，芒格格栅理论提出者 |
+| [[entities/Khaled-Hosseini\|Khaled Hosseini (卡勒德·胡赛尼)]] | 阿富汗裔美国作家，《追风筝的人》作者 |
+| [[entities/W-Somerset-Maugham\|W. Somerset Maugham (毛姆)]] | 英国作家，《面纱》作者 |
+| [[entities/Mihaly-Csikszentmihalyi\|Mihaly Csikszentmihalyi (米哈里·契克森米哈赖)]] | 心理学家，心流理论创始人 |
+| [[entities/Ray-Kurzweil\|Ray Kurzweil (雷·库兹韦尔)]] | 未来学家，《奇点临近》作者 |
+| [[entities/Masahiro-Miura\|Masahiro Miura (三浦展)]] | 日本社会观察家，"第四/五消费时代"提出者 |
 | [[entities/Jiubian-Pro\|九边Pro]] | 中文互联网知名自媒体作者，社会观察与认知升级 |
 | [[entities/Emil-Cioran\|Emil Cioran (齐奥朗)]] | 罗马尼亚裔法国哲学家，《在绝望之巅》作者 |
 | [[entities/Fyodor-Dostoevsky\|Fyodor Dostoevsky (陀思妥耶夫斯基)]] | 俄国作家，存在主义文学先驱 |
@@ -312,42 +312,42 @@ last_updated: 2026-05-23
 | [[entities/Keigo-Higashino\|Keigo Higashino (东野圭吾)]] | 日本推理小说家，《解忧杂货店》作者 |
 | [[entities/Duan-Yongping\|Duan Yongping (段永平)]] | 小霸王/步步高创始人，OPPO/vivo教父，价值投资实践者 |
 
-### Companies
+### 公司
 
-| Page | Role |
+| 页面 | 角色 |
 |------|------|
 | [[entities/Nvidia\|Nvidia (英伟达)]] | 全球最大 AI 芯片公司，市值超 5 万亿 |
 | [[entities/Anthropic\|Anthropic]] | AI 安全研究公司，Claude 开发者 |
 | [[entities/OpenAI\|OpenAI]] | GPT/ChatGPT 开发者 |
 | [[entities/China-Mobile\|China Mobile (中国移动)]] | 中国最大的移动通信运营商 |
 
-### Tools
+### 工具
 
-| Page | Role |
+| 页面 | 角色 |
 |------|------|
 | [[entities/Obsidian\|Obsidian]] | Markdown 知识库编辑器 |
 | [[entities/NotebookLM\|NotebookLM]] | Google AI 笔记工具 |
 
 ---
 
-## Scenarios
+## 场景
 
-> No scenarios yet. Generate with: "generate a scenario page for [name]"
-
----
-
-## Syntheses
-
-> No syntheses yet. Generate with: "generate a synthesis about [topic]"
+> 暂无场景。使用指令生成："generate a scenario page for [name]"
 
 ---
 
-## Q&A
+## 综合
 
-> No Q&A yet. Ask a question to generate.
+> 暂无综合。使用指令生成："generate a synthesis about [topic]"
 
 ---
 
-## Operation Log
+## 问答
 
-See [[log.md]] for full history.
+> 暂无问答。提出问题即可生成。
+
+---
+
+## 操作日志
+
+查看 [[log.md]] 获取完整历史。
