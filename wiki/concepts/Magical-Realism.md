@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Magical Realism
+title: 魔幻现实主义 (Magical Realism)
 tags: [literary-genre, narrative-technique, latin-american-literature, reality]
 related:
   - entities/Gabriel-Garcia-Marquez

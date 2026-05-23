@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Faith as Choice
+title: 信仰作为选择 (Faith as Choice)
 aliases: [信仰作为选择]
 tags: [religion, psychology, survival, martel]
 related: [concepts/Story-as-Survival, concepts/Existentialism]

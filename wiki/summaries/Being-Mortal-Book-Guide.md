@@ -14,7 +14,7 @@ tags:
   - palliative-care
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **医学的悖论**：20世纪以来医学将"死亡"视为失败，将"治愈"视为唯一目标。当疾病无法治愈时，医生和患者都陷入尴尬沉默。
 
@@ -24,16 +24,16 @@ tags:
 
 4. **善终服务的觉醒**：将治疗目标从"延长生命"转向"提高生命质量"。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Medicalization-of-Death]] — 死亡的医疗化
 - [[concepts/Palliative-Care]] — 姑息治疗/善终服务
 - [[concepts/Quality-of-Life-vs-Quantity]] — 生命质量 vs 生命长度
 
-## Connections
+## 关联
 
 - 与 [[entities/Atul-Gawande]] 直接关联
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260520-《最好的告别》衍生性拆书指南.md)

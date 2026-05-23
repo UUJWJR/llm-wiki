@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Forgetting as Complicity
+title: 遗忘作为共谋 (Forgetting as Complicity)
 aliases: [遗忘的共谋]
 tags: [memory, history, trauma, politics]
 related: [concepts/Golden-Age-Illusion, concepts/Collective-Memory]

@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Flow (心流)
+title: 心流 (Flow)
 tags:
   - psychology
   - optimal-experience
@@ -18,11 +18,11 @@ last_updated: 2026-05-18
 confidence: high
 ---
 
-## Definition
+## 定义
 
 心流（Flow）是心理学家米哈里·契克森米哈赖提出的概念，指一种**最优的心理状态**——当人完全沉浸于某项活动，忘记时间、忘记自我，行动与意识融合，体验到深度的充实感和满足感。
 
-## Core Mechanism
+## 核心机制
 
 心流产生的八个特征：
 
@@ -35,20 +35,20 @@ confidence: high
 7. **自我意识的消失**——不再关注"别人怎么看我"
 8. **时间感的扭曲**——几小时像几分钟，或一瞬间像永恒
 
-## Applications
+## 应用
 
 - **工作设计**：将任务分解为具有明确目标和即时反馈的单元
 - **教育**：设计难度递进的挑战，维持学生在"学习区"
 - **休闲**：主动选择有挑战的爱好，而非被动消费娱乐
 - **心理健康**：通过心流体验降低精神熵，建立内在秩序
 
-## Relationship to Other Concepts
+## 与其他概念的关系
 
 - [[concepts/Psychic-Entropy]] — 心流是降低精神熵的最有效方式
 - [[concepts/Existentialism]] — 心流体验创造"生命主题"，赋予存在意义
 - [[concepts/Absurdism]] — 加缪的"反抗"可以通过心流体验具体化
 
-## Source Citations
+## 来源引用
 
 - (source: raw/my-notes/book-guide/20260518-《心流》衍生性拆书指南.md)
 - (source: raw/my-notes/book-review/20260518-《心流》：幸福不是追来的，是你忘我的那一刻.md)

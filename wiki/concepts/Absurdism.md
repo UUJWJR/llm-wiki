@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Absurdism
+title: 荒诞主义 (Absurdism)
 tags: [philosophy, existentialism, meaning, literature, camus]
 related:
   - entities/Albert-Camus

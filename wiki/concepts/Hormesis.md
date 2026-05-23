@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Hormesis (毒物兴奋效应)
+title: 毒物兴奋效应 (Hormesis)
 aliases: [毒物兴奋效应]
 tags: [biology, cognition, learning, stress]
 related:

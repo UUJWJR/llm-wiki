@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Single Point of Failure
+title: 单点故障 (Single Point of Failure)
 aliases: [单点故障, 凯尔卡门]
 tags: [systems-thinking, risk, history, zweig]
 related: [concepts/Decisive-Moment]

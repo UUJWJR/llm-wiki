@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Violence as Justice
+title: 暴力即正义 (Violence as Justice)
 aliases: [暴力即正义]
 tags: [politics, history, morality, yu-hua]
 related: [concepts/Money-as-Justice, concepts/Absurdism]

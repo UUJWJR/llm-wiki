@@ -1,6 +1,6 @@
 ---
 type: concept
-title: AI Money Effect (AI吸金效应)
+title: AI 吸金效应 (AI Money Effect)
 tags:
   - investing
   - ai
@@ -18,11 +18,11 @@ last_updated: 2026-05-23
 confidence: high
 ---
 
-## Definition
+## 定义
 
 AI吸金效应：2023-2025年美股市场经历的历史上最极端的结构性分化——全球资金疯狂涌入AI主题，导致AI/科技板块估值飙升，同时非AI传统行业资金持续流出、估值被压缩。
 
-## Core Mechanism
+## 核心机制
 
 **现象描述**：
 - Mag7占标普500市值比重超过30%，创历史新高
@@ -37,20 +37,20 @@ AI吸金效应：2023-2025年美股市场经历的历史上最极端的结构性
 4. 被动资金（指数ETF）放大正反馈循环
 5. 加息周期中资金偏好"确定性成长"
 
-## Applications
+## 应用
 
 - **资产配置**：认识到极端分化的不可持续性
 - **风险管理**：避免All-in AI或All-in逆向的极端配置
 - **机会识别**：在非AI板块中寻找被错杀的优质标的
 - **时机选择**：AI板块回调时加仓，非AI板块恐慌抛售时逆向买入
 
-## Relationship to Other Concepts
+## 与其他概念的关系
 
 - [[concepts/Barbell-Strategy]] — 杠铃策略：应对AI吸金效应的最优配置
 - [[concepts/Value-Trap]] — 价值陷阱：非AI下跌不一定是机会
 - [[concepts/Mean-Reversion]] — 均值回归：极端分化最终会被修复
 - [[concepts/Mr-Market]] — 市场先生：AI吸金是市场先生极度乐观的表现
 
-## Source Citations
+## 来源引用
 
 - (source: raw/invest/09-学习资料整理/AI吸金效应 vs 非AI逆向投资 — 深度分析报告.md)

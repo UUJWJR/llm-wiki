@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Alienation
+title: 异化 (Alienation)
 aliases: [异化, 人的异化]
 tags: [philosophy, marxism, existentialism, sociology, modern-life]
 related:

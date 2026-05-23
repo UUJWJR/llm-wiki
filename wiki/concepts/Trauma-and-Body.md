@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Trauma and Body
+title: 创伤与身体 (Trauma and Body)
 tags: [psychology, trauma, c-ptsd, somatics, mental-health, healing]
 related:
   - entities/Tara-Westover

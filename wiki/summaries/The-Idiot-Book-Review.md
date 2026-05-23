@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **绝对善良如何成为毁灭**：一个绝对善良的人，如何在充满算计与欲望的世界里，反而成为最大的"白痴"？
 
@@ -23,16 +23,16 @@ tags:
 
 4. **陀思妥耶夫斯基的厉害之处**：他从不铺垫。一列火车上，两个男人聊了起来——故事就这样开始了。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Holy-Fool]] — 圣愚
 - [[concepts/Innocence-vs-Corruption]] — 纯真与腐化
 
-## Connections
+## 关联
 
 - 与 [[entities/Fyodor-Dostoevsky]] 直接关联
 - 与 [[summaries/The-Idiot-Book-Guide]] 形成「指南+书评」组合
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260520-《白痴》：当善良成为一种毁灭性的力量.md)

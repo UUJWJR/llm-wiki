@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Dignity of Failure
+title: 失败的尊严 (Dignity of Failure)
 aliases: [失败的尊严, Die Würde des Scheiterns]
 tags: [resilience, philosophy, zweig, meaning]
 related: [concepts/Decisive-Moment, concepts/Absurdism]

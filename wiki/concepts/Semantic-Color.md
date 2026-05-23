@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Semantic Color
+title: 语义化着色 (Semantic Color)
 aliases: [语义化着色, 色彩语义]
 tags: [design, data-visualization, color, information-design]
 related:

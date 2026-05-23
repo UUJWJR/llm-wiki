@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Comfort Zone as Trap
+title: 舒适区陷阱 (Comfort Zone as Trap)
 aliases: [舒适区陷阱, 食人岛]
 tags: [psychology, growth, risk, martel]
 related: [concepts/Story-as-Survival, concepts/Faith-as-Choice]

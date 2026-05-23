@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Betrayal of Reason
+title: 理性的背叛 (Betrayal of Reason)
 aliases: [理性的背叛]
 tags: [philosophy, politics, history, zweig]
 related: [concepts/Golden-Age-Illusion, concepts/Failure-of-Language]

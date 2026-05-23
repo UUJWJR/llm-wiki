@@ -14,7 +14,7 @@ tags:
   - portfolio-strategy
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **AI吸金效应真实且极端**：2023-2025年美股经历史上最极端结构性分化，Mag7占标普500市值超30%，NVIDIA涨超10倍，等权指数大幅跑输市值加权。
 
@@ -26,7 +26,7 @@ tags:
 
 5. **非AI五维评分框架**：AI替代抗性(20%) + 基本面健康度(20%) + 估值吸引力(20%) + 股息/现金流回报(20%) + 催化剂可见度(20%)。能源巨头得分最高(8.4分)。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/AI-Money-Effect]] — AI吸金效应：资金极端分化的结构性现象
 - [[concepts/Barbell-Strategy]] — 杠铃策略：两头下注，不选边站
@@ -34,13 +34,13 @@ tags:
 - [[concepts/Mean-Reversion]] — 均值回归：极端分化不可持续
 - [[concepts/Contrarian-Investing]] — 逆向投资：在恐慌中买入，但需精选标的
 
-## Connections
+## 关联
 
 - 与 [[concepts/Margin-of-Safety]] 呼应：安全边际为不确定性提供缓冲
 - 与 [[concepts/Mr-Market]] 呼应：利用市场先生的极端情绪
 - 与 [[summaries/Security-Analysis-Book-Review]] 呼应：投资与投机的分界线
 - 与 [[summaries/DaDao-Duan-Yongping-Book-Guide]] 呼应：不懂不做——非AI投资需要真正懂行业
 
-## Source
+## 来源
 
 - (source: raw/invest/09-学习资料整理/AI吸金效应 vs 非AI逆向投资 — 深度分析报告.md)

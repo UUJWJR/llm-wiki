@@ -13,7 +13,7 @@ tags:
   - coming-of-age
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **通过孩童之眼审视种族偏见**：小说以斯库特·芬奇的第一人称回忆展开，时间跨度1933-1935年，地点是美国阿拉巴马州虚构的梅科姆镇。
 
@@ -25,17 +25,17 @@ tags:
 
 4. **核心追问**："在一个不公正的世界里，一个人如何保持自己的正直？"
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Empathy-as-Moral-Foundation]] — 共情作为道德基础
 - [[concepts/Moral-Courage]] — 道德勇气：明知会输，仍然去做
 - [[concepts/Racial-Injustice]] — 种族不公正
 
-## Connections
+## 关联
 
 - 与 [[entities/Harper-Lee]] 直接关联
 - 与 [[concepts/Justice]] 呼应
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260518-《杀死一只知更鸟》衍生性拆书指南.md)

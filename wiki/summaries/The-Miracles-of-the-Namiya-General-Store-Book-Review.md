@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **心理咨询师的共鸣**：来访者问了一年"我该不该离婚"，其实第一次来就已经决定了。只是需要有人帮她说出来。
 
@@ -23,16 +23,16 @@ tags:
 
 4. **三个小偷的救赎**：翔太、敦也、幸平，三个年轻人在回复他人烦恼的过程中，也找到了自己的答案。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Time-Travel-Narrative]] — 时间旅行叙事
 - [[concepts/Answer-Within]] — 答案在心里
 
-## Connections
+## 关联
 
 - 与 [[entities/Keigo-Higashino]] 直接关联
 - 与 [[summaries/The-Miracles-of-the-Namiya-General-Store-Book-Guide]] 形成「指南+书评」组合
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260520-《解忧杂货店》：我向一个不存在的人问了一个不敢问自己的问题.md)

@@ -1,6 +1,6 @@
 ---
 type: concept
-title: PPT Design System
+title: PPT 设计系统 (PPT Design System)
 aliases: [PPT 设计系统, 演示文稿设计规范]
 tags: [design, ppt, data-visualization, business-report, ui]
 related:

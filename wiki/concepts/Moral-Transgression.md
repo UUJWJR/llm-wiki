@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Moral Transgression
+title: 道德越界 (Moral Transgression)
 tags: [philosophy, morality, dostoevsky, psychology]
 related: [Extraordinary-Man-Theory, Redemption-Through-Suffering]
 source_files:
@@ -11,11 +11,11 @@ last_updated: 2026-05-21
 confidence: high
 ---
 
-## Definition
+## 定义
 
 道德越界：跨越道德界限的行为，以及这种行为对越界者内心的毁灭性影响。陀思妥耶夫斯基展示：惩罚不在法庭，在内心。
 
-## Core Mechanism
+## 核心机制
 
 拉斯柯尔尼科夫的道德越界：
 1. **理论化**：用"非凡人理论"为谋杀辩护
@@ -25,18 +25,18 @@ confidence: high
 
 核心洞察：他不是疯子，是太相信理性了。
 
-## Applications and Use Cases
+## 应用与用例
 
 - **道德哲学**：道德越界的边界和后果
 - **心理学**：理解犯罪后的心理崩溃
 - **伦理决策**：用"更大的善"为恶行辩护的危险
 
-## Relationship to Other Concepts
+## 与其他概念的关系
 
 - 与 [[concepts/Extraordinary-Man-Theory]] 直接关联：非凡人理论是道德越界的理论基础
 - 与 [[concepts/Redemption-Through-Suffering]] 呼应：越界后的救赎之路
 
-## Source Citations
+## 来源引用
 
 - (source: raw/my-notes/book-guide/20260520-《罪与罚》衍生性拆书指南.md)
 - (source: raw/my-notes/book-review/20260520-《罪与罚》：他用一道数学题算出了自己必须杀人.md)

@@ -13,7 +13,7 @@ tags:
   - classics
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **"文学八卦式"解读**：毛姆以"怎样的人写出怎样的书"为核心方法论，对十位文学大师进行别开生面的解读。
 
@@ -23,17 +23,17 @@ tags:
 
 4. **阅读作为避难所**：培养阅读的习惯就是为你自己构建一座避难所——这里不供奉神像，只收留孤独灵魂。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Reading-as-Shelter]] — 阅读作为避难所
 - [[concepts/Literary-Gossip]] — 文学八卦：作家的血肉
 - [[concepts/Writer-as-Human]] — 作家作为人：拒绝被"伟大"蒙蔽
 
-## Connections
+## 关联
 
 - 与 [[entities/W-Somerset-Maugham]] 直接关联
 - 与 [[summaries/Painted-Veil-Book-Guide]] 呼应：同一作者的不同作品
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260520-《阅读是一座随身携带的避难所》衍生性拆书指南.md)

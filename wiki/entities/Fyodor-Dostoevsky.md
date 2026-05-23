@@ -16,11 +16,11 @@ source_files:
 last_updated: 2026-05-21
 ---
 
-## Brief Introduction
+## 简介
 
 费奥多尔·陀思妥耶夫斯基（Fyodor Dostoevsky，1821–1881），俄国作家，存在主义文学的先驱。他的作品深入探讨自由意志、道德、理性和信仰的边界。
 
-## Core Function or Role
+## 核心职能/角色
 
 陀思妥耶夫斯基的文学核心：
 - **自由意志高于利益**：《地下室手记》
@@ -28,13 +28,13 @@ last_updated: 2026-05-21
 - **道德越界的内心惩罚**：《罪与罚》
 - **法律作为阶级武器**：《被侮辱与被损害的人》
 
-## Positioning in the Domain
+## 领域定位
 
 - 俄国文学巨匠，存在主义文学先驱
 - 尼采称他为"唯一让我学到东西的心理学家"
 - 作品以"灵魂拷问"著称，深入人类心理的黑暗角落
 
-## Relationships
+## 关系
 
 - [[concepts/Free-Will-vs-Interest]] — 《地下室手记》
 - [[concepts/Anti-Rationalism]] — 反理性主义

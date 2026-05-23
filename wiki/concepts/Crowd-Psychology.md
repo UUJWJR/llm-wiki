@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Crowd Psychology
+title: 群体心理学 (Crowd Psychology)
 tags: [psychology, sociology, politics, propaganda, group-behavior]
 related:
   - entities/Gustave-Le-Bon

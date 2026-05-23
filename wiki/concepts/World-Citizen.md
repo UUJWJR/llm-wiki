@@ -1,6 +1,6 @@
 ---
 type: concept
-title: World Citizen
+title: 世界公民 (World Citizen)
 aliases: [世界公民, Citizen of the World]
 tags: [identity, globalization, nationalism, exile]
 related: [concepts/Golden-Age-Illusion]

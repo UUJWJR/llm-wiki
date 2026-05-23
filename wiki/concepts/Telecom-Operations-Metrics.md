@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Telecom Operations Metrics
+title: 电信运营指标体系 (Telecom Operations Metrics)
 aliases: [电信运营指标体系, 通信运营商 KPI]
 tags: [telecom, operations, kpi, business-metrics, china-mobile]
 related:

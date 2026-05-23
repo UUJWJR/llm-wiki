@@ -1,6 +1,6 @@
 ---
 type: concept
-title: PPT WeekReview DNA
+title: PPT 周调度会 DNA (PPT WeekReview DNA)
 aliases: [周调度会 PPT 模板, 经营分析会内容结构]
 tags: [ppt, business-report, weekly-review, operations, template]
 related:

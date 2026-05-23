@@ -3,13 +3,13 @@ title: Wiki Index
 last_updated: 2026-05-23
 ---
 
-> This index is auto-generated. Run `/index` to refresh.
+> 此索引自动生成。运行 `/index` 刷新。
 
 ---
 
-## Summaries
+## 摘要
 
-| Page | Source | Date | Tags |
+| 页面 | 来源 | 日期 | 标签 |
 |------|--------|------|------|
 | [[summaries/LLM-Wiki-Guide\|LLM Wiki：让大模型替你打理知识库的完整指南]] | `raw/my-notes/LLM Wiki：让大模型替你打理知识库的完整指南.md` | 2026-04-20 | llm-wiki, knowledge-management, karpathy, obsidian, rag |
 | [[summaries/Dark-Cash-Jensen-Huang-Interview\|华尔街砸5万亿押注的"AI革命"，被黄仁勋亲口降级成"高级Excel"？]] | `raw/podcasts/华尔街砸5万亿押注的"AI革命"，被黄仁勋亲口降级成"高级Excel"？.md` | 2026-04-20 | ai, nvidia, jensen-huang, podcast, dark-cash, geopolitics, chips |
@@ -127,130 +127,130 @@ last_updated: 2026-05-23
 
 | Page | Description | Confidence |
 |------|-------------|------------|
-| [[concepts/LLM-Wiki\|LLM Wiki]] | 让大模型持续构建、维护结构化 Markdown 知识库的模式 | high |
-| [[concepts/RAG\|RAG]] | 检索增强生成——查询时处理的临时检索架构 | high |
-| [[concepts/Zettelkasten\|Zettelkasten]] | 卡片盒笔记法——Luhmann 的认知摩擦式笔记系统 | high |
-| [[concepts/Hormesis\|Hormesis]] | 毒物兴奋效应——少量压力让有机体更强壮 | medium |
-| [[concepts/Memex\|Memex]] | Vannevar Bush 1945 年提出的联想记忆设备 | high |
-| [[concepts/Idea-File\|Idea File]] | LLM Agent 时代的新分享范式——分享想法而非代码 | high |
-| [[concepts/AI-as-Tool-vs-Revolution\|AI as Tool vs Revolution]] | AI 是工具还是革命的根本分歧 | high |
-| [[concepts/PPT-Design-System\|PPT Design System]] | 企业内部分析报告 PPT 设计规范 | high |
-| [[concepts/Data-Ink-Ratio\|Data-Ink Ratio]] | 数据墨水比——去除非必要视觉元素 | high |
-| [[concepts/Semantic-Color\|Semantic Color]] | 语义化着色——颜色承载信息而非装饰 | high |
-| [[concepts/Executive-Summary-First\|Executive Summary First]] | 结论前置——每页顶部给出明确结论 | high |
-| [[concepts/PPT-WeekReview-DNA\|PPT WeekReview DNA]] | 周调度会 PPT 内容结构 DNA | high |
-| [[concepts/Telecom-Operations-Metrics\|Telecom Operations Metrics]] | 电信运营核心指标体系 | high |
-| [[concepts/2-plus-8-Path\|2+8 Path]] | 2+8 收入路径——存量控损+新增创收的 10 项路径 | high |
-| [[concepts/Alienation\|Alienation]] | 异化：人的价值被简化为功能 | high |
-| [[concepts/Book-Deconstruction-Method\|Book Deconstruction Method]] | 五层拆书法：情节/概念/镜像/行动/跨界 | high |
-| [[concepts/Book-Review-Style\|Book Review Style]] | 融合风格书评：个人故事+文学分析+行动引导 | high |
-| [[concepts/Magical-Realism\|Magical Realism]] | 魔幻现实主义：现实本身足够荒诞，需要魔幻来诚实表达 | high |
-| [[concepts/Cyclical-Time\|Cyclical Time]] | 循环时间：不是简单的重复，而是螺旋下降 | high |
-| [[concepts/Solitude\|Solitude]] | 孤独：不是「独自一人」，而是「即使在一起，也无法真正连接」 | high |
-| [[concepts/Collective-Memory\|Collective Memory]] | 集体记忆与遗忘：制度性的记忆抹除与自我保护性的遗忘 | high |
-| [[concepts/Education-as-Perspective\|Education as Perspective]] | 教育作为视角：不是知识的积累，是认知框架的重构 | high |
-| [[concepts/Gaslighting\|Gaslighting]] | 煤气灯操纵：系统性地否认对方的现实感 | high |
-| [[concepts/Trauma-and-Body\|Trauma and Body]] | 创伤与身体：C-PTSD 与躯体化症状 | high |
-| [[concepts/Narrative-Healing\|Narrative Healing]] | 叙事疗愈：通过重新叙事获得对现实的掌控感 | high |
-| [[concepts/Crowd-Psychology\|Crowd Psychology]] | 群体心理学：群体不是个体的简单相加，而是拥有全新心理特征的有机体 | high |
-| [[concepts/Absurdism\|Absurdism]] | 荒诞主义：荒诞诞生于人与世界的对峙，不是绝望，是清醒 | high |
-| [[concepts/Existentialism\|Existentialism]] | 存在主义：存在先于本质，人通过选择定义自己 | high |
-| [[concepts/Emotional-Labor]] | 情感劳动：社会要求人们在特定场合表演"应有的"情感 | high |
-| [[concepts/Social-Performance]] | 社会表演：按照社会剧本生活，还是诚实面对自己？ | high |
-| [[concepts/Revolt]] | 反抗：在明知徒劳的情况下依然行动 | high |
-| [[concepts/Solidarity]] | 团结：在灾难中与他者建立连接 | high |
-| [[concepts/Decisive-Moment]] | 决定性瞬间：历史不是渐进的过程，而是由偶然和意外构成的 | high |
-| [[concepts/Single-Point-of-Failure]] | 单点故障：最微小的疏忽可以导致最巨大的灾难 | high |
-| [[concepts/Dignity-of-Failure]] | 失败的尊严：真正的伟大不在于结果，而在于面对命运时的姿态 | high |
-| [[concepts/Golden-Age-Illusion]] | 黄金年代的幻觉：确信进步、理性、和平、文明的集体幻觉 | high |
-| [[concepts/Betrayal-of-Reason]] | 理性的背叛：当知识分子为狂热服务，文明从内部腐烂 | high |
-| [[concepts/World-Citizen]] | 世界公民：没有祖国、只有欧洲——全球化退潮中的身份困境 | high |
-| [[concepts/Forgetting-as-Complicity]] | 遗忘的共谋：急于忘记战争，为下一次战争铺路 | high |
-| [[concepts/Failure-of-Language]] | 语言的失效：当词语被扭曲，语言成为欺骗的武器 | high |
-| [[concepts/Violence-as-Justice]] | 暴力即正义：文革时代的核心逻辑——暴力不是非法的，是合法的 | high |
-| [[concepts/Money-as-Justice]] | 金钱即正义：改革开放时代的核心逻辑——无耻比善良更有价值 | high |
-| [[concepts/Body-Commodification]] | 身体的商品化：身体在市场经济中被异化的终极象征 | high |
-| [[concepts/Story-as-Survival]] | 故事作为生存工具：我们选择相信什么，不是因为它是真的，而是因为需要 | high |
-| [[concepts/Faith-as-Choice]] | 信仰作为选择：相信的能力是生存的关键 | high |
-| [[concepts/Comfort-Zone-as-Trap]] | 舒适区陷阱：那些让我们舒适但正在吞噬我们的东西 | high |
-| [[concepts/Apollonian-Dionysian]] | 日神与酒神：生命的两种姿态——幻象与毁灭 | high |
-| [[concepts/Socratism]] | 苏格拉底主义：理性的暴政——用理解替代感受 | high |
-| [[concepts/Tragic-Pleasure]] | 悲剧快感：在毁灭中体验形而上的狂喜 | high |
-| [[concepts/Myth-as-Necessity]] | 神话作为必要幻象：科学摧毁了神话，但没有提供替代物 | high |
-| [[concepts/Narrow-Gate]] | 窄门：通往上帝的门，还是通往虚无的陷阱？ | high |
-| [[concepts/Sanctity-as-Prison]] | 圣洁作为枷锁：用"高级"来包装逃避，用"独立"来掩饰恐惧 | high |
-| [[concepts/Faith-as-Escape]] | 信仰作为逃避：当信仰保护你的同时，也在隔绝你 | high |
-| [[concepts/Mono-no-Aware]] | 物哀：对事物短暂性的敏感和哀悼 | high |
-| [[concepts/Yugen]] | 幽玄：美在不可理解中显现 | high |
-| [[concepts/Wabi-Sabi]] | 侘寂：在不完美中发现美 | high |
-| [[concepts/Futility-as-Dignity]] | 徒劳作为尊严：燃烧不是为了照亮别人，是为了让自己看见火焰 | high |
-| [[concepts/Flow]] | 心流：最优心理状态 | high |
-| [[concepts/Margin-of-Safety]] | 安全边际：投资与投机的分界线 | high |
-| [[concepts/Mr-Market]] | 市场先生：利用市场非理性 | high |
-| [[concepts/Loss-Aversion]] | 损失厌恶：损失痛苦大于收益快乐 | high |
-| [[concepts/Singularity]] | 技术奇点 | high |
-| [[concepts/Inferiority-Complex]] | 自卑情结 | high |
-| [[concepts/Gene-Centrism]] | 基因中心主义 | high |
-| [[concepts/Latticework-of-Mental-Models]] | 多元思维模型 | high |
-| [[concepts/Betrayal]] | 背叛 | high |
-| [[concepts/Painted-Veil]] | 面纱 | high |
-| [[concepts/AI-Leverage-Inequality]] | AI杠杆的不平等：你水平高，AI给你更多资源 | high |
-| [[concepts/Cognitive-Compound-Interest]] | 认知复利：深度思考的指数级回报 | high |
-| [[concepts/AI-Empathy-Mode]] | AI共情附和模式：为了留住用户的动态匹配 | high |
-| [[concepts/Death-Zone]] | 男性45-60岁死亡地带：身体开始集中"要账" | high |
-| [[concepts/Sleep-Debt]] | 睡眠债：健康最大的隐形杀手 | high |
-| [[concepts/Self-Efficacy]] | 自我效能：相信自己能完成任务的信念 | high |
-| [[concepts/Psychological-Account]] | 心理账户：支撑复杂事务的内在情绪资源 | high |
-| [[concepts/Gig-Economy-Filter]] | 零工经济的筛选机制：不是培养，是筛选 | high |
-| [[concepts/Invisible-Labor]] | 隐形劳动：效率与低价背后的代价 | high |
-| [[concepts/Mean-Reversion]] | 均值回归：财富的重力，把时间拉长极其可怕 | high |
-| [[concepts/Productive-Assets-Illusion]] | 生产资料幻觉：没有永久躺赢的资产 | high |
-| [[concepts/Second-Generation-Trap]] | 二代陷阱：接手的是帝国还是延迟爆炸的负债 | high |
-| [[concepts/Agent-Cluster-Learning]] | Agent集群学习法：多Agent协作的复杂技能学习 | high |
-| [[concepts/Value-Investing-Framework]] | 价值投资四原则框架：不懂不投/安全边际/长期主义/第一性原理 | high |
-| [[concepts/Investment-Discipline-Handbook]] | 个人投资纪律手册：价值投资者的"宪法" | high |
-| [[concepts/AI-Middle-Layer-Massacre]] | AI对标准化中间层的大规模替代 | high |
-| [[concepts/Taste-as-Moat]] | 品味作为护城河：从信息海洋中筛选精品的能力 | high |
-| [[concepts/Human-Flavor]] | 活人味：算法时代最稀缺的特质 | high |
-| [[concepts/Non-Standardization-Survival]] | 非标化生存：AI无法替代的领域 | high |
-| [[concepts/Despair-as-Starting-Point]] | 绝望作为起点而非终点 | high |
-| [[concepts/Absurdity-of-Existence]] | 存在的荒谬性 | high |
-| [[concepts/Nihilism-as-Freedom]] | 虚无主义作为自由的起点 | high |
-| [[concepts/Free-Will-vs-Interest]] | 自由意志高于利益 | high |
-| [[concepts/Anti-Rationalism]] | 反理性主义：人不是钢琴键 | high |
-| [[concepts/Self-Destruction-as-Dignity]] | 自毁作为尊严 | high |
-| [[concepts/Empathy-as-Moral-Foundation]] | 共情作为道德基础 | high |
-| [[concepts/Moral-Courage]] | 道德勇气：明知会输，仍然去做 | high |
-| [[concepts/Racial-Injustice]] | 种族不公正 | high |
-| [[concepts/Phoniness]] | 假模假式：对成人世界虚伪的批判 | high |
-| [[concepts/Authenticity-vs-Maturity]] | 真诚与成熟的矛盾 | high |
-| [[concepts/Alienation-of-Youth]] | 青年的疏离感 | high |
-| [[concepts/Purpose-For-Existing]] | 存在的意义（PFE） | high |
-| [[concepts/Green-Sea-Turtle]] | 绿海龟：不与海浪抗争，而是利用它 | high |
-| [[concepts/Fear-of-Death-as-Mirror]] | 对死亡的恐惧作为人生镜子 | high |
-| [[concepts/Medicalization-of-Death]] | 死亡的医疗化 | high |
-| [[concepts/Palliative-Care]] | 姑息治疗/善终服务 | high |
-| [[concepts/Quality-of-Life-vs-Quantity]] | 生命质量 vs 生命长度 | high |
-| [[concepts/List-Life]] | 清单人生：用秩序掩盖混乱 | high |
-| [[concepts/Rebuilding-Self]] | 在废墟上重建自我 | high |
-| [[concepts/Being-Needed]] | 被需要的感觉 | high |
-| [[concepts/Holy-Fool]] | 圣愚：天真作为力量 | high |
-| [[concepts/Innocence-vs-Corruption]] | 纯真与腐化的对抗 | high |
-| [[concepts/Self-Destructive-Love]] | 自毁式爱情 | high |
-| [[concepts/Extraordinary-Man-Theory]] | 非凡人理论 | high |
-| [[concepts/Moral-Transgression]] | 道德越界 | high |
-| [[concepts/Redemption-Through-Suffering]] | 通过苦难救赎 | high |
-| [[concepts/Legal-Violence]] | 法律暴力：用制度杀人 | high |
-| [[concepts/Class-Warfare]] | 阶级战争 | high |
-| [[concepts/Forgiveness-vs-Pride]] | 原谅与骄傲的冲突 | high |
-| [[concepts/Time-Travel-Narrative]] | 时间旅行叙事 | high |
-| [[concepts/Destiny-vs-Choice]] | 命运与选择 | high |
-| [[concepts/Answer-Within]] | 答案在心里 | high |
-| [[concepts/Reading-as-Shelter]] | 阅读作为避难所 | high |
-| [[concepts/Literary-Gossip]] | 文学八卦：作家的血肉 | high |
-| [[concepts/Writer-as-Human]] | 作家作为人：拒绝被"伟大"蒙蔽 | high |
-| [[concepts/Love-vs-Time]] | 爱情对抗时间 | high |
-| [[concepts/Obsession-vs-Love]] | 执念与爱情的边界 | high |
+| [[concepts/LLM-Wiki\|LLM Wiki (大模型知识库)]] | 让大模型持续构建、维护结构化 Markdown 知识库的模式 | high |
+| [[concepts/RAG\|RAG (检索增强生成)]] | 检索增强生成——查询时处理的临时检索架构 | high |
+| [[concepts/Zettelkasten\|卡片盒笔记法 (Zettelkasten)]] | 卡片盒笔记法——Luhmann 的认知摩擦式笔记系统 | high |
+| [[concepts/Hormesis\|毒物兴奋效应 (Hormesis)]] | 毒物兴奋效应——少量压力让有机体更强壮 | medium |
+| [[concepts/Memex\|Memex (记忆扩展器)]] | Vannevar Bush 1945 年提出的联想记忆设备 | high |
+| [[concepts/Idea-File\|想法文件 (Idea File)]] | LLM Agent 时代的新分享范式——分享想法而非代码 | high |
+| [[concepts/AI-as-Tool-vs-Revolution\|AI 是工具还是革命 (AI as Tool vs Revolution)]] | AI 是工具还是革命的根本分歧 | high |
+| [[concepts/PPT-Design-System\|PPT 设计系统 (PPT Design System)]] | 企业内部分析报告 PPT 设计规范 | high |
+| [[concepts/Data-Ink-Ratio\|数据墨水比 (Data-Ink Ratio)]] | 数据墨水比——去除非必要视觉元素 | high |
+| [[concepts/Semantic-Color\|语义化着色 (Semantic Color)]] | 语义化着色——颜色承载信息而非装饰 | high |
+| [[concepts/Executive-Summary-First\|结论前置 (Executive Summary First)]] | 结论前置——每页顶部给出明确结论 | high |
+| [[concepts/PPT-WeekReview-DNA\|PPT 周回顾 DNA (PPT WeekReview DNA)]] | 周调度会 PPT 内容结构 DNA | high |
+| [[concepts/Telecom-Operations-Metrics\|电信运营指标 (Telecom Operations Metrics)]] | 电信运营核心指标体系 | high |
+| [[concepts/2-plus-8-Path\|2+8 路径 (2+8 Path)]] | 2+8 收入路径——存量控损+新增创收的 10 项路径 | high |
+| [[concepts/Alienation\|异化 (Alienation)]] | 异化：人的价值被简化为功能 | high |
+| [[concepts/Book-Deconstruction-Method\|书籍解构方法 (Book Deconstruction Method)]] | 五层拆书法：情节/概念/镜像/行动/跨界 | high |
+| [[concepts/Book-Review-Style\|书评风格 (Book Review Style)]] | 融合风格书评：个人故事+文学分析+行动引导 | high |
+| [[concepts/Magical-Realism\|魔幻现实主义 (Magical Realism)]] | 魔幻现实主义：现实本身足够荒诞，需要魔幻来诚实表达 | high |
+| [[concepts/Cyclical-Time\|循环时间 (Cyclical Time)]] | 循环时间：不是简单的重复，而是螺旋下降 | high |
+| [[concepts/Solitude\|孤独 (Solitude)]] | 孤独：不是「独自一人」，而是「即使在一起，也无法真正连接」 | high |
+| [[concepts/Collective-Memory\|集体记忆 (Collective Memory)]] | 集体记忆与遗忘：制度性的记忆抹除与自我保护性的遗忘 | high |
+| [[concepts/Education-as-Perspective\|教育作为视角 (Education as Perspective)]] | 教育作为视角：不是知识的积累，是认知框架的重构 | high |
+| [[concepts/Gaslighting\|煤气灯操纵 (Gaslighting)]] | 煤气灯操纵：系统性地否认对方的现实感 | high |
+| [[concepts/Trauma-and-Body\|创伤与身体 (Trauma and Body)]] | 创伤与身体：C-PTSD 与躯体化症状 | high |
+| [[concepts/Narrative-Healing\|叙事疗愈 (Narrative Healing)]] | 叙事疗愈：通过重新叙事获得对现实的掌控感 | high |
+| [[concepts/Crowd-Psychology\|群体心理学 (Crowd Psychology)]] | 群体心理学：群体不是个体的简单相加，而是拥有全新心理特征的有机体 | high |
+| [[concepts/Absurdism\|荒诞主义 (Absurdism)]] | 荒诞主义：荒诞诞生于人与世界的对峙，不是绝望，是清醒 | high |
+| [[concepts/Existentialism\|存在主义 (Existentialism)]] | 存在主义：存在先于本质，人通过选择定义自己 | high |
+| [[concepts/Emotional-Labor\|情感劳动 (Emotional Labor)]] | 情感劳动：社会要求人们在特定场合表演"应有的"情感 | high |
+| [[concepts/Social-Performance\|社会表演 (Social Performance)]] | 社会表演：按照社会剧本生活，还是诚实面对自己？ | high |
+| [[concepts/Revolt\|反抗 (Revolt)]] | 反抗：在明知徒劳的情况下依然行动 | high |
+| [[concepts/Solidarity\|团结 (Solidarity)]] | 团结：在灾难中与他者建立连接 | high |
+| [[concepts/Decisive-Moment\|决定性瞬间 (Decisive Moment)]] | 决定性瞬间：历史不是渐进的过程，而是由偶然和意外构成的 | high |
+| [[concepts/Single-Point-of-Failure\|单点故障 (Single Point of Failure)]] | 单点故障：最微小的疏忽可以导致最巨大的灾难 | high |
+| [[concepts/Dignity-of-Failure\|失败的尊严 (Dignity of Failure)]] | 失败的尊严：真正的伟大不在于结果，而在于面对命运时的姿态 | high |
+| [[concepts/Golden-Age-Illusion\|黄金年代幻觉 (Golden Age Illusion)]] | 黄金年代的幻觉：确信进步、理性、和平、文明的集体幻觉 | high |
+| [[concepts/Betrayal-of-Reason\|理性的背叛 (Betrayal of Reason)]] | 理性的背叛：当知识分子为狂热服务，文明从内部腐烂 | high |
+| [[concepts/World-Citizen\|世界公民 (World Citizen)]] | 世界公民：没有祖国、只有欧洲——全球化退潮中的身份困境 | high |
+| [[concepts/Forgetting-as-Complicity\|遗忘的共谋 (Forgetting as Complicity)]] | 遗忘的共谋：急于忘记战争，为下一次战争铺路 | high |
+| [[concepts/Failure-of-Language\|语言的失效 (Failure of Language)]] | 语言的失效：当词语被扭曲，语言成为欺骗的武器 | high |
+| [[concepts/Violence-as-Justice\|暴力即正义 (Violence as Justice)]] | 暴力即正义：文革时代的核心逻辑——暴力不是非法的，是合法的 | high |
+| [[concepts/Money-as-Justice\|金钱即正义 (Money as Justice)]] | 金钱即正义：改革开放时代的核心逻辑——无耻比善良更有价值 | high |
+| [[concepts/Body-Commodification\|身体商品化 (Body Commodification)]] | 身体的商品化：身体在市场经济中被异化的终极象征 | high |
+| [[concepts/Story-as-Survival\|故事作为生存 (Story as Survival)]] | 故事作为生存工具：我们选择相信什么，不是因为它是真的，而是因为需要 | high |
+| [[concepts/Faith-as-Choice\|信仰作为选择 (Faith as Choice)]] | 信仰作为选择：相信的能力是生存的关键 | high |
+| [[concepts/Comfort-Zone-as-Trap\|舒适区陷阱 (Comfort Zone as Trap)]] | 舒适区陷阱：那些让我们舒适但正在吞噬我们的东西 | high |
+| [[concepts/Apollonian-Dionysian\|日神与酒神 (Apollonian-Dionysian)]] | 日神与酒神：生命的两种姿态——幻象与毁灭 | high |
+| [[concepts/Socratism\|苏格拉底主义 (Socratism)]] | 苏格拉底主义：理性的暴政——用理解替代感受 | high |
+| [[concepts/Tragic-Pleasure\|悲剧快感 (Tragic Pleasure)]] | 悲剧快感：在毁灭中体验形而上的狂喜 | high |
+| [[concepts/Myth-as-Necessity\|神话作为必要 (Myth as Necessity)]] | 神话作为必要幻象：科学摧毁了神话，但没有提供替代物 | high |
+| [[concepts/Narrow-Gate\|窄门 (Narrow Gate)]] | 窄门：通往上帝的门，还是通往虚无的陷阱？ | high |
+| [[concepts/Sanctity-as-Prison\|圣洁作为枷锁 (Sanctity as Prison)]] | 圣洁作为枷锁：用"高级"来包装逃避，用"独立"来掩饰恐惧 | high |
+| [[concepts/Faith-as-Escape\|信仰作为逃避 (Faith as Escape)]] | 信仰作为逃避：当信仰保护你的同时，也在隔绝你 | high |
+| [[concepts/Mono-no-Aware\|物哀 (Mono no Aware)]] | 物哀：对事物短暂性的敏感和哀悼 | high |
+| [[concepts/Yugen\|幽玄 (Yugen)]] | 幽玄：美在不可理解中显现 | high |
+| [[concepts/Wabi-Sabi\|侘寂 (Wabi-Sabi)]] | 侘寂：在不完美中发现美 | high |
+| [[concepts/Futility-as-Dignity\|徒劳作为尊严 (Futility as Dignity)]] | 徒劳作为尊严：燃烧不是为了照亮别人，是为了让自己看见火焰 | high |
+| [[concepts/Flow\|心流 (Flow)]] | 心流：最优心理状态 | high |
+| [[concepts/Margin-of-Safety\|安全边际 (Margin of Safety)]] | 安全边际：投资与投机的分界线 | high |
+| [[concepts/Mr-Market\|市场先生 (Mr Market)]] | 市场先生：利用市场非理性 | high |
+| [[concepts/Loss-Aversion\|损失厌恶 (Loss Aversion)]] | 损失厌恶：损失痛苦大于收益快乐 | high |
+| [[concepts/Singularity\|技术奇点 (Singularity)]] | 技术奇点 | high |
+| [[concepts/Inferiority-Complex\|自卑情结 (Inferiority Complex)]] | 自卑情结 | high |
+| [[concepts/Gene-Centrism\|基因中心主义 (Gene Centrism)]] | 基因中心主义 | high |
+| [[concepts/Latticework-of-Mental-Models\|多元思维模型 (Latticework of Mental Models)]] | 多元思维模型 | high |
+| [[concepts/Betrayal\|背叛 (Betrayal)]] | 背叛 | high |
+| [[concepts/Painted-Veil\|面纱 (Painted Veil)]] | 面纱 | high |
+| [[concepts/AI-Leverage-Inequality\|AI杠杆的不平等 (AI Leverage Inequality)]] | AI杠杆的不平等：你水平高，AI给你更多资源 | high |
+| [[concepts/Cognitive-Compound-Interest\|认知复利 (Cognitive Compound Interest)]] | 认知复利：深度思考的指数级回报 | high |
+| [[concepts/AI-Empathy-Mode\|AI共情附和模式 (AI Empathy Mode)]] | AI共情附和模式：为了留住用户的动态匹配 | high |
+| [[concepts/Death-Zone\|死亡地带 (Death Zone)]] | 男性45-60岁死亡地带：身体开始集中"要账" | high |
+| [[concepts/Sleep-Debt\|睡眠债 (Sleep Debt)]] | 睡眠债：健康最大的隐形杀手 | high |
+| [[concepts/Self-Efficacy\|自我效能 (Self-Efficacy)]] | 自我效能：相信自己能完成任务的信念 | high |
+| [[concepts/Psychological-Account\|心理账户 (Psychological Account)]] | 心理账户：支撑复杂事务的内在情绪资源 | high |
+| [[concepts/Gig-Economy-Filter\|零工经济筛选 (Gig Economy Filter)]] | 零工经济的筛选机制：不是培养，是筛选 | high |
+| [[concepts/Invisible-Labor\|隐形劳动 (Invisible Labor)]] | 隐形劳动：效率与低价背后的代价 | high |
+| [[concepts/Mean-Reversion\|均值回归 (Mean Reversion)]] | 均值回归：财富的重力，把时间拉长极其可怕 | high |
+| [[concepts/Productive-Assets-Illusion\|生产资料幻觉 (Productive Assets Illusion)]] | 生产资料幻觉：没有永久躺赢的资产 | high |
+| [[concepts/Second-Generation-Trap\|二代陷阱 (Second Generation Trap)]] | 二代陷阱：接手的是帝国还是延迟爆炸的负债 | high |
+| [[concepts/Agent-Cluster-Learning\|Agent集群学习法 (Agent Cluster Learning)]] | Agent集群学习法：多Agent协作的复杂技能学习 | high |
+| [[concepts/Value-Investing-Framework\|价值投资框架 (Value Investing Framework)]] | 价值投资四原则框架：不懂不投/安全边际/长期主义/第一性原理 | high |
+| [[concepts/Investment-Discipline-Handbook\|投资纪律手册 (Investment Discipline Handbook)]] | 个人投资纪律手册：价值投资者的"宪法" | high |
+| [[concepts/AI-Middle-Layer-Massacre\|AI中间层屠杀 (AI Middle Layer Massacre)]] | AI对标准化中间层的大规模替代 | high |
+| [[concepts/Taste-as-Moat\|品味作为护城河 (Taste as Moat)]] | 品味作为护城河：从信息海洋中筛选精品的能力 | high |
+| [[concepts/Human-Flavor\|活人味 (Human Flavor)]] | 活人味：算法时代最稀缺的特质 | high |
+| [[concepts/Non-Standardization-Survival\|非标化生存 (Non-Standardization Survival)]] | 非标化生存：AI无法替代的领域 | high |
+| [[concepts/Despair-as-Starting-Point\|绝望作为起点 (Despair as Starting Point)]] | 绝望作为起点而非终点 | high |
+| [[concepts/Absurdity-of-Existence\|存在的荒谬性 (Absurdity of Existence)]] | 存在的荒谬性 | high |
+| [[concepts/Nihilism-as-Freedom\|虚无主义作为自由 (Nihilism as Freedom)]] | 虚无主义作为自由的起点 | high |
+| [[concepts/Free-Will-vs-Interest\|自由意志高于利益 (Free Will vs Interest)]] | 自由意志高于利益 | high |
+| [[concepts/Anti-Rationalism\|反理性主义 (Anti-Rationalism)]] | 反理性主义：人不是钢琴键 | high |
+| [[concepts/Self-Destruction-as-Dignity\|自毁作为尊严 (Self-Destruction as Dignity)]] | 自毁作为尊严 | high |
+| [[concepts/Empathy-as-Moral-Foundation\|共情作为道德基础 (Empathy as Moral Foundation)]] | 共情作为道德基础 | high |
+| [[concepts/Moral-Courage\|道德勇气 (Moral Courage)]] | 道德勇气：明知会输，仍然去做 | high |
+| [[concepts/Racial-Injustice\|种族不公正 (Racial Injustice)]] | 种族不公正 | high |
+| [[concepts/Phoniness\|假模假式 (Phoniness)]] | 假模假式：对成人世界虚伪的批判 | high |
+| [[concepts/Authenticity-vs-Maturity\|真诚与成熟的矛盾 (Authenticity vs Maturity)]] | 真诚与成熟的矛盾 | high |
+| [[concepts/Alienation-of-Youth\|青年的疏离感 (Alienation of Youth)]] | 青年的疏离感 | high |
+| [[concepts/Purpose-For-Existing\|存在的意义 (Purpose For Existing)]] | 存在的意义（PFE） | high |
+| [[concepts/Green-Sea-Turtle\|绿海龟 (Green Sea Turtle)]] | 绿海龟：不与海浪抗争，而是利用它 | high |
+| [[concepts/Fear-of-Death-as-Mirror\|对死亡的恐惧作为镜子 (Fear of Death as Mirror)]] | 对死亡的恐惧作为人生镜子 | high |
+| [[concepts/Medicalization-of-Death\|死亡的医疗化 (Medicalization of Death)]] | 死亡的医疗化 | high |
+| [[concepts/Palliative-Care\|姑息治疗 (Palliative Care)]] | 姑息治疗/善终服务 | high |
+| [[concepts/Quality-of-Life-vs-Quantity\|生命质量 vs 长度 (Quality of Life vs Quantity)]] | 生命质量 vs 生命长度 | high |
+| [[concepts/List-Life\|清单人生 (List Life)]] | 清单人生：用秩序掩盖混乱 | high |
+| [[concepts/Rebuilding-Self\|重建自我 (Rebuilding Self)]] | 在废墟上重建自我 | high |
+| [[concepts/Being-Needed\|被需要的感觉 (Being Needed)]] | 被需要的感觉 | high |
+| [[concepts/Holy-Fool\|圣愚 (Holy Fool)]] | 圣愚：天真作为力量 | high |
+| [[concepts/Innocence-vs-Corruption\|纯真与腐化 (Innocence vs Corruption)]] | 纯真与腐化的对抗 | high |
+| [[concepts/Self-Destructive-Love\|自毁式爱情 (Self-Destructive Love)]] | 自毁式爱情 | high |
+| [[concepts/Extraordinary-Man-Theory\|非凡人理论 (Extraordinary Man Theory)]] | 非凡人理论 | high |
+| [[concepts/Moral-Transgression\|道德越界 (Moral Transgression)]] | 道德越界 | high |
+| [[concepts/Redemption-Through-Suffering\|通过苦难救赎 (Redemption Through Suffering)]] | 通过苦难救赎 | high |
+| [[concepts/Legal-Violence\|法律暴力 (Legal Violence)]] | 法律暴力：用制度杀人 | high |
+| [[concepts/Class-Warfare\|阶级战争 (Class Warfare)]] | 阶级战争 | high |
+| [[concepts/Forgiveness-vs-Pride\|原谅与骄傲 (Forgiveness vs Pride)]] | 原谅与骄傲的冲突 | high |
+| [[concepts/Time-Travel-Narrative\|时间旅行叙事 (Time Travel Narrative)]] | 时间旅行叙事 | high |
+| [[concepts/Destiny-vs-Choice\|命运与选择 (Destiny vs Choice)]] | 命运与选择 | high |
+| [[concepts/Answer-Within\|答案在心里 (Answer Within)]] | 答案在心里 | high |
+| [[concepts/Reading-as-Shelter\|阅读作为避难所 (Reading as Shelter)]] | 阅读作为避难所 | high |
+| [[concepts/Literary-Gossip\|文学八卦 (Literary Gossip)]] | 文学八卦：作家的血肉 | high |
+| [[concepts/Writer-as-Human\|作家作为人 (Writer as Human)]] | 作家作为人：拒绝被"伟大"蒙蔽 | high |
+| [[concepts/Love-vs-Time\|爱情对抗时间 (Love vs Time)]] | 爱情对抗时间 | high |
+| [[concepts/Obsession-vs-Love\|执念与爱情 (Obsession vs Love)]] | 执念与爱情的边界 | high |
 | [[concepts/Love-as-Anti-Nihilism]] | 爱情作为对抗虚无的武器 | high |
 | [[concepts/Benfen]] | 本分：不是道德高地，是能力边界 | high |
 | [[concepts/Ordinary-Mind]] | 平常心：回到事物本源的心态 | high |

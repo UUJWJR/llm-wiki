@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Faith as Escape
+title: 信仰作为逃避 (Faith as Escape)
 aliases: [信仰作为逃避]
 tags: [religion, psychology, trauma, gide]
 related: [concepts/Narrow-Gate, concepts/Sanctity-as-Prison]

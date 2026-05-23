@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Book Deconstruction Method
+title: 书籍拆解法 (Book Deconstruction Method)
 aliases: [五层拆书法, 衍生性拆书]
 tags: [reading, learning, methodology, self-reflection, literature]
 related:

@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 - **系统1的暴政**：我们以为自己靠系统2生活，实际上主要靠系统1。系统2不是独立裁判，而是系统1的"辩护律师"。
 - **损失厌恶的2.5倍**：套牢不愿卖、房价僵化、买房信仰——损失的痛苦是收益快乐的2-2.5倍。
@@ -22,7 +22,7 @@ tags:
 - **峰终定律的设计**：网红餐厅让你排队2小时还觉得值——记忆自我只记住峰值+终值。
 - **知道偏误不能免疫偏误**：卡尼曼本人也会犯自己书中描述的错误。但追问本身就是系统2的锻炼。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/System1-System2]] — 系统1与系统2
 - [[concepts/Loss-Aversion]] — 损失厌恶
@@ -30,10 +30,10 @@ tags:
 - [[concepts/Narrative-Fallacy]] — 叙事谬误
 - [[concepts/Peak-End-Rule]] — 峰终定律
 
-## Connections
+## 关联
 
 - 与 [[summaries/Thinking-Fast-and-Slow-Book-Guide]] 配套阅读
 
-## Source
+## 来源
 
 - `raw/my-notes/book-review/20260518-《思考，快与慢》：你不是在思考，你是在被推着跑.md`

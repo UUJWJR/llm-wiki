@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Story as Survival
+title: 故事作为生存工具 (Story as Survival)
 aliases: [故事作为生存工具]
 tags: [psychology, narrative, trauma, martel]
 related: [concepts/Faith-as-Choice, concepts/Narrative-Healing]

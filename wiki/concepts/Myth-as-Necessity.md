@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Myth as Necessity
+title: 神话作为必要幻象 (Myth as Necessity)
 aliases: [神话作为必要幻象]
 tags: [philosophy, culture, meaning, nietzsche]
 related: [concepts/Socratism, concepts/Story-as-Survival]

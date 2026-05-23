@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Book Review Style
+title: 书评风格 (Book Review Style)
 aliases: [融合风格书评, 衍生性书评]
 tags: [writing, book-review, essay, literature, self-reflection]
 related:

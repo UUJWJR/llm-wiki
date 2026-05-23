@@ -13,7 +13,7 @@ tags:
   - magical-realism
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **五十一年九个月零四天**：弗洛伦蒂诺·阿里萨对费尔明娜·达萨的等待，从少年到老年。
 
@@ -23,17 +23,17 @@ tags:
 
 4. **老年之爱**：乌尔比诺医生去世后，阿里萨在费尔明娜的葬礼上再次表白——"我等了你五十一年九个月零四天"。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Love-vs-Time]] — 爱情对抗时间
 - [[concepts/Obsession-vs-Love]] — 执念与爱情的边界
 - [[concepts/Love-as-Anti-Nihilism]] — 爱情作为对抗虚无的武器
 
-## Connections
+## 关联
 
 - 与 [[entities/Gabriel-Garcia-Marquez]] 直接关联
 - 与 [[summaries/One-Hundred-Years-of-Solitude-Book-Guide]] 呼应：同一作者
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260520-《霍乱时期的爱情》衍生性拆书指南.md)

@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Idea File
+title: 想法文件 (Idea File)
 tags: [ai, sharing, open-source, pattern]
 related:
   - concepts/LLM-Wiki

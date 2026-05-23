@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Collective Memory
+title: 集体记忆 (Collective Memory)
 tags: [memory, history, psychology, society, trauma]
 related:
   - entities/Gabriel-Garcia-Marquez

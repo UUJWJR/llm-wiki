@@ -12,7 +12,7 @@ tags:
   - 九边Pro
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **自我效能理论**：极少有人能在低反馈、低收益情况下长期坚持。精英们"不苦"是因为有持续的情绪和金钱奖励，普通人的苦是"极低反馈带来的消耗感"。
 
@@ -24,18 +24,18 @@ tags:
 
 5. **付航的启示**：普通人唯一的出路不是"做人上人"，而是像付航那样——"我各方面都一般，但我自信、我勇敢、我快乐、我不跟你比。"
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Self-Efficacy]] — 自我效能：相信自己能完成任务的信念
 - [[concepts/Psychological-Account]] — 心理账户：支撑复杂事务的内在资源
 - [[concepts/Horizontal-Comparison]] — 横向比较：跟自己比而非跟别人比
 
-## Connections
+## 关联
 
 - 与 [[concepts/Inferiority-Complex]] 呼应：阿德勒的自卑情结理论
 - 与 [[summaries/Death-Zone-Article]] 形成对照：心理耗竭与身体耗竭的相似机制
 
-## Source
+## 来源
 
 - 原文：九边Pro，今日头条，2026-04-21
 - (source: raw/articles/爸妈不求吃不求喝，就求你痛苦而焦虑地活着.md)

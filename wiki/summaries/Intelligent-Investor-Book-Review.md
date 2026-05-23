@@ -12,7 +12,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 - **产品经理的炒股故事**：每天研究三四个小时，却看不懂资产负债表——"假装成进取型投资者的防御型投资者"。
 - **巴菲特的十年赌约**：对冲基金跑不赢标普500指数基金——不是因为不够聪明，是因为太聪明了。
@@ -20,17 +20,17 @@ tags:
 - **情绪触发器**：当情绪达到阈值时强制暂停交易24小时——一次大跌后等待24小时，市场反弹，避免了最低点卖出。
 - **投资的闭环**：买入的勇气、卖出的纪律、等待的耐心——缺少任何一个，闭环就会断裂。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Defensive-Investor]] — 防御型投资者
 - [[concepts/Mr-Market]] — 市场先生
 - [[concepts/Margin-of-Safety]] — 安全边际
 
-## Connections
+## 关联
 
 - 与 [[summaries/Intelligent-Investor-Book-Guide]] 配套阅读
 - 与 [[summaries/Security-Analysis-Book-Review]] 呼应：同一核心哲学
 
-## Source
+## 来源
 
 - `raw/my-notes/book-review/20260518-《聪明的投资者》：承认自己普通，是投资中最不普通的智慧.md`

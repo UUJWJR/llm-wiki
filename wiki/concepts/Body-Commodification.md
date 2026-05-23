@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Body Commodification
+title: 身体商品化 (Body Commodification)
 aliases: [身体的商品化]
 tags: [society, capitalism, gender, yu-hua]
 related: [concepts/Money-as-Justice, concepts/Alienation]

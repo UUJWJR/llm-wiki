@@ -13,7 +13,7 @@ tags:
   - jiubian-pro
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **失信人员的变迁**：早些年失信人员主要是赌博，现在绝大部分是创业或经营失败——不是故意欠钱不还，而是"以为能渡过难关"。
 
@@ -25,18 +25,18 @@ tags:
 
 5. **机会与大坑一体两面**：没赶上风口别焦虑，至少没踩坑。被碾为齑粉的人，和成功上位的人，往往是同一个人的不同阶段。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Sunk-Cost-Fallacy]] — 沉没成本谬误：最难执行的一句话
 - [[concepts/Desperate-Replenishment]] — 绝望式补仓：中登和老登的执念
 - [[concepts/Credit-Death-Spiral]] — 信用死亡螺旋：以贷养贷的恶性循环
 - [[concepts/Boredom-as-Blessing]] — 无聊是福：无债一身轻
 
-## Connections
+## 关联
 
 - 与 [[entities/Jiubian-Pro]] 直接关联
 - 与 [[concepts/Mean-Reversion]] 呼应：财富的重力
 
-## Source
+## 来源
 
 - (source: raw/articles/当老赖是一种什么体验？.md)

@@ -12,7 +12,7 @@ tags:
   - 九边Pro
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **男性寿命劣势**：男性平均寿命显著低于女性，主因是雄激素（睾酮）的双刃剑效应——它增强体格但诱导冒险行为，叠加烟酒习惯。
 
@@ -24,17 +24,17 @@ tags:
 
 5. **七分力原则**：凡事不要太使劲，太使劲走不远且损耗太大。猝死的筛选机制在 45-60 岁最密集，熬过去反而可能长寿。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Death-Zone]] — 男性45-60岁高危死亡地带
 - [[concepts/Sleep-Debt]] — 睡眠债：健康最大的隐形杀手
 
-## Connections
+## 关联
 
 - 与 [[concepts/Hormesis]] 相关：锻炼是良性压力，但需充足恢复
 - 与 [[summaries/AI-Inequality-Article]] 形成对照：过度努力在 AI 时代可能适得其反
 
-## Source
+## 来源
 
 - 原文：九边Pro，今日头条，2026-03-31
 - (source: raw/articles/一个很多人没注意到的"死亡地带".md)

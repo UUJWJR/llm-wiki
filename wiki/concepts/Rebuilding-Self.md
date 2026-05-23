@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Rebuilding Self
+title: 重建自我 (Rebuilding Self)
 tags: [self-discovery, healing, female-awakening, backman]
 related: [List-Life, Being-Needed, Narrative-Healing]
 source_files:
@@ -11,11 +11,11 @@ last_updated: 2026-05-21
 confidence: high
 ---
 
-## Definition
+## 定义
 
 在废墟上重建自我：当原有的身份、关系和意义系统崩塌时，如何在废墟上建立新的自我。
 
-## Core Mechanism
+## 核心机制
 
 布里特-玛丽的重建过程：
 1. **崩塌**：丈夫出轨，婚姻破裂，63岁被迫离开熟悉的一切
@@ -25,19 +25,19 @@ confidence: high
 
 核心洞察：作者三年前翻了两页就放下，觉得主角太矫情。三年后重新翻开，意识到嘲笑的不是布里特-玛丽，而是自己。
 
-## Applications and Use Cases
+## 应用与用例
 
 - **中年转型**：在职业、婚姻或健康危机后重建自我
 - **女性成长**：从"妻子""母亲"的角色中解放出来，找到"自己"
 - **创伤恢复**：通过新的连接和选择重建身份
 
-## Relationship to Other Concepts
+## 与其他概念的关系
 
 - 与 [[concepts/List-Life]] 直接关联：清单崩塌是重建的前提
 - 与 [[concepts/Being-Needed]] 呼应：被需要是重建的连接点
 - 与 [[concepts/Narrative-Healing]] 呼应：通过新的叙事重建自我
 
-## Source Citations
+## 来源引用
 
 - (source: raw/my-notes/book-guide/20260520-《清单人生》衍生性拆书指南.md)
 - (source: raw/my-notes/book-review/20260520-《清单人生》：当我放下清单，人生才真正开始.md)

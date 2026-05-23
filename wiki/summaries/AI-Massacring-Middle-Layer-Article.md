@@ -13,7 +13,7 @@ tags:
   - 九边Pro
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **标准化中间层被大规模屠杀**：AI 正在席卷所有"标准化"程度高的行业——软件、会计、法律等。过去中产阶级崛起靠的"标准化教育"和"标准化技能"，现在这些岗位都受到明显挑战。
 
@@ -30,20 +30,20 @@ tags:
 
 5. **活人味是算法时代最重要的东西**：人会犯错、有偏见、有情绪——这些看似缺陷，其实是优点。用 AI 太多、太过仰视 AI，正在把自己活成 AI，而算法时代最重要的东西就是"活人味"。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/AI-Middle-Layer-Massacre]] — AI对标准化中间层的大规模替代
 - [[concepts/Taste-as-Moat]] — 品味作为护城河
 - [[concepts/Human-Flavor]] — 活人味：算法时代最稀缺的特质
 - [[concepts/Non-Standardization-Survival]] — 非标化生存：AI无法替代的领域
 
-## Connections
+## 关联
 
 - 与 [[concepts/AI-Leverage-Inequality]] 直接呼应：AI 不是平等赋权，而是放大原有差异
 - 与 [[summaries/AI-Inequality-Article]] 形成系列：同一主题的不同角度
 - 与 [[concepts/Agent-Cluster-Learning]] 关联：AI 时代的学习方式变革
 
-## Source
+## 来源
 
 - 原文：九边Pro，今日头条，2026-03-20
 - (source: raw/articles/AI正在屠杀中间层.md)

@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Education as Perspective
+title: 教育作为视角 (Education as Perspective)
 tags: [education, cognition, critical-thinking, self-discovery, epistemology]
 related:
   - entities/Tara-Westover

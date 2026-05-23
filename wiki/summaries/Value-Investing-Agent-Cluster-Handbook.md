@@ -13,7 +13,7 @@ tags:
   - 芒格
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **Agent集群学习法**：用 1 个主控Agent + 4 个子Agent（财报解剖师、案例图书馆、心性训练师、书单管理员）组成投资教练团队，12 周内建立独立分析能力。
 
@@ -29,19 +29,19 @@ tags:
 
 5. **周日跨Agent复盘**：整合所有子Agent输出，生成周学习报告，调整下周计划。建立"错题本"，每3天自动复习。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Agent-Cluster-Learning]] — Agent集群学习法
 - [[concepts/Value-Investing-Framework]] — 价值投资四原则框架
 - [[concepts/Investment-Discipline-Handbook]] — 个人投资纪律手册
 
-## Connections
+## 关联
 
 - 与 [[concepts/Margin-of-Safety]] 直接关联
 - 与 [[concepts/Mr-Market]] 直接关联
 - 与 [[entities/Benjamin-Graham]]、[[entities/Charlie-Munger]] 关联
 - 与 [[summaries/Intelligent-Investor-Book-Guide]] 呼应：手册是《聪明的投资者》的AI化实践
 
-## Source
+## 来源
 
 - (source: raw/papers/价值投资Agent集群实操学习手册.md)

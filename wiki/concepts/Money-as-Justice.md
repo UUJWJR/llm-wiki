@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Money as Justice
+title: 金钱即正义 (Money as Justice)
 aliases: [金钱即正义]
 tags: [economics, morality, society, yu-hua]
 related: [concepts/Violence-as-Justice, concepts/Body-Commodification]

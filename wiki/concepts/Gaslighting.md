@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Gaslighting
+title: 煤气灯操纵 (Gaslighting)
 tags: [psychology, abuse, manipulation, relationships, mental-health]
 related:
   - entities/Tara-Westover

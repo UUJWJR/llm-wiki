@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Existentialism
+title: 存在主义 (Existentialism)
 tags: [philosophy, meaning, freedom, choice, sartre, camus, heidegger]
 related:
   - entities/Albert-Camus

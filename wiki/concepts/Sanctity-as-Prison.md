@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Sanctity as Prison
+title: 圣洁作为枷锁 (Sanctity as Prison)
 aliases: [圣洁作为枷锁]
 tags: [psychology, religion, love, gide]
 related: [concepts/Narrow-Gate, concepts/Faith-as-Escape]

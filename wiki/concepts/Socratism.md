@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Socratism
+title: 苏格拉底主义 (Socratism)
 aliases: [苏格拉底主义]
 tags: [philosophy, rationality, culture, nietzsche]
 related: [concepts/Apollonian-Dionysian, concepts/Tragic-Pleasure]

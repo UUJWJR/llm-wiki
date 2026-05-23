@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Apollonian and Dionysian
+title: 日神与酒神 (Apollonian and Dionysian)
 aliases: [日神与酒神, Apollo-Dionysus]
 tags: [philosophy, aesthetics, music, nietzsche]
 related: [concepts/Socratism, concepts/Tragic-Pleasure, concepts/Myth-as-Necessity]

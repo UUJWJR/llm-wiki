@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Inferiority Complex (自卑情结)
+title: 自卑情结 (Inferiority Complex)
 tags:
   - psychology
   - adler
@@ -18,11 +18,11 @@ last_updated: 2026-05-18
 confidence: high
 ---
 
-## Definition
+## 定义
 
 自卑情结（Inferiority Complex）是阿德勒个体心理学的核心概念，指**当自卑感积累到无法通过正常途径克服时，人发展出的病态心理结构**。核心特征是一个人不再把自卑感当作成长的信号，而是当作自我否定的证据。
 
-## Core Mechanism
+## 核心机制
 
 自卑感 vs 自卑情结：
 - **自卑感**："我觉得我还不够好，所以我想努力"——引擎
@@ -34,20 +34,20 @@ confidence: high
 - **攻击性**："我先攻击你，你就不会攻击我"
 - **虚荣**："我用外表/成就/地位来证明自己"
 
-## Applications
+## 应用
 
 - **自我觉察**：识别生活中"自卑情结信号"——过度敏感、完美主义、贬低他人、讨好
 - **叙事重构**："我就是"→"我习惯了"→"我曾经选择……现在我可以选择……"
 - **社会兴趣培养**：从"我够不够好"转向"我能做点什么"
 - **心理咨询**：阿德勒疗法的核心干预目标
 
-## Relationship to Other Concepts
+## 与其他概念的关系
 
 - [[concepts/Inferiority-Feeling]] — 自卑情结的前身，正常的成长驱动力
 - [[concepts/Social-Interest]] — 超越自卑情结的唯一途径
 - [[concepts/Creative-Self]] — 人不是过去的产物，是未来的创造者
 
-## Source Citations
+## 来源引用
 
 - (source: raw/my-notes/book-guide/20260518-《自卑与超越》衍生性拆书指南.md)
 - (source: raw/my-notes/book-review/20260518-《自卑与超越》：自卑不是缺陷，是你还没找到发动机.md)

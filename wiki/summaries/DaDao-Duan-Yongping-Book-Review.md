@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 - **段永平是谁**：小霸王、步步高创始人，OPPO/vivo背后的"教父"，网易股价跌破1美元时重仓买入获利百倍的人——但头衔不重要，重要的是他守住了"本分"。
 
@@ -25,7 +25,7 @@ tags:
 
 - **段永平没说出口的那句话**："我不是在投资。我是在活着。"本分地活着，平常心地活着，守住边界，边界之内是自由的。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Benfen]] — 本分：老老实实做该做的事
 - [[concepts/Ordinary-Mind]] — 平常心：控制情绪的能力
@@ -33,12 +33,12 @@ tags:
 - [[concepts/Dont-Invest-What-You-Dont-Understand]] — 不懂不做：投资的第一原则
 - [[concepts/Margin-of-Safety]] — 安全边际：如果你需要算得很精确才能买，那说明你不该买
 
-## Connections
+## 关联
 
 - 与 [[summaries/DaDao-Duan-Yongping-Book-Guide]] 配套阅读
 - 与 [[summaries/Intelligent-Investor-Book-Review]] 呼应：巴菲特的投资原则
 - 与 [[concepts/Mean-Reversion]] 呼应：好企业最终会体现价值
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260523-《大道：段永平投资问答录》读后感.md)

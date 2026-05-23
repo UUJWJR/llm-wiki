@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Zettelkasten (卡片盒笔记法)
+title: 卡片盒笔记法 (Zettelkasten)
 aliases: [卡片盒笔记法,  slip-box]
 tags: [knowledge-management, note-taking, thinking]
 related:

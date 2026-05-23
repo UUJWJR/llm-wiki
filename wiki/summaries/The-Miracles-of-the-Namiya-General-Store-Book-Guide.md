@@ -13,7 +13,7 @@ tags:
   - healing
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **双线叙事**：主线A（2012年，三个小偷的逃亡之夜）+ 主线B（1980年代，五个咨询者的故事）。
 
@@ -23,16 +23,16 @@ tags:
 
 4. **月兔的选择**：奥运击剑选手面临选择——放弃训练陪伴绝症男友，还是继续备战奥运？
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Time-Travel-Narrative]] — 时间旅行叙事
 - [[concepts/Destiny-vs-Choice]] — 命运与选择
 - [[concepts/Answer-Within]] — 答案在心里
 
-## Connections
+## 关联
 
 - 与 [[entities/Keigo-Higashino]] 直接关联
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260520-《解忧杂货店》衍生性拆书指南.md)

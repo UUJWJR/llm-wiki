@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Decisive Moment
+title: 决定性瞬间 (Decisive Moment)
 aliases: [决定性瞬间, Sternstunden]
 tags: [history, fate, decision-making, zweig]
 related: [concepts/Single-Point-of-Failure, concepts/Dignity-of-Failure]

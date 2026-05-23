@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Cyclical Time
+title: 循环时间 (Cyclical Time)
 tags: [time, philosophy, narrative-structure, fate, psychology]
 related:
   - entities/Gabriel-Garcia-Marquez

@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Solitude
+title: 孤独 (Solitude)
 tags: [emotion, psychology, philosophy, literature, connection]
 related:
   - entities/Gabriel-Garcia-Marquez

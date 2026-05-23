@@ -13,7 +13,7 @@ tags:
   - rationalism
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **自由意志高于利益**：人不是按照"利益最大化"原则行动的动物，人是按照"自由意志"原则行动的存在。即便明知某种选择对自己有害，人也会选择它。
 
@@ -25,17 +25,17 @@ tags:
 
 4. **存在主义先驱**：不是讲述一个故事，而是展示一种意识状态——一个过度自觉、自我分裂、用理性折磨自己的人。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Free-Will-vs-Interest]] — 自由意志高于利益
 - [[concepts/Anti-Rationalism]] — 反理性主义：人不是钢琴键
 - [[concepts/Self-Destruction-as-Dignity]] — 自毁作为尊严
 
-## Connections
+## 关联
 
 - 与 [[entities/Fyodor-Dostoevsky]] 直接关联
 - 与 [[concepts/Existentialism]] 呼应
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260518-《地下室手记》衍生性拆书指南.md)

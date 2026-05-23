@@ -13,7 +13,7 @@ tags:
   - fable
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **三个问题**：菜单上除了食物，还有三个问题——你为什么来这里？你害怕死亡吗？你满足吗？
 
@@ -23,16 +23,16 @@ tags:
 
 4. **不是励志书，是照妖镜**：照出的不是你"想要什么"，而是你"为什么不敢要"。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Purpose-For-Existing]] — 存在的意义（PFE）
 - [[concepts/Green-Sea-Turtle]] — 绿海龟：不与海浪抗争，而是利用它
 - [[concepts/Fear-of-Death-as-Mirror]] — 对死亡的恐惧作为人生镜子
 
-## Connections
+## 关联
 
 - 与 [[entities/John-Strelecky]] 直接关联
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260520-《世界尽头的咖啡馆》衍生性拆书指南.md)

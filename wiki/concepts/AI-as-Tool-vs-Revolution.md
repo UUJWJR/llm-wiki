@@ -1,6 +1,6 @@
 ---
 type: concept
-title: AI as Tool vs Revolution
+title: AI 作为工具 vs 革命 (AI as Tool vs Revolution)
 tags: [ai, philosophy, business, geopolitics]
 related:
   - entities/Nvidia

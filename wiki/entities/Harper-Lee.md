@@ -10,21 +10,21 @@ source_files:
 last_updated: 2026-05-21
 ---
 
-## Brief Introduction
+## 简介
 
 哈珀·李（Harper Lee，1926–2016），美国作家，以《杀死一只知更鸟》（1960年）闻名。该书获得普利策奖，成为美国文学经典，被翻译成40多种语言。
 
-## Core Function or Role
+## 核心职能/角色
 
 《杀死一只知更鸟》通过孩童之眼审视种族偏见，展示了共情作为道德基础、道德勇气作为个人选择的力量。
 
-## Positioning in the Domain
+## 领域定位
 
 - 美国文学经典作家
 - 《杀死一只知更鸟》是美国学校最常教授的文学作品之一
 - 以安静、深刻的叙事风格著称
 
-## Relationships
+## 关系
 
 - [[concepts/Empathy-as-Moral-Foundation]] — 共情作为道德基础
 - [[concepts/Moral-Courage]] — 道德勇气

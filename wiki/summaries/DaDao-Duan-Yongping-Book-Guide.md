@@ -13,7 +13,7 @@ tags:
   - investment-philosophy
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **三次"本分"的回归**：段永平的人生从商业天才到小霸王/步步高创始人，再到价值投资者，最后到"传道者"——每一次转型都是"本分"的深化。
 
@@ -25,7 +25,7 @@ tags:
 
 5. **投资的本质是认知的变现**："你赚不到认知以外的钱"——段永平买网易不是因为看好互联网，是因为看懂那款游戏能赚钱。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Benfen]] — 本分：不是道德高地，是能力边界
 - [[concepts/Ordinary-Mind]] — 平常心：回到事物本源的心态
@@ -34,7 +34,7 @@ tags:
 - [[concepts/Stop-Doing-List]] — 不为清单：主动划定边界
 - [[concepts/Margin-of-Safety]] — 安全边际：不仅是价格，还包括理解深度
 
-## Connections
+## 关联
 
 - 与 [[entities/Benjamin-Graham]] 的价值投资框架一脉相承
 - 与 [[concepts/Mr-Market]] 呼应：利用市场先生的情绪
@@ -42,6 +42,6 @@ tags:
 - 与 [[summaries/Intelligent-Investor-Book-Guide]] 配套阅读
 - 与 [[summaries/Security-Analysis-Book-Guide]] 呼应：安全边际的工程思维
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260523-《大道：段永平投资问答录》衍生性拆书指南.md)

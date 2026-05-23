@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **产品经理的共鸣**：用数据模型显示牺牲边缘用户体验可以让核心指标提升30%——用一道数学题决定一群人要不要被牺牲。
 
@@ -23,16 +23,16 @@ tags:
 
 4. **索尼娅的救赎**：一个被迫卖淫的基督徒，她的纯洁与牺牲构成了理论的终极反证。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Extraordinary-Man-Theory]] — 非凡人理论
 - [[concepts/Moral-Transgression]] — 道德越界
 
-## Connections
+## 关联
 
 - 与 [[entities/Fyodor-Dostoevsky]] 直接关联
 - 与 [[summaries/Crime-and-Punishment-Book-Guide]] 形成「指南+书评」组合
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260520-《罪与罚》：他用一道数学题算出了自己必须杀人.md)

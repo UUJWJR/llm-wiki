@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **品牌策划朋友的共鸣**：一个做品牌策划的朋友参加行业峰会，西装革履、名片交换、微信扫码，突然觉得特别恶心——这就是霍尔顿的"假模假式"在当代的延续。
 
@@ -23,16 +23,16 @@ tags:
 
 4. **麦田里的守望者**：霍尔顿想站在悬崖边，抓住那些跑向悬崖的孩子——这个意象成为青春文学最经典的隐喻之一。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Phoniness]] — 假模假式
 - [[concepts/Authenticity-vs-Maturity]] — 真诚与成熟的矛盾
 
-## Connections
+## 关联
 
 - 与 [[entities/JD-Salinger]] 直接关联
 - 与 [[summaries/Catcher-in-the-Rye-Book-Guide]] 形成「指南+书评」组合
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260518-《麦田里的守望者》：那个看什么都像假模假式的人，后来怎么样了.md)

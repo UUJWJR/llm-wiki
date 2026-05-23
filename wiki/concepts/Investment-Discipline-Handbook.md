@@ -1,6 +1,6 @@
 ---
 type: concept
-title: 个人投资纪律手册
+title: 个人投资纪律手册 (Investment Discipline Handbook)
 tags:
   - 投资
   - 纪律
@@ -13,11 +13,11 @@ last_updated: 2026-05-19
 confidence: high
 ---
 
-## Definition
+## 定义
 
 个人投资纪律手册是价值投资者的"宪法"，在第12周完成。它书面化你的能力圈、买入/持有/卖出标准、仓位管理规则和心智检查清单，所有投资决策必须经过它检验。
 
-## Core Structure
+## 核心结构
 
 | 章节 | 内容 |
 |------|------|
@@ -30,17 +30,17 @@ confidence: high
 | 第七章 | 极端场景应对方案（下跌30%/50%/70%） |
 | 第八章 | 错题本摘要（反复犯错的认知偏差） |
 
-## Key Principle
+## 关键原则
 
 > "投资很简单，但不容易。" —— 沃伦·巴菲特
 
 手册完成后建议打印并签字，在情绪最高点时选择打开检查清单而非交易软件。
 
-## Relationships
+## 与其他概念的关系
 
 - [[concepts/Value-Investing-Framework]] — 四原则框架
 - [[concepts/Loss-Aversion]] — 损失厌恶：心智检查清单要对抗的核心偏差
 
-## Source
+## 来源引用
 
 - (source: raw/papers/价值投资Agent集群实操学习手册.md)

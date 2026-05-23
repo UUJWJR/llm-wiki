@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Mr. Market (市场先生)
+title: 市场先生 (Mr. Market)
 tags:
   - investing
   - value-investing
@@ -20,11 +20,11 @@ last_updated: 2026-05-18
 confidence: high
 ---
 
-## Definition
+## 定义
 
 市场先生（Mr. Market）是格雷厄姆创造的投资寓言：一个患有严重躁郁症的生意伙伴，每天都会出现在你家门口，报出一个价格——要么买你手中的股票，要么卖给你他的股票。有时极度乐观报出天价，有时极度悲观报出地板价。
 
-## Core Mechanism
+## 核心机制
 
 **你的任务不是预测市场先生的情绪，而是利用他的情绪**——在他悲观时买入，在他乐观时卖出。
 
@@ -34,20 +34,20 @@ confidence: high
 - 市场先生的情绪是他的问题，不是你的
 - 投资成功80%取决于心理，20%取决于知识
 
-## Applications
+## 应用
 
 - **情绪管理**：将市场波动视为机会而非威胁
 - **逆向投资**：在恐慌中买入，在狂热中卖出
 - **纪律建设**：建立制度化规则，让纪律代替情绪做决策
 - **心理锚定**：当市场大跌时，问自己"市场先生今天是不是特别抑郁？"
 
-## Relationship to Other Concepts
+## 与其他概念的关系
 
 - [[concepts/Margin-of-Safety]] — 市场先生的极度悲观时，安全边际最大
 - [[concepts/Loss-Aversion]] — 行为经济学解释了为什么市场先生会"躁郁"
 - [[concepts/System1-System2]] — 追随市场先生是系统1，利用市场先生是系统2
 
-## Source Citations
+## 来源引用
 
 - (source: raw/my-notes/book-guide/20260518-《聪明的投资者》衍生性拆书指南.md)
 - (source: raw/my-notes/book-guide/20260518-《证券分析》衍生性拆书指南.md)

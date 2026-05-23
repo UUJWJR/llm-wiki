@@ -13,7 +13,7 @@ tags:
   - morality
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **双线叙事**：主线一（伊赫梅涅夫家的悲剧）+ 主线二（涅莉的故事），两个被贵族瓦尔科夫斯基公爵毁灭的家庭。
 
@@ -23,16 +23,16 @@ tags:
 
 4. **当理性成为最精致的恶**：公爵用法律条文摧毁了两个家庭，却从不觉得自己在作恶。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Legal-Violence]] — 法律暴力：用制度杀人
 - [[concepts/Class-Warfare]] — 阶级战争
 - [[concepts/Forgiveness-vs-Pride]] — 原谅与骄傲的冲突
 
-## Connections
+## 关联
 
 - 与 [[entities/Fyodor-Dostoevsky]] 直接关联
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260520-《被侮辱与被损害的人》衍生性拆书指南.md)

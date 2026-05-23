@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Golden Age Illusion
+title: 黄金年代幻觉 (Golden Age Illusion)
 aliases: [黄金年代的幻觉, Belle Époque]
 tags: [history, psychology, progress, zweig]
 related: [concepts/Betrayal-of-Reason, concepts/Forgetting-as-Complicity]

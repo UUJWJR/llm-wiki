@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **用法律杀人的公爵**：公爵没有拔刀放火，只是起诉了伊赫梅涅夫——指控他贪污。证据？不需要。公爵有的是钱请最好的律师。
 
@@ -23,16 +23,16 @@ tags:
 
 4. **当理性成为最精致的恶**：公爵用法律条文摧毁了两个家庭，却从不觉得自己在作恶。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Legal-Violence]] — 法律暴力
 - [[concepts/Class-Warfare]] — 阶级战争
 
-## Connections
+## 关联
 
 - 与 [[entities/Fyodor-Dostoevsky]] 直接关联
 - 与 [[summaries/The-Insulted-and-Humiliated-Book-Guide]] 形成「指南+书评」组合
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260520-《被侮辱与被损害的人》：当理性成为最精致的恶.md)

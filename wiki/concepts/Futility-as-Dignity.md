@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Futility as Dignity
+title: 徒劳作为尊严 (Futility as Dignity)
 aliases: [徒劳作为尊严]
 tags: [philosophy, meaning, japanese-culture, kawabata]
 related: [concepts/Mono-no-Aware, concepts/Absurdism]

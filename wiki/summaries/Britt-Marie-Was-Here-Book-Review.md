@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **把人生过成Excel的女人**：布里特-玛丽，63岁，人生信条是小苏打可以解决一切问题，清单可以解决一切混乱。
 
@@ -23,16 +23,16 @@ tags:
 
 4. **清单不再管用**：当清单不再管用，人生才真正开始。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/List-Life]] — 清单人生
 - [[concepts/Rebuilding-Self]] — 在废墟上重建自我
 
-## Connections
+## 关联
 
 - 与 [[entities/Fredrik-Backman]] 直接关联
 - 与 [[summaries/Britt-Marie-Was-Here-Book-Guide]] 形成「指南+书评」组合
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260520-《清单人生》：当我放下清单，人生才真正开始.md)

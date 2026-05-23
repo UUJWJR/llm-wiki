@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Mono no Aware
+title: 物哀 (Mono no Aware)
 aliases: [物哀]
 tags: [aesthetics, japanese-culture, impermanence, kawabata]
 related: [concepts/Yugen, concepts/Wabi-Sabi, concepts/Futility-as-Dignity]

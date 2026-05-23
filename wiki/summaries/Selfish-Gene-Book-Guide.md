@@ -15,7 +15,7 @@ tags:
   - ess
 ---
 
-## Key Takeaways
+## 核心要点
 
 - **基因中心主义**：自然选择的基本单位不是个体或物种，而是基因。生物个体只是基因的"生存机器"——可丢弃的载体。
 - **亲缘选择与汉密尔顿法则**：rB > C——当亲缘系数×受益>成本时，利他行为在演化上有利。解释了从蜜蜂自杀式防御到人类家族忠诚的所有"无私"行为。
@@ -24,7 +24,7 @@ tags:
 - **延伸的表型**：基因影响超越个体边界——海狸的坝、蜘蛛的网、人类的建筑都是"延伸的表型"。
 - **反叛基因的暴政**：人类可以利用理性超越基因本能——避孕、素食、帮助陌生人。理解基因的指令是反抗这些指令的第一步。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Gene-Centrism]] — 基因中心主义：自然选择的基本单位是基因
 - [[concepts/Survival-Machine]] — 生存机器：基因为复制自己建造的载体
@@ -37,11 +37,11 @@ tags:
 - [[concepts/Green-Beard-Effect]] — 绿胡子效应：基因识别同类的机制
 - [[concepts/Rebellion-Against-Genes]] — 反叛基因的暴政：用理性超越本能
 
-## Connections
+## 关联
 
 - 与 [[concepts/Thinking-Fast-and-Slow-Book-Guide]] 对话：系统1是基因的"快捷方式"，系统2是"反叛"的工具
 - 与 [[concepts/Narrative-Fallacy]] 呼应：迷因理论与叙事谬误的文化传播机制
 
-## Source
+## 来源
 
 - `raw/my-notes/book-guide/20260518-《自私的基因》衍生性拆书指南.md`

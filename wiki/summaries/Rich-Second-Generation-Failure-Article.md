@@ -13,7 +13,7 @@ tags:
   - 九边Pro
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **二代接手的常是延迟爆炸的负债**：很多富二代接手时，家里的赚钱模式已不行。1亿资产配8000万债务，资产崩一次就资不抵债。
 
@@ -25,19 +25,19 @@ tags:
 
 5. **均值回归是最硬的道理**：把时间拉长，一种类似"重力"的力量一直在拉扯远离基线的人。99%的公司在二十年内破产。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Mean-Reversion]] — 均值回归：财富的重力
 - [[concepts/Productive-Assets-Illusion]] — 生产资料幻觉：没有永久躺赢的资产
 - [[concepts/Second-Generation-Trap]] — 二代陷阱：接手的是帝国还是负债？
 
-## Connections
+## 关联
 
 - 与 [[concepts/AI-Leverage-Inequality]] 形成对照：AI 时代认知差距可能比经济差距更难弥合
 - 与 [[summaries/Death-Zone-Article]] 呼应：不同维度的"高危地带"
 - 与 [[entities/Jiubian-Pro]] 关联
 
-## Source
+## 来源
 
 - 原文：九边Pro，今日头条，2026-03-24
 - (source: raw/articles/富二代把自己弄死了.md)

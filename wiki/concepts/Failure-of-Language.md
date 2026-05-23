@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Failure of Language
+title: 语言的失效 (Failure of Language)
 aliases: [语言的失效]
 tags: [language, politics, philosophy, communication]
 related: [concepts/Betrayal-of-Reason, concepts/Forgetting-as-Complicity]

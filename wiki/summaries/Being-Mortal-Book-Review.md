@@ -14,7 +14,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **被治疗杀死的人**：晚期癌症老妇人，生命最后三个月五次ICU、三次插管、两次心肺复苏——不是被疾病杀死，是被"治疗"杀死。
 
@@ -24,16 +24,16 @@ tags:
 
 4. **善终服务**：将治疗目标从"延长生命"转向"提高生命质量"。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Medicalization-of-Death]] — 死亡的医疗化
 - [[concepts/Palliative-Care]] — 姑息治疗
 
-## Connections
+## 关联
 
 - 与 [[entities/Atul-Gawande]] 直接关联
 - 与 [[summaries/Being-Mortal-Book-Guide]] 形成「指南+书评」组合
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260520-《最好的告别》：当医学成为暴君，我们如何好好说再见.md)

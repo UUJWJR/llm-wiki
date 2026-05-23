@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Barbell Strategy (杠铃策略)
+title: 杠铃策略 (Barbell Strategy)
 tags:
   - investing
   - portfolio-strategy
@@ -16,11 +16,11 @@ last_updated: 2026-05-23
 confidence: high
 ---
 
-## Definition
+## 定义
 
 杠铃策略：不是"AI or 非AI"的二选一，而是"AI + 精选非AI"的两头下注配置。核心仓位持有AI龙头（技术革命主线），卫星仓位配置逆向非AI（对冲极端分化），现金仓位应对波动。
 
-## Core Mechanism
+## 核心机制
 
 **配置比例**：
 - 核心仓位 60%：AI龙头（NVIDIA, MSFT, GOOGL, AMZN, META）
@@ -32,18 +32,18 @@ confidence: high
 - 不All-in逆向（趋势对抗风险）
 - 两头下注，捕捉均值回归的同时不错过技术革命
 
-## Applications
+## 应用
 
 - **极端分化市场**：AI吸金效应下的最优配置
 - **不确定性环境**：高波动时期的稳健策略
 - **长期投资者**：兼顾成长与价值
 
-## Relationship to Other Concepts
+## 与其他概念的关系
 
 - [[concepts/AI-Money-Effect]] — AI吸金效应：杠铃策略是应对此现象的框架
 - [[concepts/Margin-of-Safety]] — 安全边际：现金仓位提供安全边际
 - [[concepts/Value-Trap]] — 价值陷阱：卫星仓位需精选，避免价值陷阱
 
-## Source Citations
+## 来源引用
 
 - (source: raw/invest/09-学习资料整理/AI吸金效应 vs 非AI逆向投资 — 深度分析报告.md)

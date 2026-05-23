@@ -16,11 +16,11 @@ last_updated: 2026-05-23
 confidence: high
 ---
 
-## Definition
+## 定义
 
 价值陷阱：股票下跌不是因为被错杀，而是因为基本面恶化。最大的认知陷阱是"AI无法替代 ≠ 值得投资"。
 
-## Core Mechanism
+## 核心机制
 
 **核心谬误**：
 - 一个行业AI无法替代，不代表它的基本面不会恶化
@@ -37,18 +37,18 @@ confidence: high
 - AI反而受益的非AI：电力、数据中心REITs、铜/锂等金属
 - 基本面稳健 + 估值合理 + 有明确催化剂
 
-## Applications
+## 应用
 
 - **逆向投资筛选**：严格筛选基本面，避免"便宜但烂"
 - **五维评分框架**：AI替代抗性 + 基本面健康度 + 估值吸引力 + 股息/现金流 + 催化剂
 - **区分周期性与结构性**：传统媒体、零售是结构性衰退，不是周期性下跌
 
-## Relationship to Other Concepts
+## 与其他概念的关系
 
 - [[concepts/AI-Money-Effect]] — AI吸金效应：非AI下跌可能创造价值陷阱
 - [[concepts/Barbell-Strategy]] — 杠铃策略：控制卫星仓位比例，避免单一行业风险
 - [[concepts/Mean-Reversion]] — 均值回归：不是所有下跌都会回归
 
-## Source Citations
+## 来源引用
 
 - (source: raw/invest/09-学习资料整理/AI吸金效应 vs 非AI逆向投资 — 深度分析报告.md)

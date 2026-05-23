@@ -10,11 +10,11 @@ source_files:
 last_updated: 2026-05-21
 ---
 
-## Brief Introduction
+## 简介
 
 阿图·葛文德（Atul Gawande），美国外科医生、作家，哈佛大学公共卫生学院教授。他以医学人文写作著称，代表作《最好的告别》探讨了衰老、死亡和医疗的边界。
 
-## Core Function or Role
+## 核心职能/角色
 
 《最好的告别》的核心追问：当医学可以无限延长生命，我们是否问过——延长的是生命，还是痛苦？
 
@@ -23,13 +23,13 @@ last_updated: 2026-05-21
 - 超过60%进入养老院的老人在一年内出现抑郁症状
 - 善终服务将治疗目标从"延长生命"转向"提高生命质量"
 
-## Positioning in the Domain
+## 领域定位
 
 - 医学人文写作的代表人物
 - 哈佛大学公共卫生学院教授
 - 麦克阿瑟"天才奖"得主
 
-## Relationships
+## 关系
 
 - [[concepts/Medicalization-of-Death]] — 死亡的医疗化
 - [[concepts/Palliative-Care]] — 姑息治疗/善终服务

@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Do Right Thing, Do Things Right (做对的事情，把事情做对)
+title: 做对的事情，把事情做对 (Do Right Thing, Do Things Right)
 tags:
   - investing
   - philosophy
@@ -17,13 +17,13 @@ last_updated: 2026-05-23
 confidence: high
 ---
 
-## Definition
+## 定义
 
 "做对的事情"是方向判断，"把事情做对"是执行能力。段永平强调："如果方向错了，执行力越强，死得越快。"
 
 很多人花99%的精力在"把事情做对"上，却只用1%的精力思考"做的事情对不对"。
 
-## Core Mechanism
+## 核心机制
 
 **顺序不可颠倒**：
 - 先判断方向是否正确（做对的事情）
@@ -35,18 +35,18 @@ confidence: high
 - 加班加点做出"看起来很好但用户不需要"的功能
 - 团队疲惫，士气低落，上线后没人用
 
-## Applications
+## 应用
 
 - **产品开发**：先验证需求，再开发功能
 - **投资决策**：先判断企业价值，再考虑买入时机
 - **职业规划**：先选对行业/方向，再提升技能
 - **组织管理**：拒绝"看起来很好但用户不需要"的项目
 
-## Relationship to Other Concepts
+## 与其他概念的关系
 
 - [[concepts/Benfen]] — 本分：做对的事情就是守住本分
 - [[concepts/Stop-Doing-List]] — 不为清单：明确什么是"不对的事情"
 
-## Source Citations
+## 来源引用
 
 - (source: raw/my-notes/book-guide/20260523-《大道：段永平投资问答录》衍生性拆书指南.md)

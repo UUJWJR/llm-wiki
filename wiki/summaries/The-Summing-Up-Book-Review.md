@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **毒舌的老朋友**：毛姆像聪明、刻薄但 ultimately 善良的老朋友聊天——不会因为托尔斯泰是"文学巨匠"就回避他的道德表演。
 
@@ -23,16 +23,16 @@ tags:
 
 4. **阅读的尊严**：培养阅读的习惯就是为你自己构建一座避难所——这里不供奉神像，只收留孤独灵魂。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Reading-as-Shelter]] — 阅读作为避难所
 - [[concepts/Writer-as-Human]] — 作家作为人
 
-## Connections
+## 关联
 
 - 与 [[entities/W-Somerset-Maugham]] 直接关联
 - 与 [[summaries/The-Summing-Up-Book-Guide]] 形成「指南+书评」组合
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260520-《阅读是一座随身携带的避难所》：在经典小说的八卦里，我找到了阅读的尊严.md)

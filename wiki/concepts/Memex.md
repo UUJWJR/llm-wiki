@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Memex
+title: Memex（联想记忆机）
 tags: [history, computing, knowledge-management, hypertext]
 related:
   - concepts/LLM-Wiki

@@ -13,7 +13,7 @@ tags:
   - authenticity
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **"反成长"小说**：不是讲述一个人如何成熟，而是展示一个人如何拒绝成熟；不是歌颂青春的美好，而是揭示青春的锋利与脆弱。
 
@@ -26,17 +26,17 @@ tags:
 
 4. **诅咒不是看透虚伪**：霍尔顿的诅咒不是他看透了虚伪，而是他还没有学会在不虚伪的世界里活下去。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Phoniness]] — 假模假式：对成人世界虚伪的批判
 - [[concepts/Authenticity-vs-Maturity]] — 真诚与成熟的矛盾
 - [[concepts/Alienation-of-Youth]] — 青年的疏离感
 
-## Connections
+## 关联
 
 - 与 [[entities/JD-Salinger]] 直接关联
 - 与 [[concepts/Coming-of-Age]] 呼应
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260518-《麦田里的守望者》衍生性拆书指南.md)

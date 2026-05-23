@@ -13,11 +13,11 @@ last_updated: 2026-05-19
 confidence: high
 ---
 
-## Definition
+## 定义
 
 价值投资四原则框架是贯穿整个Agent集群学习体系的共享心智模型，源自巴菲特、芒格和段永平的投资哲学。每位Agent在做任何判断时都必须回到这四条原则。
 
-## The Four Principles
+## 四大原则
 
 ### 原则一：不懂不投（能力圈）
 
@@ -43,13 +43,13 @@ confidence: high
 
 类比：特斯拉造电动车没有问"别的车企怎么做"，而是回到"电池的单位成本怎么降"。
 
-## Relationships
+## 与其他概念的关系
 
 - [[concepts/Margin-of-Safety]] — 安全边际的深入概念页
 - [[concepts/Mr-Market]] — 市场先生寓言
 - [[entities/Benjamin-Graham]] — 价值投资之父
 - [[entities/Charlie-Munger]] — 多元思维模型提出者
 
-## Source
+## 来源引用
 
 - (source: raw/papers/价值投资Agent集群实操学习手册.md)

@@ -12,7 +12,7 @@ tags:
   - 九边Pro
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **快递分拣的残酷现实**：24 小时连轴转，夜间为主；极度嘈杂、刺鼻；装卸是"入门岗"和"淘汰岗"，女人当男人用，男人当叉车用。
 
@@ -24,17 +24,17 @@ tags:
 
 5. **看见即意义**：知道效率与低价背后是什么，才能接受"快递慢一点、单价高一点"。那些人可能是另一个位面的自己。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Gig-Economy-Filter]] — 零工经济的筛选机制
 - [[concepts/Invisible-Labor]] — 隐形劳动：现代社会的基础设施
 
-## Connections
+## 关联
 
 - 与 [[concepts/Fifth-Consumption-Era]] 形成对照：消费便利的代价是劳动者的隐形付出
 - 与 [[summaries/Parents-Anxiety-Article]] 呼应：不同阶层的人在完全不同的世界里生存
 
-## Source
+## 来源
 
 - 原文：九边Pro，今日头条，2026-03-17
 - (source: raw/articles/见识了"最苦工作"，我确实被干沉默了.md)

@@ -10,21 +10,21 @@ source_files:
 last_updated: 2026-05-21
 ---
 
-## Brief Introduction
+## 简介
 
 J.D. 塞林格（J.D. Salinger，1919–2010），美国作家，以《麦田里的守望者》（1951年）闻名。该书成为青春文学的经典，影响了无数青少年和成年人。
 
-## Core Function or Role
+## 核心职能/角色
 
 《麦田里的守望者》是"反成长"小说——不是讲述一个人如何成熟，而是展示一个人如何拒绝成熟；不是歌颂青春的美好，而是揭示青春的锋利与脆弱。
 
-## Positioning in the Domain
+## 领域定位
 
 - 美国青春文学的经典作家
 - 《麦田里的守望者》是20世纪最有影响力的美国小说之一
 - 以霍尔顿的"假模假式"批判成为青春叛逆的象征
 
-## Relationships
+## 关系
 
 - [[concepts/Phoniness]] — 假模假式
 - [[concepts/Authenticity-vs-Maturity]] — 真诚与成熟的矛盾

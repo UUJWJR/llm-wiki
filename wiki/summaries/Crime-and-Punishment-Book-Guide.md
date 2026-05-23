@@ -13,7 +13,7 @@ tags:
   - rationalism
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **不是侦探小说，是灵魂解剖书**：关于"人是否有权跨越道德界限"的哲学追问。
 
@@ -23,16 +23,16 @@ tags:
 
 4. **索尼娅的救赎**：一个为了家庭被迫卖淫的基督徒，她的纯洁与牺牲构成了拉斯柯尔尼科夫理论的终极反证。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Extraordinary-Man-Theory]] — 非凡人理论
 - [[concepts/Moral-Transgression]] — 道德越界
 - [[concepts/Redemption-Through-Suffering]] — 通过苦难救赎
 
-## Connections
+## 关联
 
 - 与 [[entities/Fyodor-Dostoevsky]] 直接关联
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260520-《罪与罚》衍生性拆书指南.md)

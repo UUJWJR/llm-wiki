@@ -13,7 +13,7 @@ tags:
   - russian-literature
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **圣愚形象**：梅什金公爵从瑞士疗养院返回彼得堡，以天真直率的言行震惊四座——他毫不掩饰自己的贫穷、疾病和"白痴"身份。
 
@@ -23,17 +23,17 @@ tags:
 
 4. **绝对善良如何成为毁灭**：一个绝对善良的人，如何在充满算计与欲望的世界里，反而成为最大的"白痴"？
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Holy-Fool]] — 圣愚：天真作为力量
 - [[concepts/Innocence-vs-Corruption]] — 纯真与腐化的对抗
 - [[concepts/Self-Destructive-Love]] — 自毁式爱情
 
-## Connections
+## 关联
 
 - 与 [[entities/Fyodor-Dostoevsky]] 直接关联
 - 与 [[summaries/Notes-from-Underground-Book-Guide]] 呼应：陀思妥耶夫斯基的另一杰作
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-guide/20260520-《白痴》衍生性拆书指南.md)

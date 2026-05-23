@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Wabi-Sabi
+title: 侘寂 (Wabi-Sabi)
 aliases: [侘寂]
 tags: [aesthetics, japanese-culture, imperfection, kawabata]
 related: [concepts/Mono-no-Aware, concepts/Yugen]

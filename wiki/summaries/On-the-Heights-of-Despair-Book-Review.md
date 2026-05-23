@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **22岁的尖叫**：齐奥朗写这本书时22岁，正在经历严重失眠。他说："那些夜晚，我躺在床上，听着自己的心跳，感到一种无法言喻的恐惧。不是对死亡的恐惧，而是对'存在'本身的恐惧。"
 
@@ -23,16 +23,16 @@ tags:
 
 4. **思想碎片的力量**：不是系统的哲学论著，而是失眠夜晚的"思想碎片"——短则一两行，长则一两页。这种形式本身就是对"意义"的拒绝。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Despair-as-Starting-Point]] — 绝望作为起点
 - [[concepts/Absurdity-of-Existence]] — 存在的荒谬性
 
-## Connections
+## 关联
 
 - 与 [[entities/Emil-Cioran]] 直接关联
 - 与 [[summaries/On-the-Heights-of-Despair-Book-Guide]] 形成「指南+书评」组合
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260518-《在绝望之巅》：在绝望之巅，你看到的不是深渊.md)

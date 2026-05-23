@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Tragic Pleasure
+title: 悲剧快感 (Tragic Pleasure)
 aliases: [悲剧快感]
 tags: [aesthetics, psychology, nietzsche]
 related: [concepts/Apollonian-Dionysian, concepts/Socratism]

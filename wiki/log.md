@@ -9,6 +9,11 @@
 - Created concepts: [[concepts/LLM-Wiki]], [[concepts/RAG]], [[concepts/Zettelkasten]], [[concepts/Hormesis]], [[concepts/Memex]], [[concepts/Idea-File]]
 - Created entities: [[entities/Andrej-Karpathy]], [[entities/Obsidian]], [[entities/NotebookLM]]
 
+## [2026-05-23] lint | 翻译 concepts N-Z 英文标题为中文 | 45 pages affected
+- Translated section headers (Definition, Core Mechanism, Applications, etc.) to Chinese
+- Updated title fields in YAML frontmatter: English titles translated to Chinese with English preserved in parentheses
+- Files updated include: Narrative-Healing, Narrow-Gate, Nihilism-as-Freedom, Non-Standardization-Survival, Obsession-vs-Love, Ordinary-Mind, Palliative-Care, Phoniness, Painted-Veil, PPT-Design-System, PPT-WeekReview-DNA, Productive-Assets-Illusion, Psychological-Account, Purpose-For-Existing, Quality-of-Life-vs-Quantity, Racial-Injustice, Reading-as-Shelter, Rebuilding-Self, Redemption-Through-Suffering, Sanctity-as-Prison, Self-Destructive-Love, Self-Destruction-as-Dignity, Self-Efficacy, Semantic-Color, Single-Point-of-Failure, Singularity, Sleep-Debt, Socratism, Solitude, Stop-Doing-List, Story-as-Survival, Taste-as-Moat, Telecom-Operations-Metrics, Time-Travel-Narrative, Trauma-and-Body, Tragic-Pleasure, Value-Investing-Framework, Value-Trap, Violence-as-Justice, Wabi-Sabi, World-Citizen, Writer-as-Human, Yugen, Zettelkasten
+
 ## [2026-05-18] ingest | 11 book guides + 10 book reviews | 42 pages affected
 - Created summaries: [[summaries/Singularity-Is-Nearer-Book-Guide]], [[summaries/Flow-Book-Guide]], [[summaries/Thinking-Fast-and-Slow-Book-Guide]], [[summaries/Poor-Charlies-Almanack-Book-Guide]], [[summaries/Fifth-Consumption-Era-Book-Guide]], [[summaries/Intelligent-Investor-Book-Guide]], [[summaries/What-Life-Could-Mean-to-You-Book-Guide]], [[summaries/Selfish-Gene-Book-Guide]], [[summaries/Security-Analysis-Book-Guide]], [[summaries/Kite-Runner-Book-Guide]], [[summaries/Painted-Veil-Book-Guide]], [[summaries/Fifth-Consumption-Era-Book-Review]], [[summaries/What-Life-Could-Mean-to-You-Book-Review]], [[summaries/Singularity-Is-Nearer-Book-Review]], [[summaries/Flow-Book-Review]], [[summaries/Kite-Runner-Book-Review]], [[summaries/Painted-Veil-Book-Review]], [[summaries/Poor-Charlies-Almanack-Book-Review]], [[summaries/Thinking-Fast-and-Slow-Book-Review]], [[summaries/Security-Analysis-Book-Review]], [[summaries/Intelligent-Investor-Book-Review]]
 - Created concepts: [[concepts/Flow]], [[concepts/Margin-of-Safety]], [[concepts/Mr-Market]], [[concepts/Loss-Aversion]], [[concepts/Singularity]], [[concepts/Inferiority-Complex]], [[concepts/Gene-Centrism]], [[concepts/Latticework-of-Mental-Models]], [[concepts/Betrayal]], [[concepts/Painted-Veil]]
@@ -114,3 +119,9 @@
 - Created entities: [[entities/Emil-Cioran]], [[entities/Fyodor-Dostoevsky]], [[entities/Harper-Lee]], [[entities/JD-Salinger]], [[entities/John-Strelecky]], [[entities/Atul-Gawande]], [[entities/Fredrik-Backman]], [[entities/Keigo-Higashino]]
 - Updated entity: [[entities/Gabriel-Garcia-Marquez]]
 - Updated: [[INDEX.md]], [[log.md]]
+
+## [2026-05-23] lint | 批量翻译全站 wiki 内容为中文 | ~200 pages affected
+- 翻译范围：concepts/ (130 files), entities/ (~30 files), summaries/ (~80 files), INDEX.md, log.md
+- 翻译规则：YAML title 英文→中文（括号保留英文），章节标题英文→中文，专有名词和链接路径保留原样
+- 章节标题映射：Definition→定义, Core Mechanism→核心机制, Applications→应用, Relationship to Other Concepts→与其他概念的关系, Source Citations→来源引用, Key Takeaways→核心要点, Core Concepts→核心概念, Connections→关联连接, Brief Introduction→简介, Core Function→核心职能, Positioning→领域定位
+- 后续生成内容默认使用中文（专有名词和括号内英文除外）

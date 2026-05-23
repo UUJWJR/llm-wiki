@@ -13,7 +13,7 @@ tags:
   - essay
 ---
 
-## Key Takeaways
+## 核心要点
 
 1. **梅科姆镇的夏天**：通过斯库特·芬奇的第一人称回忆，展示1933-1935年美国南部的种族偏见、正义与道德勇气。
 
@@ -23,16 +23,16 @@ tags:
 
 4. **怪人拉德利的隐喻**：拉德利家的房子成为童年冒险的中心，最终揭示"怪人"并非怪物，而是被误解的善良者。
 
-## Core Concepts
+## 核心概念
 
 - [[concepts/Empathy-as-Moral-Foundation]] — 共情作为道德基础
 - [[concepts/Moral-Courage]] — 道德勇气
 
-## Connections
+## 关联
 
 - 与 [[entities/Harper-Lee]] 直接关联
 - 与 [[summaries/To-Kill-a-Mockingbird-Book-Guide]] 形成「指南+书评」组合
 
-## Source
+## 来源
 
 - (source: raw/my-notes/book-review/20260518-《杀死一只知更鸟》：站在门廊上——明知会输，仍然去做.md)

@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Data-Ink Ratio
+title: 数据墨水比 (Data-Ink Ratio)
 tags: [data-visualization, design, information-design, tufte]
 related:
   - concepts/PPT-Design-System

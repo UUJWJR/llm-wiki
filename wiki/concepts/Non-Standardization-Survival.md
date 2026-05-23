@@ -13,7 +13,7 @@ last_updated: 2026-05-19
 confidence: high
 ---
 
-## Definition
+## 定义
 
 非标化生存是指在 AI 大规模替代标准化工作的背景下，人类转向提供"非标准化"、个性化、情绪化服务的生存策略。AI 毁得了围棋象棋，但毁不了足球篮球——因为后者看的就是人的"非标准化"。
 
@@ -27,7 +27,7 @@ confidence: high
 | 非标工作者 | 提供情绪价值、个体化服务 | 陪领导聊天的人、陪孩子玩的人 |
 | 其他人 | 被技术浪潮暂时抛下的普通人 | 沉默大多数 |
 
-## Key Insight
+## 核心洞察
 
 > "一线城市真正的奢侈品是'人'。给领导整理数据做 PPT 那个人会下岗，但听领导扯淡给领导提供情绪价值的人不会。"
 
@@ -38,12 +38,12 @@ confidence: high
 2. **中期重构**：新职业涌现（100 年前没有"程序员"）
 3. **长期解放**：生产力提升，基本生存成本下降
 
-## Relationships
+## 与其他概念的关系
 
 - [[concepts/AI-Middle-Layer-Massacre]] — AI 对中间层的替代
 - [[concepts/Taste-as-Moat]] — 品味作为护城河
 - [[concepts/Human-Flavor]] — 活人味
 
-## Source
+## 来源引用
 
 - (source: raw/articles/AI正在屠杀中间层.md)

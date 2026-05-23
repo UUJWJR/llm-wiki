@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Yugen
+title: 幽玄 (Yugen)
 aliases: [幽玄]
 tags: [aesthetics, japanese-culture, mystery, kawabata]
 related: [concepts/Mono-no-Aware, concepts/Wabi-Sabi]

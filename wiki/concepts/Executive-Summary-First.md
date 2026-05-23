@@ -1,6 +1,6 @@
 ---
 type: concept
-title: Executive Summary First
+title: 结论前置 (Executive Summary First)
 aliases: [结论前置, 金字塔原理]
 tags: [communication, business-writing, data-visualization, presentation]
 related:
