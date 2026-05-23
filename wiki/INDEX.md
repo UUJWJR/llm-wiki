@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-last_updated: 2026-05-21
+last_updated: 2026-05-23
 ---
 
 > This index is auto-generated. Run `/index` to refresh.
@@ -116,6 +116,10 @@ last_updated: 2026-05-21
 | [[summaries/The-Miracles-of-the-Namiya-General-Store-Book-Review\|我向一个不存在的人，问了一个不敢问自己的问题——读东野圭吾《解忧杂货店》]] | `raw/my-notes/book-review/20260520-《解忧杂货店》：我向一个不存在的人问了一个不敢问自己的问题.md` | 2026-05-20 | book-review, higashino-keigo, time-travel, destiny, essay |
 | [[summaries/The-Summing-Up-Book-Review\|在经典小说的八卦里，我找到了阅读的尊严——重读毛姆《阅读是一座随身携带的避难所》]] | `raw/my-notes/book-review/20260520-《阅读是一座随身携带的避难所》：在经典小说的八卦里，我找到了阅读的尊严.md` | 2026-05-20 | book-review, maugham, reading, literary-criticism, essay |
 | [[summaries/Love-in-the-Time-of-Cholera-Book-Review\|他等了五十一年，但等的不是她——读马尔克斯《霍乱时期的爱情》]] | `raw/my-notes/book-review/20260520-《霍乱时期的爱情》：他等了五十一年但等的不是她.md` | 2026-05-20 | book-review, marquez, love, time, essay |
+| [[summaries/Being-a-Deadbeat-Experience-Article\|当老赖是一种什么体验？]] | `raw/articles/当老赖是一种什么体验？.md` | 2026-05-22 | article, debt, credit, social-observation, jiubian-pro |
+| [[summaries/DaDao-Duan-Yongping-Book-Guide\|《大道：段永平投资问答录》衍生性拆书指南]] | `raw/my-notes/book-guide/20260523-《大道：段永平投资问答录》衍生性拆书指南.md` | 2026-05-23 | book-guide, duan-yongping, value-investing, benfen, investment-philosophy |
+| [[summaries/DaDao-Duan-Yongping-Book-Review\|段永平没说出口的那句话——《大道：段永平投资问答录》读后感]] | `raw/my-notes/book-review/20260523-《大道：段永平投资问答录》读后感.md` | 2026-05-23 | book-review, duan-yongping, value-investing, benfen, essay |
+| [[summaries/AI-Money-Effect-Report\|AI吸金效应 vs 非AI逆向投资 — 深度分析报告]] | `raw/invest/09-学习资料整理/AI吸金效应 vs 非AI逆向投资 — 深度分析报告.md` | 2026-05-23 | report, ai, investment, value-investing, contrarian, portfolio-strategy |
 
 ---
 
@@ -248,6 +252,15 @@ last_updated: 2026-05-21
 | [[concepts/Love-vs-Time]] | 爱情对抗时间 | high |
 | [[concepts/Obsession-vs-Love]] | 执念与爱情的边界 | high |
 | [[concepts/Love-as-Anti-Nihilism]] | 爱情作为对抗虚无的武器 | high |
+| [[concepts/Benfen]] | 本分：不是道德高地，是能力边界 | high |
+| [[concepts/Ordinary-Mind]] | 平常心：回到事物本源的心态 | high |
+| [[concepts/Do-Right-Thing]] | 做对的事情，把事情做对——顺序不可颠倒 | high |
+| [[concepts/Dont-Invest-What-You-Dont-Understand]] | 不懂不做：投资的第一纪律 | high |
+| [[concepts/Stop-Doing-List]] | 不为清单：主动划定边界 | high |
+| [[concepts/AI-Money-Effect]] | AI吸金效应：资金极端分化的结构性现象 | high |
+| [[concepts/Barbell-Strategy]] | 杠铃策略：两头下注，不选边站 | high |
+| [[concepts/Value-Trap]] | 价值陷阱：下跌≠机会，基本面恶化是最大风险 | high |
+| [[concepts/Contrarian-Investing]] | 逆向投资：在恐慌中买入，但需精选标的 | high |
 
 ---
 
@@ -297,6 +310,7 @@ last_updated: 2026-05-21
 | [[entities/Atul-Gawande\|Atul Gawande (阿图·葛文德)]] | 美国外科医生、作家，《最好的告别》作者 |
 | [[entities/Fredrik-Backman\|Fredrik Backman (巴克曼)]] | 瑞典作家，《清单人生》作者 |
 | [[entities/Keigo-Higashino\|Keigo Higashino (东野圭吾)]] | 日本推理小说家，《解忧杂货店》作者 |
+| [[entities/Duan-Yongping\|Duan Yongping (段永平)]] | 小霸王/步步高创始人，OPPO/vivo教父，价值投资实践者 |
 
 ### Companies
 

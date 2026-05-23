@@ -101,6 +101,12 @@
 - Created entities: [[entities/Yann-Martel]], [[entities/Friedrich-Nietzsche]], [[entities/Andre-Gide]], [[entities/Kawabata-Yasunari]]
 - Updated: [[INDEX.md]]
 
+## [2026-05-23] ingest | 1 article + 2 book guides/reviews + 1 report | 17 pages affected
+- Created summaries: [[summaries/Being-a-Deadbeat-Experience-Article]], [[summaries/DaDao-Duan-Yongping-Book-Guide]], [[summaries/DaDao-Duan-Yongping-Book-Review]], [[summaries/AI-Money-Effect-Report]]
+- Created concepts: [[concepts/Benfen]], [[concepts/Ordinary-Mind]], [[concepts/Do-Right-Thing]], [[concepts/Dont-Invest-What-You-Dont-Understand]], [[concepts/Stop-Doing-List]], [[concepts/AI-Money-Effect]], [[concepts/Barbell-Strategy]], [[concepts/Value-Trap]], [[concepts/Contrarian-Investing]]
+- Created entity: [[entities/Duan-Yongping]]
+- Updated: [[INDEX.md]], [[log.md]]
+
 ## [2026-05-21] ingest | 13本文学拆书指南 + 13篇融合风格书评 | 104 pages affected
 - Created summaries (guides): [[summaries/On-the-Heights-of-Despair-Book-Guide]], [[summaries/Notes-from-Underground-Book-Guide]], [[summaries/To-Kill-a-Mockingbird-Book-Guide]], [[summaries/Catcher-in-the-Rye-Book-Guide]], [[summaries/The-Why-Cafe-Book-Guide]], [[summaries/Being-Mortal-Book-Guide]], [[summaries/Britt-Marie-Was-Here-Book-Guide]], [[summaries/The-Idiot-Book-Guide]], [[summaries/Crime-and-Punishment-Book-Guide]], [[summaries/The-Insulted-and-Humiliated-Book-Guide]], [[summaries/The-Miracles-of-the-Namiya-General-Store-Book-Guide]], [[summaries/The-Summing-Up-Book-Guide]], [[summaries/Love-in-the-Time-of-Cholera-Book-Guide]]
 - Created summaries (reviews): [[summaries/On-the-Heights-of-Despair-Book-Review]], [[summaries/Notes-from-Underground-Book-Review]], [[summaries/To-Kill-a-Mockingbird-Book-Review]], [[summaries/Catcher-in-the-Rye-Book-Review]], [[summaries/The-Why-Cafe-Book-Review]], [[summaries/Being-Mortal-Book-Review]], [[summaries/Britt-Marie-Was-Here-Book-Review]], [[summaries/The-Idiot-Book-Review]], [[summaries/Crime-and-Punishment-Book-Review]], [[summaries/The-Insulted-and-Humiliated-Book-Review]], [[summaries/The-Miracles-of-the-Namiya-General-Store-Book-Review]], [[summaries/The-Summing-Up-Book-Review]], [[summaries/Love-in-the-Time-of-Cholera-Book-Review]]
